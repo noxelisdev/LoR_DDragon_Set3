@@ -1,0 +1,5391 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03BW006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW006-full.png"
+      }
+    ],
+    "region": "빌지워터",
+    "regionRef": "Bilgewater",
+    "attack": 5,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link><br><link=card.create><style=AssociatedCard>물고기와의 동침</style></link> 1장을<br>생성합니다.",
+    "descriptionRaw": "라운드 시작: 손에 일회용물고기와의 동침 1장을생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "잭이 복싱 링에서 보낸 수년의 세월은<br>귀중한 교훈을 알려주었습니다.<br>피를 흘릴 수 있는 존재라면<br>누구든 두려움을 느낀다는 것을 배웠으며,<br>조용한 응시와 통제되지 않은 폭력의 힘을 배웠습니다.",
+    "artistName": "JiHun Lee",
+    "name": "승리자 잭",
+    "cardCode": "03BW006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI004-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "내 덱의 맨 위에 있는 카드 4장에서 추종자<br>하나를 선택합니다. 선택한 추종자를 뽑고<br>나머지 카드는 내 덱에 다시 섞어 넣으며,<br>손에 <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>하루살이</style></link> 복사본 1장을 생성합니다.",
+    "descriptionRaw": "내 덱의 맨 위에 있는 카드 4장에서 추종자하나를 선택합니다. 선택한 추종자를 뽑고나머지 카드는 내 덱에 다시 섞어 넣으며,손에 하루살이 복사본 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"저들을... 둘러싸라...\"<br>- 녹턴",
+    "artistName": "Kudos Productions",
+    "name": "그림자의 추적",
+    "cardCode": "03SI004",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT018-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "소환 시 카드 1장을 뽑습니다.",
+    "descriptionRaw": "소환 시 카드 1장을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"황량한 가지에서 나뭇잎이 자라날 때, 봄의 여인은 겨울의 주인에게 전령을 보내 계절의 변화를 알린다. 전령의 외침은 하늘의 별을 놀라게 하여 새로운 자리로 보내고,<br>그의 충직한 심장은 대지를 따뜻하게 한다.\" \n- 계절의 노래",
+    "artistName": "Kudos Productions",
+    "name": "전령자리",
+    "cardCode": "03MT018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT034-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 0,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"첫 번째 낮과 밤의 길이가 같아지는 날, 타곤 산의 사람들은<br>첫 휴전을 맺으려 하였다.<br>하지만 그들의 지도자들이 무기를 내렸을 때,<br>한 사람이 갑작스레 고통스러운 비명을 질렀다.<br>병사들은 창을 들었고 평화에 대한 생각은 전부 사라졌다.<br>그들은 진정한 배신자가 발치에 숨어있던<br>뱀이라는 사실을 미처 알지 못했다.<br>뱀은 그렇게 영원히 폭력의 시대를 상징하는 존재가 되었다.\"\n- 타곤 전설",
+    "artistName": "Kudos Productions",
+    "name": "뱀자리",
+    "cardCode": "03MT034",
+    "keywords": [
+      "도전자"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI012-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "이 라운드에 카드 내기 이외의 방법으로 소환된 모든 유닛을 <link=keyword.Obliterate><style=Keyword>소멸</style></link>시킵니다.",
+    "descriptionRaw": "이 라운드에 카드 내기 이외의 방법으로 소환된 모든 유닛을 소멸시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"물론 데마시아에도 죽음은 있다.<br>우리는 죽음이 사랑하는 이를 앗아가고<br>언젠간 우리를 찾아올 거란 사실을 안다.<br>하지만 이 군도에서는... 항상 죽음의 맛이 난다.<br>숨을 들이마시면 폐에서 죽음이 느껴진다.<br>귓가에 속삭이는 죽음의 소리가 들린다.<br>추상적인 개념이 아니다.<br>여기서 죽음은 나와 함께한다.<br>그리고 죽음이 우리 모두를 삼킬 것이다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "Kudos Productions",
+    "name": "허락되지 않은 길",
+    "cardCode": "03SI012",
+    "keywords": [
+      "신속"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "신속",
+    "spellSpeedRef": "Fast",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI014-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "내 덱과 손에 있는 모든 아군에게 +2|+2 및 <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>하루살이</style></link> 효과를 부여합니다.",
+    "descriptionRaw": "내 덱과 손에 있는 모든 아군에게 +2|+2 및 하루살이 효과를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"정신이든 육체든, 그림자 군도의 악몽이 결국 우리 모두를 파괴하고 광기가 영원히 우리를 지배하게 될까 두렵다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "Kudos Productions",
+    "name": "잠식하는 그림자",
+    "cardCode": "03SI014",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI007-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "이 라운드에 소환되는 다음 아군에게 +1|+0 및 <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>주문 방어막</style></link>을<br>일시 부여합니다.",
+    "descriptionRaw": "이 라운드에 소환되는 다음 아군에게 +1|+0 및 주문 방어막을일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"고래이빨 술집 밖으로 나가자마자 느낄 수 있을 거야.<br>목덜미에 느껴지는 빗방울처럼 가벼운 손끝을.<br>그것들은 네가 다가가도 꼼짝도 하지 않아.<br>검이나 횃불도, 아무것도 두려워하지 않지.<br>끔찍한 놈들이야.\"<br>- 고래이빨의 도둑",
+    "artistName": "Kudos Productions",
+    "name": "어둠의 장막",
+    "cardCode": "03SI007",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI013-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "<link=card.summon><style=AssociatedCard>안개악령</style></link> 하나를 소환합니다.",
+    "descriptionRaw": "안개악령 하나를 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "안개악령은 살아있는 자의 눈에 보이지 않는 차원을 통해 움직이고 경고도 없이 등장해 마주치는 모든 것들에게<br>고통을 안겨줍니다.",
+    "artistName": "Kudos Productions",
+    "name": "피어오른 안개",
+    "cardCode": "03SI013",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO017-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛으로부터<br>지원을 받는 아군에게 +2|+1을<br>일시 부여합니다.",
+    "descriptionRaw": "지원: 이 라운드에 이 유닛으로부터지원을 받는 아군에게 +2|+1을일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"픽스는 대단해. 작고 멋지고 든든하지.\n픽스가 가장 좋아하는 건 주머니쥐고,<br>그다음에 좋아하는 건...흐흐흐헤에헤흐에헤쥐야!\"<br>- 룰루",
+    "artistName": "Dao Le",
+    "name": "픽스!",
+    "cardCode": "03IO017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005T3-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "아무것이나 선택해 체력을 1 흡수합니다.<br>내 덱에 <link=card.level1><style=AssociatedCard>녹턴</style></link> 하나를 섞어 넣습니다.\r\n<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 손에 무작위 <link=keyword.Nightfall><style=Keyword>어스름</style></link> 카드 1장을 생성합니다.",
+    "descriptionRaw": "아무것이나 선택해 체력을 1 흡수합니다.내 덱에 녹턴 하나를 섞어 넣습니다.\r\n어스름: 손에 무작위 어스름 카드 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"하루가 지날수록 나의 영혼은 힘을 잃고<br>이곳을 찾으라 다독이던 활력을 빼앗기고 있다.<br>고래이빨 술집은 모든 의지를 잃어버린 것처럼 보이는<br>초췌한 자들로 가득하다.<br>이곳에 오래 머물면 나도 저런 모습이 될까 두렵다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "Kudos Productions",
+    "name": "녹턴의 말할 수 없는 공포",
+    "cardCode": "03SI005T3",
+    "keywords": [
+      "신속"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "신속",
+    "spellSpeedRef": "Fast",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT073T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "이 라운드에 다음으로 내는 <link=keyword.Nightfall><style=Keyword>어스름</style></link> 유닛의 비용이 1 감소합니다.",
+    "descriptionRaw": "이 라운드에 다음으로 내는 어스름 유닛의 비용이 1 감소합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "황혼꽃잎의 향기는 어느 것과도 비교할 수 없습니다.<br>달콤하고 낯선 찰나의 향기는 마치 달빛과도 같습니다.",
+    "artistName": "Kudos Productions",
+    "name": "황혼꽃잎 가루",
+    "cardCode": "03MT073T1",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI006-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>어스름</style></link>: 적 넥서스의 체력을 2 흡수합니다.",
+    "descriptionRaw": "어스름: 적 넥서스의 체력을 2 흡수합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "밤이 지날수록 여행자들은 더욱 지칩니다.<br>잠을 자도 쉴 수가 없고 꿈은 생생해집니다.<br>꿈은 휴식을 주는 대신 몸 깊숙한 곳에서부터<br>생명력을 빨아들입니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "파멸의 야수",
+    "cardCode": "03SI006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT083-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 8,
+    "health": 5,
+    "description": "소환 시 이 게임에서 내가 사용한<br>천상 카드 1장당 +1|+0을 얻습니다. <style=Variable></style>\r\n처음으로 사망하면 사망하는 대신<br>체력을 완전히 회복합니다.",
+    "descriptionRaw": "소환 시 이 게임에서 내가 사용한천상 카드 1장당 +1|+0을 얻습니다. \r\n처음으로 사망하면 사망하는 대신체력을 완전히 회복합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"불사조는 자신과 마찬가지로 불타는 듯한 황금빛 날개를 가진 어린 새를 만나기 전까지 아주 오랜 세월을 홀로 날아다녔다. 자신과 같은 존재를 만나본 적 없던 그녀는 기뻐했다.<br>하지만 세월이 지나 어린 새는 늙어 갔고 불꽃은 희미해졌다.<br>죽음이 뭔지 몰랐던 불사조는 슬퍼했다.<br>눈물을 흘리자 불꽃이 튀었고<br>한숨을 쉬자 몸에서 불길이 치솟았다.<br>결국 그녀는 새로운 몸으로 다시 태어났지만,<br>지식은 여전히 그녀를 짓눌렀다.\"<br>- 슈리마 전설",
+    "artistName": "Kudos Productions",
+    "name": "불사조자리",
+    "cardCode": "03MT083",
+    "keywords": [
+      "포착 불가",
+      "최후의 숨결"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT004-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "손에 든 카드 1장의 비용을 1 감소시킵니다.",
+    "descriptionRaw": "손에 든 카드 1장의 비용을 1 감소시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"모든 만월은 은빛으로 세상을 적시며<br>아직 가지 않은 길을 드러내고<br>아직 전해지지 않은 이야기를 들려준다.\"<br>- 루나리 여사제",
+    "artistName": "Kudos Productions",
+    "name": "서늘한 달빛",
+    "cardCode": "03MT004",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT037-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "소환 시 이 게임에서 내가 사용한<br>천상 카드 1장당 +1|+0을 얻습니다. <style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>공격</style></link>: 이 라운드에 다른 모든 아군에게 +2|+2 및 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를<br>일시 부여합니다.",
+    "descriptionRaw": "소환 시 이 게임에서 내가 사용한천상 카드 1장당 +1|+0을 얻습니다. \r\n공격: 이 라운드에 다른 모든 아군에게 +2|+2 및 압도 효과를일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "전설에 따르면 천계에서 가장 멀리 떨어진 곳에 숨어 있는 천벌자리가 별들의 힘을 부려 세상의 토대를 무너뜨릴<br>종말의 순간을 기다린다고 합니다.",
+    "artistName": "Kudos Productions",
+    "name": "천벌자리",
+    "cardCode": "03MT037",
+    "keywords": [
+      "도전자"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT060-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 7,
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 아군 넥서스의<br>체력을 3 회복시킵니다.<br>회복량만큼 피해를 입습니다.",
+    "descriptionRaw": "라운드 시작: 아군 넥서스의체력을 3 회복시킵니다.회복량만큼 피해를 입습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"나보다 타곤의 길을 잘 아는 사람은 없지.<br>그래서 내가, 음, 고집스러운 스텔라콘을 떠맡은 거야.<br>내가 돌봐 주니 녀석들은 운이 좋은 거지!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "든든한 수호자",
+    "cardCode": "03MT060",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT033-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 전장에 있는 아군 하나에게<br>+0|+4를 부여합니다.",
+    "descriptionRaw": "사용: 전장에 있는 아군 하나에게+0|+4를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"들어봐, 오수.<br>방금 들었어? 종소리야!<br>할아버지가 돌아오셨어!\"<br>- 별치기 일리",
+    "artistName": "Polar Engine",
+    "name": "루물 할아버지",
+    "cardCode": "03MT033",
+    "keywords": [
+      "압도",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03DE006-full.png"
+      }
+    ],
+    "region": "데마시아",
+    "regionRef": "Demacia",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "모든 생명체는 자신의 새끼를 격렬하게 지키지만, 드래곤처럼 잠재적인 위협을 훌륭하게 처리하는 존재는 얼마 없습니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "울부짖는 용",
+    "cardCode": "03DE006",
+    "keywords": [
+      "도전자",
+      "분노"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR007-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "소환 시 비용이 8 이상인 카드가<br><link=vocab.Behold><style=Vocab>등장</style></link>한 상태면 +3|+0을 얻습니다.",
+    "descriptionRaw": "소환 시 비용이 8 이상인 카드가등장한 상태면 +3|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "정찰병이 눈에 묻힌 낡은 천 조각 앞에 무릎을 꿇었습니다. 차가운 공기 속에는 사람의 땀 냄새와<br>연기 냄새가 남아 있었습니다.\n정찰병은 눈에서 천 조각을 꺼내 한쪽 끝을 보았고,<br>거기에는 궂은 하늘을 배경으로<br>흐릿해 보이는 부적이 매달려 있었습니다.<br>바로 아바로사인이었죠.",
+    "artistName": "Wild Blue Studio",
+    "name": "트롤 추적꾼",
+    "cardCode": "03FR007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO008T1-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "요정의 불빛이 번쩍하며 그를 바닥에 넘어뜨렸습니다!<br>희미한 요들의 웃음소리가 들렸고 아래를 내려다보자<br>털로 뒤덮인 팔과 앞발이 보였습니다...",
+    "artistName": "Dao Le",
+    "name": "다람쥐",
+    "cardCode": "03IO008T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT021-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 적 둘을 선택합니다.\r\n<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 선택한 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "사용: 적 둘을 선택합니다.\r\n라운드 시작: 선택한 적을 기절시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "이 존재를 목격한 여행자들은 너무나도 심오한 지식과 경외감에 충격을 받아 그 눈빛만으로도 정신이 무너진다고 합니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "무한의 정신 분쇄자",
+    "cardCode": "03MT021",
+    "keywords": [
+      "분노"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT059-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "소환 시 <link=card.create><style=AssociatedCard>은빛 자매</style></link> 하나를 소환합니다.",
+    "descriptionRaw": "소환 시 은빛 자매 하나를 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"천상으로부터\n두 존재가 내려왔다.\n하나는 은빛을 입었고,\n다른 하나는 황금 불꽃을 입었다...\"\n- 시간의 찬가",
+    "artistName": "Kudos Productions",
+    "name": "금빛 자매",
+    "cardCode": "03MT059",
+    "keywords": [
+      "체력 흡수"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link> 또는 다른 카드의 <link=keyword.Nightfall><style=Keyword>어스름</style></link> 효과 발동: 이 라운드에 +2|+0 및 <link=keyword.Challenger><sprite name=Challenger><style=Keyword>도전자</style></link> 효과를 일시 획득합니다.",
+    "descriptionRaw": "어스름 또는 다른 카드의 어스름 효과 발동: 이 라운드에 +2|+0 및 도전자 효과를 일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "황혼꽃잎 가루가 덮인 검을 들고 다이애나는 산을 달려 내려갔습니다. 다이애나는 레오나가 자신을 찾으리란 사실을 알고 있었습니다. 다이애나는 불안한 예상으로 거칠게 뛰는 마음을 진정하기 위해 숨을 깊이 들이마셨습니다.<br>이번 두 사람의 만남에서 다이애나는 우위를 차지했고,<br>다이애나는 옛 친구를 정면으로 마주할 것입니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "다이애나",
+    "cardCode": "03MT056T1",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT092-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>타격</style></link>: 손에 <link=card.create><style=AssociatedCard>보석</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "타격: 손에 보석 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "타곤 산의 염소들은 다른 평범한 염소보다 더욱 위험합니다. 염소의 뿔을 이루는 보석은 부딪히면 날카로운 파편이 되어 고통을 줍니다. ",
+    "artistName": "Polar Engine",
+    "name": "산양",
+    "cardCode": "03MT092",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO001-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "지원을 받으면 +2|+0을 얻습니다.",
+    "descriptionRaw": "지원을 받으면 +2|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "모두가 단짝 친구를 원하지만,<br>아무도 책임을 질 준비가 되어있지 않습니다.<br>함께 산책하고, 식사를 잘하는지 확인하고,<br>훈련을 해야 하죠. 만만치 않은 일입니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "꽃의 아이",
+    "cardCode": "03IO001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005T1-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "다른 아군들이 <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>공포</style></link> 효과를 얻습니다.\r\n이 라운드에 유닛이 소환될 때마다<br>모든 적에게 <nobr>-1|-0</nobr>을 일시 부여합니다.",
+    "descriptionRaw": "다른 아군들이 공포 효과를 얻습니다.\r\n이 라운드에 유닛이 소환될 때마다모든 적에게 -1|-0을 일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"매일 밤 나의 꿈은 더욱 생생해진다.<br>어둠 속에서 꿈틀대며 길을 뒤틀어<br>나에게 다가오는 순수한 악의 생명체가 보인다.<br>나는 이곳에 한 주 더 머물러야 했지만<br>오늘 저녁에 포스배로우로 가는 비용을 지불했다.<br>나는 더이상 이곳에서 버틸 수 없다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "SIXMOREVODKA",
+    "name": "녹턴",
+    "cardCode": "03SI005T1",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT048-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "소환 시 손에 <link=card.create><style=AssociatedCard>보석</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "소환 시 손에 보석 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"수호자가 이 보석에 축복을 내렸다고 합니다.<br>보석을 착용하면 수호자가 당신에게 깃들 것입니다.\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "베푸는 자",
+    "cardCode": "03MT048",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR004-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "손에서 공개할 유닛 하나를 선택합니다. 그 유닛의 공격력만큼 넥서스의 체력을 회복합니다.\r\n<link=keyword.Enlightened><style=Keyword>각성</style></link>: 공개한 유닛의 비용을 0으로 감소시킵니다.",
+    "descriptionRaw": "손에서 공개할 유닛 하나를 선택합니다. 그 유닛의 공격력만큼 넥서스의 체력을 회복합니다.\r\n각성: 공개한 유닛의 비용을 0으로 감소시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"완전히 자란 트롤은 빠르게 회복되는 두꺼운 가죽과<br>굵은 뼈를 가지고 있어 끔찍하고 끈질긴 적이다.<br>빠르게 목숨을 끊지 않으면<br>나중에 회복한 트롤과 다시 싸우게 될 거다.\"<br>- 아바로사 명사수",
+    "artistName": "Kudos Productions",
+    "name": "소생의 포효",
+    "cardCode": "03FR004",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT063-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "사용: 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"오늘은 밤하늘에 있는 친구들을 찾아보자!<br>저기 유난히 밝게 빛나는 별이 보이니?<br>바로 우리를 지켜보는 전령의 눈이지!<br>저기 희미한 별 무리가 보여?<br>구름 뒤에 숨은 사기꾼자리야!<br>그리고 저기에는, 쿨룬, 쉬잇!<br>그거 건드리면 안 돼...!\"",
+    "artistName": "Aron Elekes",
+    "name": "달을 꿈꾸는 자",
+    "cardCode": "03MT063",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW014-full.png"
+      }
+    ],
+    "region": "빌지워터",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=card.summon><style=AssociatedCard>화약 나르는 원숭이</style></link> 하나를 소환합니다.\r\n<link=vocab.Plunder><style=Vocab>약탈</style></link>: 다음 라운드에 <link=card.summon><style=AssociatedCard>화약 나르는 원숭이</style></link> 하나를 더 소환합니다.",
+    "descriptionRaw": "화약 나르는 원숭이 하나를 소환합니다.\r\n약탈: 다음 라운드에 화약 나르는 원숭이 하나를 더 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"아... 넌 그게 귀엽다고 생각하나? 전혀 귀엽지 않아.<br>멀미하는 배달부보다 엉망이야.<br>구석구석 헤집고 다니고 입을 다물지를 않지.<br>배에 원숭이는 금지다. 이제 그만 얘기해.\"<br>- 갑판장",
+    "artistName": "Kudos Productions",
+    "name": "짓궂은 장난",
+    "cardCode": "03BW014",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT006-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 6,
+    "description": "라운드마다 <link=keyword.Fury><sprite name=Fury><style=Keyword>분노</style></link> 상태인 아군이 처음으로 적을 처치하면 손에<br>무작위 용을 생성합니다.",
+    "descriptionRaw": "라운드마다 분노 상태인 아군이 처음으로 적을 처치하면 손에무작위 용을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"하늘을 보라.<br>그리고 내가 무엇을 보는지 확인하라!<br>밤에는 신호가 빛나고,<br>낮에는 분노가 불타는 것을 모두가 목도할 것이다!\"<br>- 용의 전령",
+    "artistName": "SIXMOREVODKA",
+    "name": "인비올러스 복스",
+    "cardCode": "03MT006",
+    "keywords": [
+      "분노"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO019-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "아군 하나를 선택합니다.<br>그 아군을 제외한 다른 모든 유닛을 <link=keyword.Recall><style=Keyword>귀환</style></link>시킵니다.",
+    "descriptionRaw": "아군 하나를 선택합니다.그 아군을 제외한 다른 모든 유닛을 귀환시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"나는 홀로 내 길을 걷는다.\"<br>- 고독한 수도사",
+    "artistName": "Kudos Productions",
+    "name": "남다른 의지",
+    "cardCode": "03IO019",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT053-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "전장에 있는 아군 하나에게 +0|+2 및<br><link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>주문 방어막</style></link>을 부여합니다.",
+    "descriptionRaw": "전장에 있는 아군 하나에게 +0|+2 및주문 방어막을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"부드러운 달빛에 휩싸여 달의 축복을 받으세요.\"<br>- 루나리 여사제",
+    "artistName": "Kudos Productions",
+    "name": "달빛",
+    "cardCode": "03MT053",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR017-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 비용이 8 이상인 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면 아군 하나에게 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 및<br><link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>재생</style></link> 효과를 부여합니다.",
+    "descriptionRaw": "사용: 비용이 8 이상인 카드가 등장한 상태면 아군 하나에게 압도 및재생 효과를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "전해지는 바에 따르면 오래된 자들의 노래를 배운<br>극소수의 트롤은 선조들에게 기원해<br>트롤들에게 엄청난 힘을 부여할 수 있다고 합니다.",
+    "artistName": "Kudos Productions",
+    "name": "오래된 자들의 예언자",
+    "cardCode": "03FR017",
+    "keywords": [
+      "압도",
+      "재생"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054",
+      "03MT054T1",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T2-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "이 라운드에 모든 아군에게 +2|+2를 일시 부여합니다. 내 덱에 <link=card.level1><style=AssociatedCard>레오나</style></link> 하나를 섞어 넣습니다.\r\n<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 한 번에 모든 아군의 <link=keyword.Daybreak><style=Keyword>해오름</style></link> 효과를 발동시킵니다.",
+    "descriptionRaw": "이 라운드에 모든 아군에게 +2|+2를 일시 부여합니다. 내 덱에 레오나 하나를 섞어 넣습니다.\r\n해오름: 한 번에 모든 아군의 해오름 효과를 발동시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"그분은 물러서지 않는 천상의 지도자이시자<br>한낮의 무기가 발하는 눈 부신 빛,<br>우리 가슴속에서 타오르는 뜨거운 불길이시다.\" \n- 솔라리 여사제",
+    "artistName": "Kudos Productions",
+    "name": "레오나의 여명의 광채",
+    "cardCode": "03MT054T2",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT014-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "아군 용의 비용이 1 감소합니다.",
+    "descriptionRaw": "아군 용의 비용이 1 감소합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "거대한 형체 주변으로 연기가 자욱했고<br>하늘은 간절한 울음으로 흔들리는 것처럼 보였습니다.<br>그녀는 무엇을 마주할지 알고 있었지만,<br>공포가 아닌 운명의 따스한 포옹을 느꼈습니다.",
+    "artistName": "Polar Engine",
+    "name": "용의 전령",
+    "cardCode": "03MT014",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛과<br>이 유닛으로부터 지원을 받는 아군에게 <link=keyword.Tough><sprite name=Tough><style=Keyword>강인함</style></link> 효과를 일시 부여합니다.<br>이 라운드에 내가 이 유닛에게만 시전한 마지막 주문을 지원받는 아군에게<br>똑같이 시전합니다. <style=Parentheses>(주문 복제는 한 번만 가능)</style>",
+    "descriptionRaw": "지원: 이 라운드에 이 유닛과이 유닛으로부터 지원을 받는 아군에게 강인함 효과를 일시 부여합니다.이 라운드에 내가 이 유닛에게만 시전한 마지막 주문을 지원받는 아군에게똑같이 시전합니다. (주문 복제는 한 번만 가능)",
+    "levelupDescription": "소환된 상태에서 일곱 번 이상 아군을 대상으로 지정하거나 <link=vocab.Support><style=Vocab>지원</style></link>해야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "소환된 상태에서 일곱 번 이상 아군을 대상으로 지정하거나 지원해야 합니다. ",
+    "flavorText": "\"타릭의 따스한 친절은 그를 만나는 모든 이들을 격려하고<br>가장 추운 밤에도 그들을 북돋을 수 있는 온기를 안겨주지.\"<br>- 거산의 점술가",
+    "artistName": "SIXMOREVODKA",
+    "name": "타릭",
+    "cardCode": "03MT058",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT032-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "챔피언 하나를 뽑습니다.<br>이 챔피언의 비용을 1 감소시키고<br>+2|+2를 부여합니다.",
+    "descriptionRaw": "챔피언 하나를 뽑습니다.이 챔피언의 비용을 1 감소시키고+2|+2를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"광활한 밤하늘은 인류와 신성 사이에<br>얼마나 간극이 있는지 보여준다.<br>하지만 더 높은 목표를 이루고자 하는 필멸자들이 있다.<br>산이 그들의 가치를 인정하면<br>그들은 스스로 별이 될 수 있을 것이다.\"<br>- 거산의 점술가",
+    "artistName": "Kudos Productions",
+    "name": "별의 숙명",
+    "cardCode": "03MT032",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT098-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "전장에 있는 아군 하나에게<br>+0|+2를 부여합니다.",
+    "descriptionRaw": "전장에 있는 아군 하나에게+0|+2를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"우리의 방패는 밝게 빛나는<br>우리의 신념, 우리의 결의, 우리의 믿음이다!\"<br>- 솔라리 방패지기",
+    "artistName": "Kudos Productions",
+    "name": "태양이 내린 활기",
+    "cardCode": "03MT098",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT024-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "천상 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면<br>적 둘을 <link=keyword.Obliterate><style=Keyword>소멸</style></link>시킵니다.",
+    "descriptionRaw": "천상 카드가 등장한 상태면적 둘을 소멸시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "죽어가는 별은 굉장히 밝고 강력한 폭발을 일으켜<br>아직 살아있는 다른 별의 타오르는 빛을 쉽게 덮어버립니다.  ",
+    "artistName": "Kudos Productions",
+    "name": "초신성",
+    "cardCode": "03MT024",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT066-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "천상 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면 모든 아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> +2|+2를 부여합니다. 주문 마나를 회복합니다.",
+    "descriptionRaw": "천상 카드가 등장한 상태면 모든 아군에게 어디에 있든 +2|+2를 부여합니다. 주문 마나를 회복합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"밤하늘을 보세요. 눈 부신 별의 아름다움을 느끼고<br>생명의 빛을 받아들이세요.\" <br>- 소라카",
+    "artistName": "Kudos Productions",
+    "name": "우주의 영감",
+    "cardCode": "03MT066",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT085"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT085-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "이 라운드에 유닛 하나를 <link=vocab.Silence><style=Vocab>침묵</style></link>시킵니다. 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link><br><link=card.me><style=AssociatedCard>쉿</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "이 라운드에 유닛 하나를 침묵시킵니다. 손에 일회용쉿 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"그들도 평온을 얻을 거예요.\" <br>- 소라카",
+    "artistName": "Kudos Productions",
+    "name": "쉿",
+    "cardCode": "03MT085",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>해오름</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link>인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "해오름: 최강인 적을 기절시킵니다.",
+    "levelupDescription": "<link=keyword.Daybreak><style=Keyword>해오름</style></link> 효과를 네 번 이상<br>발동시켜야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "해오름 효과를 네 번 이상발동시켜야 합니다. ",
+    "flavorText": "한가운데에 서서 전투를 준비하던 레오나는<br>주홍색과 황금색 빛을 뿜으며,<br>이글거리는 눈을 부릅떴습니다.<br>떠오르는 태양이 레오나의 머리에 빛의 왕관을 내리자,<br>모든 솔라리는 부끄러움이 아닌<br>빛나는 지도자에 대한 존중으로 시선을 내렸습니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "레오나",
+    "cardCode": "03MT054",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T2-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 5,
+    "health": 7,
+    "description": "소환 시 손에 <link=card.create><style=AssociatedCard>얼음 기둥</style></link> 1장을 생성합니다.\r\n<link=vocab.Attack><style=Vocab>공격</style></link>: <link=vocab.Behold><style=Vocab>등장</style></link>한 카드 중 비용이 8 이상인 카드 1장당 +1|+0을 얻습니다.",
+    "descriptionRaw": "소환 시 손에 얼음 기둥 1장을 생성합니다.\r\n공격: 등장한 카드 중 비용이 8 이상인 카드 1장당 +1|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "아바로사인들은 거절했습니다. 트런들이 손짓하자<br>마치 산사태처럼 막을 수 없는 트롤들이 내려왔고<br>아바로사 부족의 깊은 곳까지 들어와 마주치는 모든 것을<br>하나도 남김없이 깨뜨리고 부수었습니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "트런들",
+    "cardCode": "03FR006T2",
+    "keywords": [
+      "압도",
+      "재생"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT075-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "어스름: 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"오, 순례자들처럼 밤을 틈타 움직이는 하늘의 별들이여,<br>우리와 잠깐 머무르며 무엇을 보았는지 말해주시오.\"<br>- 밤의 찬가",
+    "artistName": "Kudos Productions",
+    "name": "루나리 여사제",
+    "cardCode": "03MT075",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T4-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "이 라운드에 아군 하나에게 <link=keyword.Barrier><sprite name=Barrier><style=Keyword>보호막</style></link> 또는 적 하나에게 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 일시 부여합니다.\r\n전투 중이거나 상대의 주문에 대응할 때는 시전할 수 없습니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게 보호막 또는 적 하나에게 약점 노출 효과를 일시 부여합니다.\r\n전투 중이거나 상대의 주문에 대응할 때는 시전할 수 없습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "픽스, 방어해... 아니 공격해...? ",
+    "artistName": "Kudos Productions",
+    "name": "도와줘, 픽스!",
+    "cardCode": "03IO002T4",
+    "keywords": [
+      "즉발",
+      "일회용"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT020-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 아군 하나와 아군 넥서스의 체력을 3 회복시킵니다.",
+    "descriptionRaw": "사용: 아군 하나와 아군 넥서스의 체력을 3 회복시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"밤하늘에 움직이는 별이 보이나? 성장한 스텔라콘이라네.<br>어린 스텔라콘은 하늘에 돌아가기 전까지<br>우리에게 치유 마법을 빌려주지만,<br>성장한 스텔라콘은 스스로 힘을 사용하지.<br>스텔라콘을 알아본다면 굉장히 운이 좋은 거라네.<br>운이 더 좋으면 하나 보살필 수도 있겠지.\"<br>- 별지기 리다리",
+    "artistName": "SIXMOREVODKA",
+    "name": "빛나는 스텔라콘",
+    "cardCode": "03MT020",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT071-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 유닛으로부터 지원을 받는 아군에게 +0|+2를 부여합니다.",
+    "descriptionRaw": "지원: 이 유닛으로부터 지원을 받는 아군에게 +0|+2를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "여정을 떠나면 필연적으로<br>당신을 바꾸게 될 길을 받아들여야 합니다.<br>새로운 것을 받아들이고...<br>낡은 것을 뒤에 남겨두는 것이죠.",
+    "artistName": "SIXMOREVODKA",
+    "name": "여행자 티아리",
+    "cardCode": "03MT071",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX038"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX018-full.png"
+      }
+    ],
+    "region": "녹서스",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "적 하나를 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.\r\n전장에 <link=card.champ1><style=AssociatedCard>다리우스</style></link> 카드가 있으면 <link=vocab.Rally><style=Vocab>결집</style></link>합니다.",
+    "descriptionRaw": "적 하나를 기절시킵니다.\r\n전장에 다리우스 카드가 있으면 결집합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"내가 직접 처리하겠다.\"<br>- 다리우스",
+    "artistName": "Kudos Productions",
+    "name": "포획",
+    "cardCode": "03NX018",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR008-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "이 라운드에 모든 유닛에게 -3|-0을 일시 부여합니다. 모든 유닛에게 피해를 3 입힙니다.",
+    "descriptionRaw": "이 라운드에 모든 유닛에게 -3|-0을 일시 부여합니다. 모든 유닛에게 피해를 3 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"놈들을 묻어버려라!\"<br>- 트런들",
+    "artistName": "Kudos Productions",
+    "name": "얼음 지진 ",
+    "cardCode": "03FR008",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT077-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "손을 무작위 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 천상 카드로 채웁니다. 마나를 전부 회복합니다.",
+    "descriptionRaw": "손을 무작위 일회용 천상 카드로 채웁니다. 마나를 전부 회복합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"어떤 별자리는 한때 필멸자였으나<br>이례적인 업적을 세워 별이 되었다고 하지.\"<br>- 거산의 점술가",
+    "artistName": "Kudos Productions",
+    "name": "살아있는 전설",
+    "cardCode": "03MT077",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT002-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "모든 적 유닛에게 피해를 15 입힙니다.\r\n내 전장에 있는 용이나 천상 아군 하나당 비용이 2씩 감소합니다.",
+    "descriptionRaw": "모든 적 유닛에게 피해를 15 입힙니다.\r\n내 전장에 있는 용이나 천상 아군 하나당 비용이 2씩 감소합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"때가 되면 룬테라를 본보기로 삼겠다.<br>어쩌면 그을린 그 껍데기를 장난감처럼<br>영원히 끌고 다닐지도 모르지.<br>죽어서 쓸모없는 장난감처럼.<br>글쎄, 깊이 생각해 본 적이 없어서.\"<br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "천상 강림",
+    "cardCode": "03MT002",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO008-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "이 라운드에 추종자 하나를 1|1 <link=card.summon><style=AssociatedCard>다람쥐</style></link>로 변신 및 <link=vocab.Silence><style=Vocab>침묵</style></link>시킵니다.",
+    "descriptionRaw": "이 라운드에 추종자 하나를 1|1 다람쥐로 변신 및 침묵시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"예쁘게!\"<br>- 룰루",
+    "artistName": "Kudos Productions",
+    "name": "변덕쟁이",
+    "cardCode": "03IO008",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT010-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 7,
+    "description": "소환 시 이 게임에서 내가 사용한<br>천상 카드 1장당 +1|+0을 얻습니다. <style=Variable></style>",
+    "descriptionRaw": "소환 시 이 게임에서 내가 사용한천상 카드 1장당 +1|+0을 얻습니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"땅과 하늘 사이를 지키기 위해 뿔 달린 수호자는<br>산 위의 별에 자리를 잡았다.<br>빠르고 단단한 그는 밤하늘을 가로지르며 침입자를 찾고,<br>땅과 하늘이 흔들릴 만한 충격으로 침입자를 맞이한다.\"<br>- 미노타우로스의 역사",
+    "artistName": "Kudos Productions",
+    "name": "파괴자자리",
+    "cardCode": "03MT010",
+    "keywords": [
+      "압도",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT086-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 카드 1장을 버리고 비용이 3 이하인 천상 카드 1장을 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "사용: 카드 1장을 버리고 비용이 3 이하인 천상 카드 1장을 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"내가 가장 좋아하는 거야!<br>이걸 '의식적 정신의 형이상학적 정체성'이라 부르겠어.<br>머리를 이렇게 기울이지 않으면...<br>그러면 숟가락 두 개처럼 보이겠지.\"",
+    "artistName": "Dao Le",
+    "name": "우주의 그림꾼",
+    "cardCode": "03MT086",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 11,
+    "cost": 10,
+    "health": 11,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 비용이 7 이상인<br>천상 카드 1장을 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.\r\n<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 무작위<br>천상 카드 1장을 생성합니다.\r\n내 모든 천상 카드의 비용이 0이 됩니다.",
+    "descriptionRaw": "사용: 비용이 7 이상인천상 카드 1장을 기원합니다.\r\n라운드 시작: 손에 무작위천상 카드 1장을 생성합니다.\r\n내 모든 천상 카드의 비용이 0이 됩니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "아우렐리온 솔은 아름답고 고귀하며<br>아주 아주 지적인 존재입니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "아우렐리온 솔",
+    "cardCode": "03MT087T1",
+    "keywords": [
+      "분노",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT070-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "사용: 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"우리는 언제나 하나였습니다.<br>단지 산과 여정, 별의 바다를 사이에 두고 갈라졌을 뿐이죠.\"",
+    "artistName": "Kudos Productions",
+    "name": "여행자자리",
+    "cardCode": "03MT070",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT019-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "이 라운드에 아군 하나에게<br><link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>주문 방어막</style></link>을 일시 부여합니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게주문 방어막을 일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"산을 존중하세요.\"<br>- 타릭",
+    "artistName": "Kudos Productions",
+    "name": "수호의 고리",
+    "cardCode": "03MT019",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T1",
+      "03IO002T5",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛으로부터<br>지원을 받는 아군의 능력치가<br>4|4로 증가합니다.",
+    "descriptionRaw": "지원: 이 라운드에 이 유닛으로부터지원을 받는 아군의 능력치가4|4로 증가합니다.",
+    "levelupDescription": "아군들이 세 번 이상 <link=vocab.Support><style=Vocab>지원</style></link>을<br>받아야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "아군들이 세 번 이상 지원을받아야 합니다. ",
+    "flavorText": "\"걱정하지 마, 픽스!<br>우리는 숲을 나가서 전부 다 예쁘게 만들어 줄 거야!<br>준비됐어?!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "룰루",
+    "cardCode": "03IO002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO011-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Strike><style=Vocab>타격</style></link>: 이 유닛의 공격력이 두 배가 됩니다.",
+    "descriptionRaw": "타격: 이 유닛의 공격력이 두 배가 됩니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "근육의 비결은 하루에 네 잔씩 마시는 도토리 쉐이크입니다.",
+    "artistName": "Dao Le",
+    "name": "근육질 다람쥐",
+    "cardCode": "03IO011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO009-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "열량: 104kJ(25kcal), 탄수화물: 5.88g, 당: 3.53g, 식이섬유: 3g, 지방: 0.18g, 단백질: 0.98g, 수분: 92g...",
+    "artistName": "Dao Le",
+    "name": "맛있는 요정단",
+    "cardCode": "03IO009",
+    "keywords": [
+      "체력 흡수"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT023-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "유닛 하나에게 피해를 6 입힙니다.\r\n<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 이 라운드 동안 해당 유닛을 <link=vocab.Silence><style=Vocab>침묵</style></link>시키고 피해를 6 입힙니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 6 입힙니다.\r\n해오름: 이 라운드 동안 해당 유닛을 침묵시키고 피해를 6 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "태양이 내뿜는 빛처럼 수그러들지 않는 시선에서<br>살아남는 존재는 얼마 되지 않습니다.",
+    "artistName": "Kudos Productions",
+    "name": "태양 광선",
+    "cardCode": "03MT023",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO003-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 전장에 있는 아군 하나에게<br><link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 효과를 부여합니다.",
+    "descriptionRaw": "사용: 전장에 있는 아군 하나에게포착 불가 효과를 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"쉬잇! 이쪽이야! 걸어다니는 나무 위 오두막집을 지나<br>바로 왼쪽으로 빠진 다음에 말하는 꽃을 지나서 쭉 가면 돼.<br>루, 내 말 듣고 있어? 루? 루! 룰루!<br>먹이를 주면 안 돼. 절대 그러면 안 돼.\"",
+    "artistName": "Dao Le",
+    "name": "요정 안내원",
+    "cardCode": "03IO003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT096-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 비용이 4, 5 또는 6인<br>천상 카드 1장을 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "해오름: 비용이 4, 5 또는 6인천상 카드 1장을 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "솔라리는 다른 타곤인들처럼 별을 이정표로 삼습니다.<br>그들의 믿음에 가장 중요한 별은 바로 태양이기 때문입니다.",
+    "artistName": "Grafit Studio",
+    "name": "솔라리 여사제",
+    "cardCode": "03MT096",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03BW006T1-full.png"
+      }
+    ],
+    "region": "빌지워터",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "아군 유닛 하나에게 피해를 2 입히고<br>적 넥서스에 피해를 2 입힙니다.",
+    "descriptionRaw": "아군 유닛 하나에게 피해를 2 입히고적 넥서스에 피해를 2 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"네 피를 놈들에게 묻히고 상어를 풀어라.\"<br>- 승리자 잭",
+    "artistName": "Kudos Productions",
+    "name": "물고기와의 동침",
+    "cardCode": "03BW006T1",
+    "keywords": [
+      "집중",
+      "일회용"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT049-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "적 유닛 하나에게 피해를 4 입히고 다른 적 유닛 하나에게<br>피해를 1 입힙니다.",
+    "descriptionRaw": "적 유닛 하나에게 피해를 4 입히고 다른 적 유닛 하나에게피해를 1 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"안타깝게도 별을 만드는 건 지저분한 일이지.<br>작은 바위들이 어디에 떨어질지는 알 수가 없어.<br>바위가 네게 떨어졌다면,<br>그리고 너를 뭉개버렸다면 정말 진심으로 미안하군.<br>아, 너무 폭력적이야.\"<br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "유성우",
+    "cardCode": "03MT049",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1",
+      "03IO002",
+      "03IO002T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T5-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "이 라운드에 추종자 하나를 1|1 <link=card.summon><style=AssociatedCard>다람쥐</style></link>로 변신 및 <link=vocab.Silence><style=Vocab>침묵</style></link>시킵니다.<br>내 덱에 <link=card.level1><style=AssociatedCard>룰루</style></link> 하나를 섞어 넣습니다.",
+    "descriptionRaw": "이 라운드에 추종자 하나를 1|1 다람쥐로 변신 및 침묵시킵니다.내 덱에 룰루 하나를 섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"예쁘게!\"<br>- 룰루",
+    "artistName": "Kudos Productions",
+    "name": "룰루의 변덕쟁이",
+    "cardCode": "03IO002T5",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT044-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 이 라운드에 +4|+4를<br>일시 획득합니다.",
+    "descriptionRaw": "해오름: 이 라운드에 +4|+4를일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"눈부신 수호자여, 당신의 분노는 한낮의 태양처럼 뜨겁습니다. 어서 모습을 드러내어 이 신성한 땅을 침범한 자들을<br>벌해 주십시오.\"<br>- 태양 수호자의 비문",
+    "artistName": "SIXMOREVODKA",
+    "name": "태양 수호자",
+    "cardCode": "03MT044",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR002-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "이 라운드에 아군 하나에게 +0|+2를 일시 부여하고 적 하나에게 -2|-0을 일시 부여합니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게 +0|+2를 일시 부여하고 적 하나에게 -2|-0을 일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "트롤 노래는 아주 다양합니다.<br>무리끼리도 노래가 다르고<br>서로 이해하지 못하는 경우도 흔합니다.<br>하지만 전부 끔찍하다는 공통점이 있습니다. ",
+    "artistName": "Kudos Productions",
+    "name": "트롤 노래",
+    "cardCode": "03FR002",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX016-full.png"
+      }
+    ],
+    "region": "녹서스",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "아군 유닛 하나와 적 유닛 하나에게<br>피해를 1씩 네 번 입힙니다.",
+    "descriptionRaw": "아군 유닛 하나와 적 유닛 하나에게피해를 1씩 네 번 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"조심해야 할 것은 녀석들의 날카로운 발톱이 아니라, 식욕이야.\"<br>- 바실리스크 조련사",
+    "artistName": "Kudos Productions",
+    "name": "찌르기",
+    "cardCode": "03NX016",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO010-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛으로부터<br>지원을 받는 아군에게<br><link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 효과 및 +1|+0을<br>일시 부여합니다.",
+    "descriptionRaw": "지원: 이 라운드에 이 유닛으로부터지원을 받는 아군에게선제공격 효과 및 +1|+0을일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "리베리 몬태규 경은 위업을 완수하거나<br>명문 가문의 수발을 들기 위해 고향을 떠났습니다.<br>하지만 운명은 그를 숨겨진 밴들숲으로 이끌었고<br>어린 브리는 리베리 경을 개구리로 만들어<br>자신의 모험에 함께 데려갔습니다. 불쌍한 리베리!",
+    "artistName": "Dao Le",
+    "name": "어린 마녀",
+    "cardCode": "03IO010",
+    "keywords": [
+      "포착 불가"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT041-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 유닛으로부터 지원을 받는 아군에게 +2|+2를 부여합니다.\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>최후의 숨결</style></link>: 손에 <link=card.create><style=AssociatedCard>보석</style></link> 3장을 생성합니다.",
+    "descriptionRaw": "지원: 이 유닛으로부터 지원을 받는 아군에게 +2|+2를 부여합니다.\r\n최후의 숨결: 손에 보석 3장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"안에서 그분이 뭐라고 한 건지 알아들었어?\"\n\"한 마디도. 그래도 좋은 분 같던데.\"\n- 거산의 체류자 에미르와 할리",
+    "artistName": "SIXMOREVODKA",
+    "name": "돌의 스승",
+    "cardCode": "03MT041",
+    "keywords": [
+      "최후의 숨결"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT043-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "적 하나를 <link=keyword.Obliterate><style=Keyword>소멸</style></link>시킵니다.",
+    "descriptionRaw": "적 하나를 소멸시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"별들을 몰고 이 참을 수 없는 공간을 지날 것이다.<br>영광스러운 일이 되겠지.\"<br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "혜성 낙하",
+    "cardCode": "03MT043",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT028-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 이 라운드에 +0|+4를<br>일시 획득합니다.",
+    "descriptionRaw": "해오름: 이 라운드에 +0|+4를일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"어리석긴, 어둠에 몸을 숨기지도 않고 오다니.\"<br>방패지기가 자세를 잡았다.<br>\"무기를 내리고 얌전히 다가와라.\"\n루나리는 조용히 자세를 낮추며<br>자신의 곡도를 다시 들어올렸다.\n좋다.\n솔라리는 자신의 방패를 들고 떠오르는 태양의 빛을 반사했다.",
+    "artistName": "Kudos Productions",
+    "name": "솔라리 방패지기",
+    "cardCode": "03MT028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT022-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "소환 시 이 게임에서 내가 사용한<br>천상 카드 1장당 +1|+0을 얻습니다. <style=Variable></style>\r\n이 유닛은 용입니다.",
+    "descriptionRaw": "소환 시 이 게임에서 내가 사용한천상 카드 1장당 +1|+0을 얻습니다. \r\n이 유닛은 용입니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"아, 그래. 내가 가장 좋아하는 별자리로군.<br>이 망할 산으로 가장 먼저 쏟아졌으면 좋겠어.\"<br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "황천자리",
+    "cardCode": "03MT022",
+    "keywords": [
+      "포착 불가",
+      "분노",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상",
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT072-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "수많은 위험이 타곤 산을 오르는 자들을 기다립니다.<br>끝없는 오르막처럼 도전자의 힘을 서서히 갉아 먹는<br>위험도 있지만, 순식간에 찾아오는 위험도 있죠.",
+    "artistName": "Jihun Lee",
+    "name": "난폭한 화염용",
+    "cardCode": "03MT072",
+    "keywords": [
+      "분노",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT025-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "손을 <link=card.create><style=AssociatedCard>보석</style></link> 카드로 채웁니다.",
+    "descriptionRaw": "손을 보석 카드로 채웁니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"보석을 세심히 돌려 보면 빛에 비쳐 반짝이죠.<br>필멸자의 생명처럼 각기 다른 내면의 불꽃을<br>지니고 있답니다.\"<br>- 타릭",
+    "artistName": "Kudos Productions",
+    "name": "산의 파편",
+    "cardCode": "03MT025",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT018"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT017-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "내 덱에 <link=card.shuffle><style=AssociatedCard>전령자리</style></link> 다섯을<br>섞어 넣습니다.",
+    "descriptionRaw": "내 덱에 전령자리 다섯을섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"시간이 흐르고, 하늘이 바뀌면, 뱀자리가 사라진 자리에 전령자리가 들어서고 풍요의 계절이 온다...\"<br>- 루나리 여사제",
+    "artistName": "Max Grecke",
+    "name": "전령의 인장",
+    "cardCode": "03MT017",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT051-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "아군 하나 또는 아군 넥서스의 체력을 2 회복시킵니다.<br>카드 1장을 뽑습니다.",
+    "descriptionRaw": "아군 하나 또는 아군 넥서스의 체력을 2 회복시킵니다.카드 1장을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "스텔라콘은 행복할 때 가장 밝게 빛납니다.",
+    "artistName": "Kudos Productions",
+    "name": "인도하는 손길",
+    "cardCode": "03MT051",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT012-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 10,
+    "health": 6,
+    "description": "이 게임에서 내가 아군을 대상으로 지정하거나 지원한 횟수당<br>이 유닛의 비용이 1씩 감소합니다.",
+    "descriptionRaw": "이 게임에서 내가 아군을 대상으로 지정하거나 지원한 횟수당이 유닛의 비용이 1씩 감소합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "중재자는 산의 마지막 시험입니다.<br>오직 그만이 등반자가 이룬 위업을 너머<br>그들의 영혼을 들여다봅니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "봉우리의 중재자",
+    "cardCode": "03MT012",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR011-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 7,
+    "cost": 8,
+    "health": 7,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "그들은 소리가 들리기도 전에 발을 타고 전해지는<br>땅의 진동으로 깨달았습니다.<br>곧 멀리서 들리던 천둥소리는 더욱 가까워졌습니다.\n메이릭은 머리를 들고 눈을 크게 뜬 채 소리를 들었습니다.\n\"이게 뭐지?\" 아냐는 다급하게 휘파람을 불고 활을 꺼냈지만, 메이릭은 벌써 길을 따라 도망치고 있었습니다.\n\"도망쳐!\"",
+    "artistName": "MAR Studio",
+    "name": "고대의 우즈가르",
+    "cardCode": "03FR011",
+    "keywords": [
+      "도전자",
+      "재생"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT094-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: <link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 효과를 얻습니다.",
+    "descriptionRaw": "어스름: 포착 불가 효과를 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"우리의 시선을 천상으로, 태양으로, 우리의 여신께...<br>잠깐... 뭐...? 저게 뭐지...?\"<br>- 솔라리 사제",
+    "artistName": "Kudos Productions",
+    "name": "루나리 그림자사냥꾼",
+    "cardCode": "03MT094",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T3-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=vocab.Strongest><style=Vocab>최강</style></link>인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "최강인 적을 기절시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"그들이 천상에 다가갈수록 더 강렬한 태양이<br>그들을 태울 것입니다.\"<br>- 레오나",
+    "artistName": "Kudos Production",
+    "name": "흑점 폭발",
+    "cardCode": "03MT054T3",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT076-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "천상 카드의 비용이 1 감소합니다.\r\n<link=vocab.Allegiance><style=Vocab>연대</style></link>: <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "천상 카드의 비용이 1 감소합니다.\r\n연대: 기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"우리를 인도하는 별에게서 배울 것들은 굉장히 많다.<br>우리에게 별은 변하지 않으며, 길을 안내하는 존재이다.\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "거산의 점술가",
+    "cardCode": "03MT076",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR005-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "소환 시 비용이 8 이상인 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면 <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>재생</style></link> 효과를 얻습니다.",
+    "descriptionRaw": "소환 시 비용이 8 이상인 카드가 등장한 상태면 재생 효과를 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "그들은 아바로사의 오두막 사이에서 흐가르를 불렀습니다. 흐가르는 웃으며 나무로 만든 오두막을 더 작은 장작으로 쪼개려고 눈파괴자를 들어 올렸습니다.",
+    "artistName": "MAR Studio",
+    "name": "트롤 약탈자",
+    "cardCode": "03FR005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI005-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 적 하나에게<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 부여하고<br>모든 적에게 <nobr>-1|-0</nobr>을<br>일시 부여합니다.",
+    "descriptionRaw": "어스름: 이 라운드에 적 하나에게약점 노출 효과를 부여하고모든 적에게 -1|-0을일시 부여합니다.",
+    "levelupDescription": "<link=keyword.Nightfall><style=Keyword>어스름</style></link> 효과를 지닌 아군으로<br>다섯 번 이상 공격해야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "어스름 효과를 지닌 아군으로다섯 번 이상 공격해야 합니다. ",
+    "flavorText": "\"충분한 수의 영혼이 깨어나면 우리의 세계로 침입하는 것 같다. 희망만이 그 끔찍한 존재들을<br>원래 세계로 돌려보낼 수 있지만...<br>여왕의 마지막 숨결과 왕의 영원한 비명과 함께<br>이 땅의 희망은 사라진 지 오래다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "SIXMOREVODKA",
+    "name": "녹턴",
+    "cardCode": "03SI005",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T5",
+      "03IO002",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO002T1-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link><br><link=card.create><style=AssociatedCard>도와줘, 픽스!</style></link> 1장을 생성합니다.\r\n<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛으로부터<br>지원을 받는 아군의 능력치가<br>5|5로 증가합니다.",
+    "descriptionRaw": "라운드 시작: 손에 일회용도와줘, 픽스! 1장을 생성합니다.\r\n지원: 이 라운드에 이 유닛으로부터지원을 받는 아군의 능력치가5|5로 증가합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"와! 이것 봐, 픽스! 완전히 다른 세상이야!<br>색깔을 알록달록하게 칠해 주자!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "룰루",
+    "cardCode": "03IO002T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR018-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "내 덱의 맨 위에 있는 카드 4장 중 설인, 포로, 엘누크가 있으면 뽑고 나머지 카드는 내 덱에 다시 섞어 넣습니다.",
+    "descriptionRaw": "내 덱의 맨 위에 있는 카드 4장 중 설인, 포로, 엘누크가 있으면 뽑고 나머지 카드는 내 덱에 다시 섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...그리고 엄청나게 거대한 엘누크가 엄청나게 작은 포로를 등에 매고 나무에서 내려왔는데, 거기엔 착한 설인도 있었어요. 왜냐하면 설인도 친구들하고 놀고 싶어서 '우아아아아아'하고 산을 달려서 내려왔는데...\"<br>- 꼬마 잉바르",
+    "artistName": "Kudos Productions",
+    "name": "야수 소집",
+    "cardCode": "03FR018",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 비용이 7 이상인<br>천상 카드 1장을 <link=keyword.Invoke><style=Keyword>기원</style></link>합니다.\r\n<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 무작위<br>천상 카드 1장을 생성합니다.",
+    "descriptionRaw": "사용: 비용이 7 이상인천상 카드 1장을 기원합니다.\r\n라운드 시작: 손에 무작위천상 카드 1장을 생성합니다.",
+    "levelupDescription": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 아군 공격력의 합이<br>20 이상이어야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "라운드 종료: 아군 공격력의 합이20 이상이어야 합니다. ",
+    "flavorText": "\"나에 관해 어떻게 쓰든 상관없다, 미천한 존재여!<br>그래도 아름답다는 말은 꼭 넣도록 해라.<br>고귀하고 아주 아주 지적이라는 말도. 받아적었나?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "아우렐리온 솔",
+    "cardCode": "03MT087",
+    "keywords": [
+      "분노",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛과<br>이 유닛으로부터 지원을 받는 아군은<br>피해를 입거나 사망하지 않습니다.<br>이 라운드에 내가 이 유닛에게만 시전한<br>마지막 주문을 지원받는 아군에게<br>똑같이 시전합니다. <style=Parentheses>(주문 복제는 한 번만 가능)</style>",
+    "descriptionRaw": "지원: 이 라운드에 이 유닛과이 유닛으로부터 지원을 받는 아군은피해를 입거나 사망하지 않습니다.이 라운드에 내가 이 유닛에게만 시전한마지막 주문을 지원받는 아군에게똑같이 시전합니다. (주문 복제는 한 번만 가능)",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"왜 타릭이 인간에게 친절하냐고?<br>추방당한 타릭은 속죄하기 위해 타곤 산을 올랐고...<br>성공했지.<br>완전히 망가진 삶에서 다시 꽃을 피울 수 있다는 사실을<br>그보다 잘 아는 자는 없을 거야.\"<br>- 거산의 점술가",
+    "artistName": "SIXMOREVODKA",
+    "name": "타릭",
+    "cardCode": "03MT058T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT029-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 3,
+    "description": "내가 피해를 입은 아군 유닛의<br>체력을 회복시킬 때마다<br>이 유닛이 +2|+0을 얻습니다.",
+    "descriptionRaw": "내가 피해를 입은 아군 유닛의체력을 회복시킬 때마다이 유닛이 +2|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"처음으로 밤하늘을 가로지르는 스텔라콘을 본 이후로 스텔라콘을 사랑하게 됐어. 미리 알았더라면 더 많은 스텔라콘을 만났을 텐데!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "별치기",
+    "cardCode": "03MT029",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR010-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 비용이 8 이상인 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면 이 라운드에 추가<br>마나 보석 하나를 얻습니다.",
+    "descriptionRaw": "라운드 시작: 비용이 8 이상인 카드가 등장한 상태면 이 라운드에 추가마나 보석 하나를 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"일어나라, 오래된 자들아.\n일어나서 얼음의 이름으로 하늘을 부숴라.\n일어나라, 오래된 자들아.\n일어나서 우리에게 힘을 주고 놈들을 죽여라.\"\n- 트롤 노래",
+    "artistName": "Wild Blue Studio",
+    "name": "오래된 자들의 얼굴",
+    "cardCode": "03FR010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT078-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "천상 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면<br>공격력이 3 이하인 적들을<br><link=keyword.Obliterate><style=Keyword>소멸</style></link>시킵니다.",
+    "descriptionRaw": "천상 카드가 등장한 상태면공격력이 3 이하인 적들을소멸시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "최초의 암흑 속에서 창조의 불꽃이 우주로 퍼져 나갔습니다. 그것을 설명할 단어도, 그것을 느낄 눈과 귀도 없었기에<br>우리는 어떤 소리와 빛이 있었는지 알 수 없을 것입니다.",
+    "artistName": "Kudos Productions",
+    "name": "우주의 빛",
+    "cardCode": "03MT078",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT092T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "아군 하나의 체력을 1 회복시키고<br>+1|+0을 부여합니다.\r\n전투 중이거나 상대의 주문에 대응할 때는 시전할 수 없습니다.",
+    "descriptionRaw": "아군 하나의 체력을 1 회복시키고+1|+0을 부여합니다.\r\n전투 중이거나 상대의 주문에 대응할 때는 시전할 수 없습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"믿기 위해서 볼 필요는 없어... 그냥 약간의 신념을 가져.\"<br>- 여행자 티아리",
+    "artistName": "Kudos Productions",
+    "name": "보석",
+    "cardCode": "03MT092T1",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT062-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 천상 카드가 <link=vocab.Behold><style=Vocab>등장</style></link>한 상태면<br>전장에 있는 아군 하나에게 +1|+1 및<br><link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>주문 방어막</style></link>을 부여합니다.",
+    "descriptionRaw": "사용: 천상 카드가 등장한 상태면전장에 있는 아군 하나에게 +1|+1 및주문 방어막을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...그리고 반짝벌레는 땅에 떨어졌다가<br>다시 날아가 버리는 우주 먼지 같은 건데 정말 멋있다니까.<br>지난밤에는 정말 예쁜 반짝벌레를 봤어. 배고프네.<br>어쨌든 그 녀석이 별이 있는 곳까지 날아갔는데...\"",
+    "artistName": "Dao Le",
+    "name": "산만한 반짝이학자",
+    "cardCode": "03MT062",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT082-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "이 라운드에 모든 아군에게<br>+2|+2를 일시 부여합니다.\r\n<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 한 번에 모든 아군의 <link=keyword.Daybreak><style=Keyword>해오름</style></link> 효과를 발동시킵니다.",
+    "descriptionRaw": "이 라운드에 모든 아군에게+2|+2를 일시 부여합니다.\r\n해오름: 한 번에 모든 아군의 해오름 효과를 발동시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"우리는 여명과 함께 일어난다! 빛을 향해 행진하라!\"<br>- 레오나",
+    "artistName": "Kudos Productions",
+    "name": "여명의 광채",
+    "cardCode": "03MT082",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT065-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "추종자 하나를 <link=vocab.Silence><style=Vocab>침묵</style></link>시킵니다.",
+    "descriptionRaw": "추종자 하나를 침묵시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "별들 사이의 공간에는 완전한 정적만이 있을 뿐입니다.",
+    "artistName": "Max Grecke",
+    "name": "별의 균형",
+    "cardCode": "03MT065",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT047-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 아군 하나와 함께 <link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 효과를 일시 획득합니다.",
+    "descriptionRaw": "어스름: 이 라운드에 아군 하나와 함께 포착 불가 효과를 일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "루나리는 밤이 되어 안전해질 때까지 기다렸습니다.<br>앞에 놓인 길은 버려진 것 같았지만, 시그너스는 그 너머에<br>솔라리 야영지가 있다는 사실을 알고 있었습니다.<br>시그너스가 손짓하자 다른 루나리들이<br>그의 뒤에 조용히 따라붙었습니다.",
+    "artistName": "JiHun Lee",
+    "name": "달사냥꾼 시그너스",
+    "cardCode": "03MT047",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT038-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "처음으로 어리고 온순한 용과 친구를 맺은 것은<br>타곤의 아이들이었습니다. 아마도 어린 용은 아이들의<br>악의 없는 호기심을 느끼고 아이들을 해치는 대신<br>보호하기로 결정했을 것입니다.",
+    "artistName": "Aron Elekes",
+    "name": "하얀불꽃 수호자",
+    "cardCode": "03MT038",
+    "keywords": [
+      "분노"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "용",
+    "subtypes": [
+      "용"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT050-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "밤하늘에서 가장 강한 별은 전사의 별이라고 합니다.<br>그는 불멸이라 여겨진 고대의 존재로 하늘에서 내려와<br>전장에서 자신의 가치를 증명했습니다.<br>한 번도 패배한 적 없지만,<br>모든 이야기에는 결말이 있듯이 모든 별은 죽기 마련입니다.",
+    "artistName": "Kudos Productions",
+    "name": "전사자리",
+    "cardCode": "03MT050",
+    "keywords": [
+      "도전자"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087",
+      "03MT087T1",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT087T2-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "모든 적 유닛에게 피해를 15 입힙니다.\r\n내 전장에 있는 용이나 천상 아군 하나당 비용이 2씩 감소합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>아우렐리온 솔</style></link> 하나를 섞어 넣습니다.",
+    "descriptionRaw": "모든 적 유닛에게 피해를 15 입힙니다.\r\n내 전장에 있는 용이나 천상 아군 하나당 비용이 2씩 감소합니다.\r\n내 덱에 아우렐리온 솔 하나를 섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"때가 되면 룬테라를 본보기로 삼겠다.<br>어쩌면 그을린 그 껍데기를 장난감처럼<br>영원히 끌고 다닐지도 모르지.<br>죽어서 쓸모없는 장난감처럼.<br>글쎄, 깊이 생각해 본 적이 없어서.\"<br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "아우렐리온 솔의 천상 강림",
+    "cardCode": "03MT087T2",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT081-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>지원</style></link>: 이 유닛으로부터 지원을 받는 아군에게 +2|+2를 부여합니다.<br>해당 아군이 <link=vocab.Support><style=Vocab>지원</style></link> 효과를 가지고 있다면<br>그 아군이 지원하고 있는<br>다른 아군에게도 +2|+2를 부여하고<br>효과를 잇달아 적용합니다.",
+    "descriptionRaw": "지원: 이 유닛으로부터 지원을 받는 아군에게 +2|+2를 부여합니다.해당 아군이 지원 효과를 가지고 있다면그 아군이 지원하고 있는다른 아군에게도 +2|+2를 부여하고효과를 잇달아 적용합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "타곤 산에 도전하는 모든 이들은<br>저마다의 이유로 산에 오릅니다.<br>어떤 이들은 동료에게 자신을 증명하기 위해,<br>어떤 이들은 스스로를 증명하기 위해 산에 오릅니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "거산의 체류자",
+    "cardCode": "03MT081",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03PZ017-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "유닛 하나에게 피해를 1 입힙니다. 비용이 <style=Variable>1</style>인 무작위 유닛 하나를 소환합니다. 이 카드가 손에 있을 때 비용이 3인 카드를 사용하면 피해량 및 소환할 카드의 비용이 1씩 올라갑니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 1 입힙니다. 비용이 1인 무작위 유닛 하나를 소환합니다. 이 카드가 손에 있을 때 비용이 3인 카드를 사용하면 피해량 및 소환할 카드의 비용이 1씩 올라갑니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...그리고 하나, 둘, 셋!!!<br>오, 오, 세상에...<br>또 예상 밖의 결과군요?!\"<br>- 하이머딩거",
+    "artistName": "Kudos Productions",
+    "name": "트라이빔 장치",
+    "cardCode": "03PZ017",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT007-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"여느 새끼와 마찬가지로 어린 스텔라콘은 결국 첫 번째 비행을 떠나야 하지만, 녀석들은 밤하늘의 다른 별처럼 쉽게 떨어지지. 다행히도 우리가 스텔라콘을 잡아 준비가 되면 돌려보낸다네.\"<br>- 별지기 리다리",
+    "artistName": "SIXMOREVODKA",
+    "name": "새끼 스텔라콘",
+    "cardCode": "03MT007",
+    "keywords": [
+      "체력 흡수",
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT015-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>기원</style></link>합니다.",
+    "descriptionRaw": "기원합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "하늘에는 검은 공간에 별들이 수 놓인 천상이 있습니다.<br>그 방대함에 비하면 우리는 작고 보잘것없죠.<br>그중 가장 먼저 무엇을 보시겠습니까?",
+    "artistName": "Kudos Productions",
+    "name": "무한 목도",
+    "cardCode": "03MT015",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI006T1-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 넥서스의 체력을 2 흡수합니다.",
+    "descriptionRaw": "적 넥서스의 체력을 2 흡수합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "당신의 정신보다 당신을 더 잘 아는 존재는 없습니다.<br>당신의 꿈보다 당신을 더 정교하게<br>괴롭힐 수 있는 것도 없죠.",
+    "artistName": "Kudos Productions",
+    "name": "고통",
+    "cardCode": "03SI006T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058",
+      "03MT058T1",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT058T2-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "전장에 있는 아군 하나에게<br>+3|+3을 부여합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>타릭</style></link> 하나를 섞어 넣습니다.",
+    "descriptionRaw": "전장에 있는 아군 하나에게+3|+3을 부여합니다.\r\n내 덱에 타릭 하나를 섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"타곤의 작은 선물입니다.\"<br>- 타릭",
+    "artistName": "Max Grecke",
+    "name": "타릭의 타곤의 축복",
+    "cardCode": "03MT058T2",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 4,
+    "cost": 5,
+    "health": 6,
+    "description": "소환 시 손에 <link=card.create><style=AssociatedCard>얼음 기둥</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "소환 시 손에 얼음 기둥 1장을 생성합니다.",
+    "levelupDescription": "소환된 상태에서 <link=card.create><style=AssociatedCard>얼음 기둥</style></link>을<br>사용해야 합니다.",
+    "levelupDescriptionRaw": "소환된 상태에서 얼음 기둥을사용해야 합니다.",
+    "flavorText": "하나씩 길을 따라 횃불이 밝혀지자<br>선명한 모습이 드러났습니다.<br>거대하고 무시무시한 수십,<br>어쩌면 수백의 트롤이 있었습니다.<br>\"한 번만 더 묻지,\"<br>뼈분쇄자를 어깨에 올리며 트런들이 으르렁거렸습니다.<br>\"포기하겠나? 아니면 내가 박살 내줄까?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "트런들",
+    "cardCode": "03FR006",
+    "keywords": [
+      "재생"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT054T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 6,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>해오름</style></link> 또는 다른 카드의 <link=keyword.Daybreak><style=Keyword>해오름</style></link> 효과 발동: <link=vocab.Strongest><style=Vocab>최강</style></link>인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "해오름 또는 다른 카드의 해오름 효과 발동: 최강인 적을 기절시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "레오나는 이때를 대비하고 있었습니다.<br>햇빛을 피해 산을 내려가는<br>다이애나를 발견할 수 있으리라 생각했죠.<br>레오나는 진정되지 않는 마음을 다스리기 위해<br>심호흡을 하며 엄숙한 결의로 침묵했습니다.<br>이번 두 사람의 만남에서 레오나는 우위를 차지했고,<br>레오나는 옛 친구를 정면으로 마주할 것입니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "레오나",
+    "cardCode": "03MT054T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI003-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 +2|+0 및<br><link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>공포</style></link> 효과를 일시 획득합니다.",
+    "descriptionRaw": "어스름: 이 라운드에 +2|+0 및공포 효과를 일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "태양이 잦아들면, 이곳의 공포가 깨어나 바라보며 기다립니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "칠흑의 감시인",
+    "cardCode": "03SI003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03NX017-full.png"
+      }
+    ],
+    "region": "녹서스",
+    "regionRef": "Noxus",
+    "attack": 7,
+    "cost": 7,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>사용</style></link>: 아군 유닛 하나와<br>적 유닛 하나에게<br>피해를 1씩 네 번 입힙니다.",
+    "descriptionRaw": "사용: 아군 유닛 하나와적 유닛 하나에게피해를 1씩 네 번 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "바실리스크 조련사는 전투가 가까워지면<br>살아있는 먹이를 주지 않습니다.<br>풀려나는 순간 바실리스크는 아군과 적군을 구별하지 않으며,<br>무엇으로도 막을 수 없습니다.",
+    "artistName": "Kudos Productions",
+    "name": "바실리스크 피추적자",
+    "cardCode": "03NX017",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT026-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 손에 무작위 <link=keyword.Daybreak><style=Keyword>해오름</style></link> 카드 1장을 생성합니다.\r\n이 유닛이 전장에 있으면 항상<br>해오름 효과가 발동됩니다.",
+    "descriptionRaw": "해오름: 손에 무작위 해오름 카드 1장을 생성합니다.\r\n이 유닛이 전장에 있으면 항상해오름 효과가 발동됩니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"신념을 지켜라, 라호락이여.<br>우리의 빛은 영원히 흔들리지 않을 것이다!\"",
+    "artistName": "JiHun Lee",
+    "name": "일광의 창 라분",
+    "cardCode": "03MT026",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI002-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "아무것이나 선택해 체력을 1 흡수합니다.\r\n<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 손에 무작위 <link=keyword.Nightfall><style=Keyword>어스름</style></link> 카드 1장을 생성합니다.",
+    "descriptionRaw": "아무것이나 선택해 체력을 1 흡수합니다.\r\n어스름: 손에 무작위 어스름 카드 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"하루가 지날수록 나의 영혼은 힘을 잃고<br>이곳을 찾으라 다독이던 활력을 빼앗기고 있다.<br>고래이빨 술집은 모든 의지를 잃어버린 것처럼 보이는<br>초췌한 자들로 가득하다.<br>이곳에 오래 머물면 나도 저런 모습이 될까 두렵다.\"\n- 역사학자 젠스 톰멘의 기록",
+    "artistName": "Kudos Productions",
+    "name": "말할 수 없는 공포",
+    "cardCode": "03SI002",
+    "keywords": [
+      "신속"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "신속",
+    "spellSpeedRef": "Fast",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ020"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03PZ018-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "사용하려면 카드 1장을 버려야 합니다.\r\n손에 <link=card.create><style=AssociatedCard>대담한 포로</style></link> 2장을 생성합니다.",
+    "descriptionRaw": "사용하려면 카드 1장을 버려야 합니다.\r\n손에 대담한 포로 2장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "두 개의 보송보송한 형체가 털과 희미한 탄내를 남기며<br>넋을 잃은 군중의 위로 포물선을 그리며<br>우아하게 날아갔습니다.",
+    "artistName": "Kudos Productions",
+    "name": "포로 대포",
+    "cardCode": "03PZ018",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "서로 다른 용을 둘 뽑거나 전장에 있는 아군 용들에게 +1|+1을 부여합니다.",
+    "descriptionRaw": "서로 다른 용을 둘 뽑거나 전장에 있는 아군 용들에게 +1|+1을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"놈들은 마치 목이 쉰 고양이처럼 울지.<br>들으면 바로 꽁무니를 빼고 경비병을 찾아가게 될걸?<br>용의 알이 있는 곳에는 언제나 용도 함께 있거든.\"<br>- 타곤의 채집가",
+    "artistName": "Kudos Productions",
+    "name": "용의 손아귀",
+    "cardCode": "03MT003",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT011-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "적 둘을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
+    "descriptionRaw": "적 둘을 기절시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"달빛으로도 눈이 멀 수 있지.\"<br>- 다이애나",
+    "artistName": "Kudos Productions",
+    "name": "초승달 검기",
+    "cardCode": "03MT011",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT088-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>해오름</style></link>: 이 라운드에 +1|+1을<br>일시 획득합니다.",
+    "descriptionRaw": "해오름: 이 라운드에 +1|+1을일시 획득합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "태양이 따스하게 내리쬐는 가운데 그는 이단자 감옥을 지키며 이내 씁쓸한 침묵으로 변하는 부드러운 간청을<br>무시하고 있었습니다.",
+    "artistName": "Wild Blue Studio",
+    "name": "솔라리 병사",
+    "cardCode": "03MT088",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT089-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: +2|+0을 얻습니다.",
+    "descriptionRaw": "어스름: +2|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"금욕의 수호자여, 보름달의 부드러운 손길이<br>그대의 힘을 회복시켰습니다.<br>깨어나 이 성역을 침범하는 자들로부터<br>우리를 보호해 주십시오.\"<br>- 초승달 수호자의 비문",
+    "artistName": "Aron Elekes",
+    "name": "초승달 수호자",
+    "cardCode": "03MT089",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01DE016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03DE012-full.png"
+      }
+    ],
+    "region": "데마시아",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "정예 유닛을 소환할 때마다<br>이 카드의 비용이 1 감소합니다.\r\n이 라운드에 사망한 아군 하나당<br><link=card.summon><style=AssociatedCard>불굴의 선봉대</style></link> 하나를 소환합니다.",
+    "descriptionRaw": "정예 유닛을 소환할 때마다이 카드의 비용이 1 감소합니다.\r\n이 라운드에 사망한 아군 하나당불굴의 선봉대 하나를 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"병사가 쓰러지면, 다른 병사가 그 자리를 채워야 한다.<br>우리의 깃발이 쓰러져서는 안 된다.\"<br>- 가렌",
+    "artistName": "Kudos Productions",
+    "name": "망자를 위하여",
+    "cardCode": "03DE012",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 라운드에 <link=keyword.Challenger><sprite name=Challenger><style=Keyword>도전자</style></link> 효과를 일시 획득합니다.",
+    "descriptionRaw": "어스름: 이 라운드에 도전자 효과를 일시 획득합니다.",
+    "levelupDescription": "<link=keyword.Nightfall><style=Keyword>어스름</style></link> 효과를 네 번 이상<br>발동시켜야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "어스름 효과를 네 번 이상발동시켜야 합니다. ",
+    "flavorText": "한가운데에 서서 전투를 준비하던 다이애나는<br>은색과 푸른색 빛을 뿜으며,<br>별처럼 반짝이는 눈을 부릅떴습니다.<br>달이 떠오르면서 그녀에게 빛을 비추자,<br>모든 루나리는 다이애나의 안전을 기원하고<br>감사를 표하기 위해 눈을 감았습니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "다이애나",
+    "cardCode": "03MT056",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT073T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT073-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "소환 시 손에 <link=card.create><style=AssociatedCard>황혼꽃잎 가루</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "소환 시 손에 황혼꽃잎 가루 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"황혼꽃잎은 보름달이 뜬 밤에만 꽃을 피우지.<br>우리는 루나리의 자랑스러운 상징인 이 꽃을<br>안전하게 수확하는 방법을 익히고<br>그 가루를 수 세기 동안 사용해 왔다.\"",
+    "artistName": "JiHun Lee",
+    "name": "루나리 황혼소환사",
+    "cardCode": "03MT073",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T3-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "이 라운드에 모든 유닛에게<br>-3|-0을 일시 부여합니다.<br>모든 유닛에게 피해를 3 입힙니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>트런들</style></link> 하나를 섞어 넣습니다.",
+    "descriptionRaw": "이 라운드에 모든 유닛에게-3|-0을 일시 부여합니다.모든 유닛에게 피해를 3 입힙니다.\r\n내 덱에 트런들 하나를 섞어 넣습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"놈들을 묻어버려라!\"<br>- 트런들",
+    "artistName": "Kudos Productions",
+    "name": "트런들의 얼음 지진",
+    "cardCode": "03FR006T3",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT095-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"그래서 내가 바쁘게 일하고 있을 때,<br>그 녀석이 금화를 잔뜩 들고 나타난 거야.<br>쉬운 먹잇감 아니겠어?<br>내가 다가가서 녀석을 홀리고 가격을 올렸지.<br>내가 동전을 챙길 때쯤 그 작은 사기꾼이<br>내 돈으로 돈을 냈다는 걸 깨달은 거야!<br>정말 기가 막힌 솜씨였다니까.\"<br>- 사기꾼 요들",
+    "artistName": "Kudos Productions",
+    "name": "속임수자리",
+    "cardCode": "03MT095",
+    "keywords": [
+      "포착 불가"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT027-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "아군 하나에게 +1|+2 및<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 부여합니다.\r\n<link=keyword.Daybreak><style=Keyword>해오름</style></link>: <link=card.me><style=AssociatedCard>천공의 검</style></link> 1장을 뽑습니다.",
+    "descriptionRaw": "아군 하나에게 +1|+2 및압도 효과를 부여합니다.\r\n해오름: 천공의 검 1장을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"태양의 힘을 받아들여라!\"<br>- 솔라리 사제",
+    "artistName": "Kudos Productions",
+    "name": "천공의 검",
+    "cardCode": "03MT027",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT084-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "비용이 7 이상인 천상 카드 1장을 <link=keyword.Invoke><style=Keyword>기원</style></link>하고, 아군 하나 또는 아군 넥서스의 체력을 5 회복시킵니다.",
+    "descriptionRaw": "비용이 7 이상인 천상 카드 1장을 기원하고, 아군 하나 또는 아군 넥서스의 체력을 5 회복시킵니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"별을 바라보거라. 만약 운이 좋다면, 나도 너를 볼 것이니.\" <br>- 아우렐리온 솔",
+    "artistName": "Kudos Productions",
+    "name": "별의 형성",
+    "cardCode": "03MT084",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT016-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"아, 거대한 쿵쿵이가 작은 차원문을 지나가고 싶지 않다고? 괜찮아. 하하하하! 농담이야. 출발한다!\"<br>- 조이",
+    "artistName": "SIXMOREVODKA",
+    "name": "놀란 쿵쿵이",
+    "cardCode": "03MT016",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03FR006T1-full.png"
+      }
+    ],
+    "region": "프렐요드",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 마나를 8 회복합니다.\r\n<link=vocab.Play><style=Vocab>사용</style></link> 및 <link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이 라운드에 <link=vocab.Strongest><style=Vocab>최강</style></link>인 적에게 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를<br>일시 부여합니다.",
+    "descriptionRaw": "사용: 마나를 8 회복합니다.\r\n사용 및 라운드 시작: 이 라운드에 최강인 적에게 약점 노출 효과를일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"하하! 깜짝 놀랐겠지!\"<br>- 트런들",
+    "artistName": "Kudos Productions",
+    "name": "얼음 기둥",
+    "cardCode": "03FR006T1",
+    "keywords": [
+      "약점 노출"
+    ],
+    "keywordRefs": [
+      "Vulnerable"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT059T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...둘은 모두 우주의 빛으로 만들어졌으나,\n서로 너무도 닮았기에 싸웠다.\n둘은 밤과 낮으로 나뉘었고,\n영원히 각자의 길을 걷게 되었다...\"\n- 시간의 찬가",
+    "artistName": "Kudos Productions",
+    "name": "은빛 자매",
+    "cardCode": "03MT059T1",
+    "keywords": [
+      "포착 불가"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056",
+      "03MT056T1",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT056T2-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "이 라운드에 아군 하나에게<br>+2|+1을 일시 부여합니다.<br>내 덱에 <link=card.level1><style=AssociatedCard>다이애나</style></link> 하나를 섞어 넣습니다.\r\n<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 카드 1장을 뽑습니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게+2|+1을 일시 부여합니다.내 덱에 다이애나 하나를 섞어 넣습니다.\r\n어스름: 카드 1장을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"어둠 속에서 희미한 달빛을 받는다.\"<br>- 다이애나",
+    "artistName": "Kudos Productions",
+    "name": "다이애나의 은빛 가호",
+    "cardCode": "03MT056T2",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT035-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "이 라운드에 아군 하나에게<br>+2|+1을 일시 부여합니다.\r\n<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 카드 1장을 뽑습니다.",
+    "descriptionRaw": "이 라운드에 아군 하나에게+2|+1을 일시 부여합니다.\r\n어스름: 카드 1장을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"어둠 속에서 희미한 달빛을 받는다.\"<br>- 다이애나",
+    "artistName": "Kudos Productions",
+    "name": "은빛 가호",
+    "cardCode": "03MT035",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03IO018-full.png"
+      }
+    ],
+    "region": "아이오니아",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "이 라운드에 지원을 받으면<br>+0|+3을 일시 획득합니다.\r\n<link=vocab.Support><style=Vocab>지원</style></link>: 이 라운드에 이 유닛으로부터<br>지원을 받는 아군에게 +3|+0을<br>일시 부여합니다.",
+    "descriptionRaw": "이 라운드에 지원을 받으면+0|+3을 일시 획득합니다.\r\n지원: 이 라운드에 이 유닛으로부터지원을 받는 아군에게 +3|+0을일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "보라색 요정 친구들은 작고 귀여워<br>마주치는 모든 이들이 좋아하죠.<br>음, 거의 모두가요.",
+    "artistName": "Dao Le",
+    "name": "털북숭이 관리인",
+    "cardCode": "03IO018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003T1-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "서로 다른 용 둘을 뽑습니다.",
+    "descriptionRaw": "서로 다른 용 둘을 뽑습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "용의 알 (울부짖는 용, 학명: Draco murmurationis)\n메모: 지난번 회전이 있었을 때<br>껍질이 약해지고 내부 움직임이 늘어남.<br>균열이 보이는데 표면만 깨진 것일까?\n갈겨쓴 메모: 알이 부화하고 있다!\n- 알머리 연구원 안덴 메인의 메모",
+    "artistName": "Kudos Productions",
+    "name": "부화한 알",
+    "cardCode": "03MT003T1",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT090-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"태양의 황금빛이 뿔을 장식하고, 심장에 불꽃이 이글거린다. 우레와 같은 발굽 소리처럼 방패를 두드려라!\" <br>- 솔라리 전투 기도문",
+    "artistName": "Kudos Productions",
+    "name": "황소자리",
+    "cardCode": "03MT090",
+    "keywords": [
+      "압도"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "천상",
+    "subtypes": [
+      "천상"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03SI010-full.png"
+      }
+    ],
+    "region": "그림자 군도",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Nightfall><style=Keyword>어스름</style></link>: 이 게임에서 <link=keyword.Nightfall><style=Keyword>어스름</style></link> 효과를 발동시킨 횟수당 +1|+0을 얻습니다. <style=Variable></style>",
+    "descriptionRaw": "어스름: 이 게임에서 어스름 효과를 발동시킨 횟수당 +1|+0을 얻습니다. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "태양이 저물 때마다 밤은 어두운 날개를 펼치고<br>마지막 희망의 잔재를 지워버립니다.",
+    "artistName": "SIXMOREVODKA",
+    "name": "황혼기수",
+    "cardCode": "03SI010",
+    "keywords": [
+      "공포"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT036-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "전장에 있는 아군 하나에게<br>+3|+3을 부여합니다.",
+    "descriptionRaw": "전장에 있는 아군 하나에게+3|+3을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"타곤의 작은 선물입니다.\"<br>- 타릭",
+    "artistName": "Max Grecke",
+    "name": "타곤의 축복",
+    "cardCode": "03MT036",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT003T2-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "전장에 있는 아군 용들이<br>+1|+1을 얻습니다.",
+    "descriptionRaw": "전장에 있는 아군 용들이+1|+1을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "용의 알 (울부짖는 용, 학명: Draco murmurationis)\n메모: 지난번 회전이 있었을 때<br>껍질이 약해지고 내부 움직임이 늘어남.<br>균열이 보이는데 표면만 깨진 것일까?\n갈겨쓴 메모: 알이 부화하고 있다!\n- 알머리 연구원 안덴 메인의 메모",
+    "artistName": "Kudos Productions",
+    "name": "으스러진 알",
+    "cardCode": "03MT003T2",
+    "keywords": [
+      "즉발"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/ko_kr/img/cards/03MT039-full.png"
+      }
+    ],
+    "region": "타곤",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "우주에서는 누구도 당신의 목소리를 들을 수 없습니다.",
+    "artistName": "Dao Le",
+    "name": "포로나비",
+    "cardCode": "03MT039",
+    "keywords": [
+      "주문 방어막"
+    ],
+    "keywordRefs": [
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "포로",
+    "subtypes": [
+      "포로"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set3"
+  }
+]
