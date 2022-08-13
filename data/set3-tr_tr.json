@@ -6,8 +6,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW006-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -41,8 +41,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI004-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -50,8 +50,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "Destenin en üstündeki 4 kartın arasından bir takipçi seçersin.\r\nKalanlar destene geri karışır. Elinde çektiğin takipçinin <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Hayali</style></link> bir kopyası oluşur.",
-    "descriptionRaw": "Destenin en üstündeki 4 kartın arasından bir takipçi seçersin.\r\nKalanlar destene geri karışır. Elinde çektiğin takipçinin Hayali bir kopyası oluşur.",
+    "description": "Destenin en üstündeki 4 kartın arasından bir takipçi seçersin.\r\nKalanlar destene geri karışır. Elinde çektiğin takipçinin birebir <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Hayali</style></link> bir kopyası oluşur.",
+    "descriptionRaw": "Destenin en üstündeki 4 kartın arasından bir takipçi seçersin.\r\nKalanlar destene geri karışır. Elinde çektiğin takipçinin birebir Hayali bir kopyası oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Gidin... Etraflarını sarın...'' - Nocturne",
@@ -80,8 +80,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT018-full.png"
       }
     ],
     "region": "Targon",
@@ -117,8 +117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT034-full.png"
       }
     ],
     "region": "Targon",
@@ -158,8 +158,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI012-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -197,8 +197,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI014-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -236,8 +236,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI007-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -277,8 +277,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI013-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -316,8 +316,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO017-full.png"
       }
     ],
     "region": "Ionia",
@@ -354,8 +354,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005T3-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -393,8 +393,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT073T1-full.png"
       }
     ],
     "region": "Targon",
@@ -434,8 +434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI006-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -469,8 +469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT083.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT083-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT083-full.png"
       }
     ],
     "region": "Targon",
@@ -512,8 +512,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT004-full.png"
       }
     ],
     "region": "Targon",
@@ -553,8 +553,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT037-full.png"
       }
     ],
     "region": "Targon",
@@ -594,8 +594,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT060-full.png"
       }
     ],
     "region": "Targon",
@@ -629,8 +629,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT033-full.png"
       }
     ],
     "region": "Targon",
@@ -643,7 +643,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Zil seslerini duyuyor musun Osu? Büyükbaba dönmüş!''<br>- Yıldız Çobanı Illi",
-    "artistName": "Polar Engine",
+    "artistName": "Polar Engine Studio",
     "name": "Rumul Dede",
     "cardCode": "03MT033",
     "keywords": [
@@ -670,8 +670,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03DE006-full.png"
       }
     ],
     "region": "Demacia",
@@ -713,8 +713,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR007-full.png"
       }
     ],
     "region": "Freljord",
@@ -748,8 +748,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO008T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -783,8 +783,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT021-full.png"
       }
     ],
     "region": "Targon",
@@ -826,8 +826,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT059-full.png"
       }
     ],
     "region": "Targon",
@@ -870,8 +870,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056T1-full.png"
       }
     ],
     "region": "Targon",
@@ -911,8 +911,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT092.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT092-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT092-full.png"
       }
     ],
     "region": "Targon",
@@ -925,7 +925,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Targon Dağı'nın keçileri, sıradan akrabalarından çok daha tehlikeli. Tos attıklarında mücevherden boynuzları kırılıyor ve parçalar çarptıkları yere saplanıyor. ",
-    "artistName": "Polar Engine",
+    "artistName": "Polar Engine Studio",
     "name": "Dağ Keçisi",
     "cardCode": "03MT092",
     "keywords": [],
@@ -946,8 +946,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO001-full.png"
       }
     ],
     "region": "Ionia",
@@ -984,8 +984,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005T1-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -1025,8 +1025,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT048-full.png"
       }
     ],
     "region": "Targon",
@@ -1060,8 +1060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR004-full.png"
       }
     ],
     "region": "Freljord",
@@ -1099,8 +1099,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT063-full.png"
       }
     ],
     "region": "Targon",
@@ -1136,8 +1136,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW014-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -1175,8 +1175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT006-full.png"
       }
     ],
     "region": "Targon",
@@ -1184,8 +1184,8 @@
     "attack": 5,
     "cost": 6,
     "health": 6,
-    "description": "Her tur, <link=keyword.Fury><sprite name=Fury><style=Keyword>Hiddet</style></link> tesirine sahip bir dost birim bir düşmanı ilk öldürdüğünde elinde rasgele bir Ejder oluşur.",
-    "descriptionRaw": "Her tur, Hiddet tesirine sahip bir dost birim bir düşmanı ilk öldürdüğünde elinde rasgele bir Ejder oluşur.",
+    "description": "Her tur, <link=keyword.Fury><sprite name=Fury><style=Keyword>Hiddet</style></link> tesirine sahip bir dost birim bir düşmanı ilk öldürdüğünde elinde rasgele bir Ejder takipçi oluşur.",
+    "descriptionRaw": "Her tur, Hiddet tesirine sahip bir dost birim bir düşmanı ilk öldürdüğünde elinde rasgele bir Ejder takipçi oluşur.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Göklere bakın, onları benim gördüğüm gibi görün! Önce işaretleri gelir. Geceleri ışık saçarlar. Sonra öfkeleri gelir. Gündüzleri yakarlar. Göreceksiniz! Hepimiz göreceğiz!''<br>- Ejderlerin Habercisi",
@@ -1216,8 +1216,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO019-full.png"
       }
     ],
     "region": "Ionia",
@@ -1255,8 +1255,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT053-full.png"
       }
     ],
     "region": "Targon",
@@ -1296,8 +1296,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR017-full.png"
       }
     ],
     "region": "Freljord",
@@ -1336,13 +1336,12 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "03MT054",
-      "03MT054T1",
-      "03MT054"
+      "03MT054T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T2-full.png"
       }
     ],
     "region": "Targon",
@@ -1380,8 +1379,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT014-full.png"
       }
     ],
     "region": "Targon",
@@ -1394,7 +1393,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Bulutlar ejderlerin muazzam bedenlerine dolandı. Sağır edici çığlıkları gökyüzünü inletti. Haberci neyin yaklaştığını biliyordu. Ama korkmuyor, aksine kaderin kucağına atılacağına seviniyordu.",
-    "artistName": "Polar Engine",
+    "artistName": "Polar Engine Studio",
     "name": "Ejderlerin Habercisi",
     "cardCode": "03MT014",
     "keywords": [],
@@ -1418,8 +1417,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058-full.png"
       }
     ],
     "region": "Targon",
@@ -1427,8 +1426,8 @@
     "attack": 2,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Support><style=Vocab>Destekle</style></link>: Bana ve desteklediğim dost birime bu tur <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklılık</style></link> verirsin. Bu tur senin yaptığın ve sadece beni hedef alan son büyü, o dost birime kopyalanır <style=Parentheses>(Tekrar kopyalanamaz)</style>.",
-    "descriptionRaw": "Destekle: Bana ve desteklediğim dost birime bu tur Dayanıklılık verirsin. Bu tur senin yaptığın ve sadece beni hedef alan son büyü, o dost birime kopyalanır (Tekrar kopyalanamaz).",
+    "description": "<link=vocab.Support><style=Vocab>Destekle</style></link>: Bana ve desteklediğim dost birime bu tur <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklı</style></link> verirsin. Bu tur senin yaptığın ve sadece beni hedef alan son büyü, o dost birime kopyalanır <style=Parentheses>(tekrar kopyalanamaz)</style>.",
+    "descriptionRaw": "Destekle: Bana ve desteklediğim dost birime bu tur Dayanıklı verirsin. Bu tur senin yaptığın ve sadece beni hedef alan son büyü, o dost birime kopyalanır (tekrar kopyalanamaz).",
     "levelupDescription": "Dost birimleri 7+ kere hedeflediğini ya da <link=vocab.Support><style=Vocab>Desteklediğini</style></link> gördüğümde<style=Variable></style>.",
     "levelupDescriptionRaw": "Dost birimleri 7+ kere hedeflediğini ya da Desteklediğini gördüğümde.",
     "flavorText": "''Taric'in iyiliği ve anlayışlılığı onu tanıyan herkese ilham veriyor. Onları, en soğuk gecelerde bile kendi içlerindeki sıcaklıkla ısınmaya teşvik ediyor.'' - Dağ Kâhini",
@@ -1453,8 +1452,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT032-full.png"
       }
     ],
     "region": "Targon",
@@ -1494,8 +1493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT098-full.png"
       }
     ],
     "region": "Targon",
@@ -1533,8 +1532,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT024-full.png"
       }
     ],
     "region": "Targon",
@@ -1574,8 +1573,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT066.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT066-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT066-full.png"
       }
     ],
     "region": "Targon",
@@ -1612,13 +1611,11 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "03MT085"
-    ],
+    "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT085.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT085-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT085-full.png"
       }
     ],
     "region": "Targon",
@@ -1660,8 +1657,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054-full.png"
       }
     ],
     "region": "Targon",
@@ -1699,8 +1696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T2-full.png"
       }
     ],
     "region": "Freljord",
@@ -1740,8 +1737,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT075.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT075-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT075-full.png"
       }
     ],
     "region": "Targon",
@@ -1775,8 +1772,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T4-full.png"
       }
     ],
     "region": "Ionia",
@@ -1816,8 +1813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT020-full.png"
       }
     ],
     "region": "Targon",
@@ -1851,8 +1848,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT071.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT071-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT071-full.png"
       }
     ],
     "region": "Targon",
@@ -1888,8 +1885,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX018-full.png"
       }
     ],
     "region": "Noxus",
@@ -1927,8 +1924,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR008-full.png"
       }
     ],
     "region": "Freljord",
@@ -1966,8 +1963,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT077.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT077-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT077-full.png"
       }
     ],
     "region": "Targon",
@@ -2007,8 +2004,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT002-full.png"
       }
     ],
     "region": "Targon",
@@ -2048,8 +2045,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO008-full.png"
       }
     ],
     "region": "Ionia",
@@ -2087,8 +2084,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT010-full.png"
       }
     ],
     "region": "Targon",
@@ -2130,8 +2127,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT086.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT086-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT086-full.png"
       }
     ],
     "region": "Targon",
@@ -2168,8 +2165,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087T1-full.png"
       }
     ],
     "region": "Targon",
@@ -2211,8 +2208,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT070-full.png"
       }
     ],
     "region": "Targon",
@@ -2248,8 +2245,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT019-full.png"
       }
     ],
     "region": "Targon",
@@ -2292,8 +2289,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002-full.png"
       }
     ],
     "region": "Ionia",
@@ -2327,8 +2324,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO011-full.png"
       }
     ],
     "region": "Ionia",
@@ -2362,8 +2359,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO009-full.png"
       }
     ],
     "region": "Ionia",
@@ -2401,8 +2398,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT023-full.png"
       }
     ],
     "region": "Targon",
@@ -2440,8 +2437,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO003-full.png"
       }
     ],
     "region": "Ionia",
@@ -2475,8 +2472,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT096-full.png"
       }
     ],
     "region": "Targon",
@@ -2510,8 +2507,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03BW006T1-full.png"
       }
     ],
     "region": "Bilgewater",
@@ -2551,8 +2548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT049-full.png"
       }
     ],
     "region": "Targon",
@@ -2596,8 +2593,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T5-full.png"
       }
     ],
     "region": "Ionia",
@@ -2635,8 +2632,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT044-full.png"
       }
     ],
     "region": "Targon",
@@ -2674,8 +2671,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR002-full.png"
       }
     ],
     "region": "Freljord",
@@ -2713,8 +2710,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX016-full.png"
       }
     ],
     "region": "Noxus",
@@ -2752,8 +2749,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO010-full.png"
       }
     ],
     "region": "Ionia",
@@ -2793,8 +2790,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT041-full.png"
       }
     ],
     "region": "Targon",
@@ -2832,8 +2829,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT043-full.png"
       }
     ],
     "region": "Targon",
@@ -2873,8 +2870,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT028-full.png"
       }
     ],
     "region": "Targon",
@@ -2908,8 +2905,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT022-full.png"
       }
     ],
     "region": "Targon",
@@ -2954,8 +2951,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT072.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT072-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT072-full.png"
       }
     ],
     "region": "Targon",
@@ -2999,8 +2996,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT025-full.png"
       }
     ],
     "region": "Targon",
@@ -3040,8 +3037,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT017-full.png"
       }
     ],
     "region": "Targon",
@@ -3079,8 +3076,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT051-full.png"
       }
     ],
     "region": "Targon",
@@ -3118,8 +3115,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT012-full.png"
       }
     ],
     "region": "Targon",
@@ -3157,8 +3154,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR011-full.png"
       }
     ],
     "region": "Freljord",
@@ -3198,8 +3195,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT094-full.png"
       }
     ],
     "region": "Targon",
@@ -3233,8 +3230,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T3-full.png"
       }
     ],
     "region": "Targon",
@@ -3247,7 +3244,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Onlar göklere uzandıkça, güneş onları daha çok yakacak.''<br>- Leona",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "Güneş Patlaması",
     "cardCode": "03MT054T3",
     "keywords": [
@@ -3272,8 +3269,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT076.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT076-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT076-full.png"
       }
     ],
     "region": "Targon",
@@ -3307,8 +3304,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR005-full.png"
       }
     ],
     "region": "Freljord",
@@ -3345,8 +3342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI005-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -3389,8 +3386,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO002T1-full.png"
       }
     ],
     "region": "Ionia",
@@ -3424,8 +3421,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR018-full.png"
       }
     ],
     "region": "Freljord",
@@ -3466,8 +3463,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087-full.png"
       }
     ],
     "region": "Targon",
@@ -3512,8 +3509,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058T1-full.png"
       }
     ],
     "region": "Targon",
@@ -3521,8 +3518,8 @@
     "attack": 3,
     "cost": 4,
     "health": 5,
-    "description": "<link=vocab.Support><style=Vocab>Destekle</style></link>: Desteklediğim dost birim ve ben bu tur hasar almayız ya da ölmeyiz. Bu tur senin yaptığın, sadece beni hedef almış olan son büyü o dost birime kopyalanır <style=Parentheses>(Tekrar kopyalanamaz)</style>.",
-    "descriptionRaw": "Destekle: Desteklediğim dost birim ve ben bu tur hasar almayız ya da ölmeyiz. Bu tur senin yaptığın, sadece beni hedef almış olan son büyü o dost birime kopyalanır (Tekrar kopyalanamaz).",
+    "description": "<link=vocab.Support><style=Vocab>Destekle</style></link>: Desteklediğim dost birim ve ben bu tur hasar almayız ya da ölmeyiz. Bu tur senin yaptığın, sadece beni hedef alan son büyü o dost birime kopyalanır <style=Parentheses>(tekrar kopyalanamaz)</style>.",
+    "descriptionRaw": "Destekle: Desteklediğim dost birim ve ben bu tur hasar almayız ya da ölmeyiz. Bu tur senin yaptığın, sadece beni hedef alan son büyü o dost birime kopyalanır (tekrar kopyalanamaz).",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Taric neden mi diğer insanlara iyilik ediyor? Taric, Targon'a bitik bir adam olarak geldi. Günahlarını affettirmek için dağa tırmanmak istedi... başardı da. Bitik şeylerin yeniden başlayıp güzelleşebileceğini en iyi o bilir.'' - Dağ Kâhini",
@@ -3547,8 +3544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT029-full.png"
       }
     ],
     "region": "Targon",
@@ -3582,8 +3579,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR010-full.png"
       }
     ],
     "region": "Freljord",
@@ -3617,8 +3614,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT078.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT078-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT078-full.png"
       }
     ],
     "region": "Targon",
@@ -3658,8 +3655,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT092T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT092T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT092T1-full.png"
       }
     ],
     "region": "Targon",
@@ -3697,8 +3694,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT062-full.png"
       }
     ],
     "region": "Targon",
@@ -3732,8 +3729,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT082-full.png"
       }
     ],
     "region": "Targon",
@@ -3771,8 +3768,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT065.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT065-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT065-full.png"
       }
     ],
     "region": "Targon",
@@ -3812,15 +3809,15 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT047-full.png"
       }
     ],
     "region": "Targon",
     "regionRef": "Targon",
-    "attack": 4,
+    "attack": 5,
     "cost": 6,
-    "health": 2,
+    "health": 3,
     "description": "<link=keyword.Nightfall><style=Keyword>Akşam</style></link>: Bana ve bir dost birime bu tur <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Sıyrılgan</style></link> verirsin.",
     "descriptionRaw": "Akşam: Bana ve bir dost birime bu tur Sıyrılgan verirsin.",
     "levelupDescription": "",
@@ -3847,8 +3844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT038-full.png"
       }
     ],
     "region": "Targon",
@@ -3888,8 +3885,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT050-full.png"
       }
     ],
     "region": "Targon",
@@ -3928,13 +3925,12 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "03MT087",
-      "03MT087T1",
-      "03MT087"
+      "03MT087T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT087T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT087T2-full.png"
       }
     ],
     "region": "Targon",
@@ -3972,8 +3968,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT081.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT081-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT081-full.png"
       }
     ],
     "region": "Targon",
@@ -4007,8 +4003,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03PZ017-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -4016,8 +4012,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "Bir birime 1 hasar verirsin. <style=Variable>1</style> manalık rasgele bir birim çağırırsın. Ben elindeyken 3 manalık bir kart oynadığında, ikisini de 1 arttırırsın.",
-    "descriptionRaw": "Bir birime 1 hasar verirsin. 1 manalık rasgele bir birim çağırırsın. Ben elindeyken 3 manalık bir kart oynadığında, ikisini de 1 arttırırsın.",
+    "description": "Bir birime 1 hasar verirsin. <style=Variable>1</style> manalık rasgele bir takipçi çağırırsın. Ben elindeyken 3 manalık bir kart oynadığında, ikisini de 1 arttırırsın.",
+    "descriptionRaw": "Bir birime 1 hasar verirsin. 1 manalık rasgele bir takipçi çağırırsın. Ben elindeyken 3 manalık bir kart oynadığında, ikisini de 1 arttırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''...ve üç deyince, biiir, 'kii, ÜÇ! Aa. Aaa, yine mi kestirilemez bir sonuç çıktı?'' - Heimerdinger",
@@ -4046,8 +4042,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT007-full.png"
       }
     ],
     "region": "Targon",
@@ -4087,8 +4083,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT015-full.png"
       }
     ],
     "region": "Targon",
@@ -4126,8 +4122,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI006T1-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -4164,13 +4160,12 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "03MT058",
-      "03MT058T1",
-      "03MT058"
+      "03MT058T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT058T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT058T2-full.png"
       }
     ],
     "region": "Targon",
@@ -4212,8 +4207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006-full.png"
       }
     ],
     "region": "Freljord",
@@ -4255,8 +4250,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT054T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT054T1-full.png"
       }
     ],
     "region": "Targon",
@@ -4290,8 +4285,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI003-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -4327,8 +4322,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03NX017-full.png"
       }
     ],
     "region": "Noxus",
@@ -4366,8 +4361,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT026-full.png"
       }
     ],
     "region": "Targon",
@@ -4401,8 +4396,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI002-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -4442,8 +4437,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03PZ018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03PZ018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03PZ018-full.png"
       }
     ],
     "region": "Piltover ve Zaun",
@@ -4481,8 +4476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003-full.png"
       }
     ],
     "region": "Targon",
@@ -4490,8 +4485,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "2 farklı Ejder çekersin ya da Dost ejderlere +1|+1 kazandırırsın.",
-    "descriptionRaw": "2 farklı Ejder çekersin ya da Dost ejderlere +1|+1 kazandırırsın.",
+    "description": "2 farklı Ejder çekersin ya da dost Ejderlere +1|+1 kazandırırsın.",
+    "descriptionRaw": "2 farklı Ejder çekersin ya da dost Ejderlere +1|+1 kazandırırsın.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "''Bağırışları, boğazı şiş kedi sesi gibidir. Duyarsanız derhal kaçıp en yakın muhafızı bulun. Anladınız mı? Ejder yumurtasının olduğu yerde ejder de olur.''<br>- Targonlu toplayıcı",
@@ -4520,8 +4515,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT011-full.png"
       }
     ],
     "region": "Targon",
@@ -4561,8 +4556,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT088.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT088-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT088-full.png"
       }
     ],
     "region": "Targon",
@@ -4596,8 +4591,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT089-full.png"
       }
     ],
     "region": "Targon",
@@ -4637,8 +4632,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03DE012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03DE012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03DE012-full.png"
       }
     ],
     "region": "Demacia",
@@ -4679,8 +4674,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056-full.png"
       }
     ],
     "region": "Targon",
@@ -4720,8 +4715,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT073-full.png"
       }
     ],
     "region": "Targon",
@@ -4759,8 +4754,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T3-full.png"
       }
     ],
     "region": "Freljord",
@@ -4798,8 +4793,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT095.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT095-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT095-full.png"
       }
     ],
     "region": "Targon",
@@ -4839,8 +4834,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT027-full.png"
       }
     ],
     "region": "Targon",
@@ -4878,8 +4873,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT084.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT084-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT084-full.png"
       }
     ],
     "region": "Targon",
@@ -4917,8 +4912,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT016-full.png"
       }
     ],
     "region": "Targon",
@@ -4956,8 +4951,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03FR006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03FR006T1-full.png"
       }
     ],
     "region": "Freljord",
@@ -4997,8 +4992,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT059T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT059T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT059T1-full.png"
       }
     ],
     "region": "Targon",
@@ -5037,13 +5032,12 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "03MT056",
-      "03MT056T1",
-      "03MT056"
+      "03MT056T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT056T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT056T2-full.png"
       }
     ],
     "region": "Targon",
@@ -5081,8 +5075,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT035-full.png"
       }
     ],
     "region": "Targon",
@@ -5120,8 +5114,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03IO018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03IO018-full.png"
       }
     ],
     "region": "Ionia",
@@ -5155,8 +5149,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003T1-full.png"
       }
     ],
     "region": "Targon",
@@ -5194,8 +5188,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT090.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT090-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT090-full.png"
       }
     ],
     "region": "Targon",
@@ -5235,8 +5229,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03SI010-full.png"
       }
     ],
     "region": "Gölge Adalar",
@@ -5274,8 +5268,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT036-full.png"
       }
     ],
     "region": "Targon",
@@ -5313,8 +5307,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT003T2-full.png"
       }
     ],
     "region": "Targon",
@@ -5352,8 +5346,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/tr_tr/img/cards/03MT039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set3/tr_tr/img/cards/03MT039-full.png"
       }
     ],
     "region": "Targon",
