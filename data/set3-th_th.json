@@ -1,0 +1,5387 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03BW006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW006-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มต้นรอบ</style></link>: สร้างการ์ด <link=card.create><style=AssociatedCard>Sleep with the Fishes</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "เริ่มต้นรอบ: สร้างการ์ด Sleep with the Fishes หนึ่งใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ประสบการณ์หลายปีในสังเวียนชกมวย<zwsp>ได้สอนให้ Jack รู้ถึงบทเรียนอันมีค่า <zwsp>เขารู้ว่าถ้าคู่ต่อสู้ของตนเลือดออกได้<zwsp>แล้วล่ะก็ คู่ต่อสู้คนนั้นย่อมหวาดกลัวได้ <zwsp>เขาได้เรียนรู้พลังแห่งการจ้องมอง<zwsp>อย่างเงียบงัน เขาได้เรียนรู้พลังของ<zwsp>ความโหดเหี้ยมไร้การควบคุม\n",
+    "artistName": "JiHun Lee",
+    "name": "Jack, the Winner",
+    "cardCode": "03BW006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW014-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "อัญเชิญการ์ด <link=card.summon><style=AssociatedCard>Powder Monkey</style></link>\r\n<link=vocab.Plunder><style=Vocab>ปล้น</style></link>: อัญเชิญอีกหนึ่งใบ<br>เมื่อ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัดไป",
+    "descriptionRaw": "อัญเชิญการ์ด Powder Monkey\r\nปล้น: อัญเชิญอีกหนึ่งใบเมื่อเริ่มรอบถัดไป",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แหม่... คิดว่าพวกนั้นมันน่ารักหรือไง <zwsp>ฟังนะ มัน ไม่ น่ารัก เว้ย พวกมันยุ่ง<zwsp>ไปทุกเรื่อง แถมเละเทะยิ่งกว่า<zwsp>คนส่งของเมาเรือเสียอีก และมันไม่เคยหุบปากเลย<zwsp>ให้ตายสิ ห้าม เอา ลิง ขึ้น เรือ <zwsp>จบแค่นั้นไม่ต้องพูดต่อ\" <zwsp>- Petty Officer\n",
+    "artistName": "Kudos Productions",
+    "name": "Monkey Business",
+    "cardCode": "03BW014",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03BW006T1-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "สร้างความเสียหาย<br>2 หน่วยแก่พันธมิตร เพื่อสร้างความเสียหาย<br>2 หน่วยแก่เน็กซัสของศัตรู",
+    "descriptionRaw": "สร้างความเสียหาย2 หน่วยแก่พันธมิตร เพื่อสร้างความเสียหาย2 หน่วยแก่เน็กซัสของศัตรู",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ทาพวกมันให้ชุ่มด้วยเลือดของเจ้า <br>แล้วปล่อยฉลามออกมา\" - Jack, the Winner",
+    "artistName": "Kudos Productions",
+    "name": "Sleep with the Fishes",
+    "cardCode": "03BW006T1",
+    "keywords": [
+      "ช้า",
+      "ชั่วคราว"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI004-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "เลือกผู้ติดตามจากการ์ด 4 ใบบนสุดในเด็คของคุณ\r\nจั่วการ์ด สับการ์ดที่เหลือเข้าเด็ค แล้วสร้างการ์ดเสมือน <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link> อีกใบในมือ",
+    "descriptionRaw": "เลือกผู้ติดตามจากการ์ด 4 ใบบนสุดในเด็คของคุณ\r\nจั่วการ์ด สับการ์ดที่เหลือเข้าเด็ค แล้วสร้างการ์ดเสมือน ไร้ตัวตน อีกใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ไป... ล้อมพวกมันไว้...\" - Nocturne",
+    "artistName": "Kudos Productions",
+    "name": "Stalking Shadows",
+    "cardCode": "03SI004",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI012-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ยูนิตทั้งหมดที่ถูกอัญเชิญ<br>ด้วยวิธีที่นอกเหนือจากการเล่นการ์ดในรอบนี้",
+    "descriptionRaw": "ทำลายล้าง ยูนิตทั้งหมดที่ถูกอัญเชิญด้วยวิธีที่นอกเหนือจากการเล่นการ์ดในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แน่นอนว่ามีความตายอยู่ใน Demacia เราเห็นมันพรากคนรักของเราไป <zwsp>และก็รู้ว่าวันหนึ่งมันก็จะมาหาเรา แต่บนเกาะเหล่านี้หรือ... <zwsp>ข้าแทบจะลิ้มรสของความตายได้เลยทีเดียว <zwsp>ข้าสัมผัสมันได้ในปอดของข้าเมื่อหายใจ <zwsp>ข้าได้ยินมันกระซิบอยู่ในหูของข้า <zwsp>เรื่องนี้ไม่ใช่เรื่องนามธรรม <zwsp>มันนั่งอยู่กับข้าตรงนี้ ในเวลานี้ และมันจะเก็บพวกเราทุกคนไป\"\n<zwsp>- บันทึกของ Jens Tommen นักประวัติศาสตร์",
+    "artistName": "Kudos Productions",
+    "name": "Passage Unearned",
+    "cardCode": "03SI012",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI014-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "มอบ +2|+2 และ <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link> แก่พันธมิตรทั้งหมดในเด็คและบนมือ",
+    "descriptionRaw": "มอบ +2|+2 และ ไร้ตัวตน แก่พันธมิตรทั้งหมดในเด็คและบนมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ไม่ว่าจะเป็นจิตใจหรือร่างกาย <zwsp>ข้าเกรงว่าในที่สุดฝันร้ายของ Shadow Isles <zwsp>ก็จะทำให้เราแตกเป็นเสี่ยง ๆ <zwsp>และความบ้าคลั่งจะมีอำนาจอยู่อย่างตลอดกาล\"\n<zwsp>- บันทึกของ Jens Tommen นักประวัติศาสตร์\n",
+    "artistName": "Kudos Productions",
+    "name": "Encroaching Shadows",
+    "cardCode": "03SI014",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI007-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ครั้งถัดไปที่คุณอัญเชิญพันธมิตรในรอบนี้ มอบ +1|+0 และ <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>โล่เวท</style></link> แก่พันธมิตรนั้นในรอบนี้",
+    "descriptionRaw": "ครั้งถัดไปที่คุณอัญเชิญพันธมิตรในรอบนี้ มอบ +1|+0 และ โล่เวท แก่พันธมิตรนั้นในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เมื่อก้าวออกไปจาก The Tooth ก็จะรู้สึกได้เอง <zwsp>สัมผัสปลายนิ้วที่ต้นคออย่างแผ่วเบาเหมือนปรอยฝน <zwsp>สัตว์พวกนี้ไม่สั่นไหวเลยแม้ว่าเราจะมุ่งหน้าไปหาพวกมัน <zwsp>มันไม่กลัวใบดาบหรือคบเพลิงของข้า <zwsp>มันไม่กลัวอะไรเลย เจ้าสิ่งน่าเกลียดพวกนี้\"<zwsp> - หัวขโมยใน Whale's Tooth\n",
+    "artistName": "Kudos Productions",
+    "name": "Shroud of Darkness",
+    "cardCode": "03SI007",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI013-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "อัญเชิญ <link=card.summon><style=AssociatedCard>Mistwraith</style></link> หนึ่งตัว",
+    "descriptionRaw": "อัญเชิญ Mistwraith หนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Mistwraiths เคลื่อนตัวผ่านระนาบมิติ<zwsp>ที่ตาของปุถุชนคนธรรมดามองไม่เห็น <zwsp>ปรากฏกายออกมาอย่างไม่ให้รู้ตัว <zwsp>และสร้างความโศกเศร้าให้แก่ทุกสิ่งทุกอย่างที่มันประจันหน้า\n",
+    "artistName": "Kudos Productions",
+    "name": "Risen Mists",
+    "cardCode": "03SI013",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> แก่ศัตรูหนึ่งตัว และมอบ <nobr>-1|-0</nobr> แก่ศัตรูในรอบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ เปราะบาง แก่ศัตรูหนึ่งตัว และมอบ -1|-0 แก่ศัตรูในรอบนี้",
+    "levelupDescription": "คุณโจมตีด้วยพันธมิตร <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> 5 ตัวขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "คุณโจมตีด้วยพันธมิตร พลบค่ำ 5 ตัวขึ้นไป",
+    "flavorText": "\"ดูเหมือนว่าเมื่อมีจิตวิญญาณถูกสั่นคลอนอย่างเพียงพอแล้ว <zwsp>มันก็จะฝ่าเข้ามาในโลกของเรา มีแต่ความหวังเท่านั้นที่สามารถ<zwsp>ส่งความชั่วร้ายดังกล่าวกลับไปยังมิติของมันได้...<zwsp>แต่ความหวังได้ตายไปจากที่นี่มานานแสนนานมาแล้วเมื่อราชินี<br>ได้สิ้นลม พร้อมกับเสียงกรีดร้องอันอนันตกาลของราชา\"\n- บันทึกของ Jens Tommen นักประวัติศาสตร์",
+    "artistName": "SIXMOREVODKA",
+    "name": "Nocturne",
+    "cardCode": "03SI005",
+    "keywords": [
+      "น่าสะพรึง"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005T3-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "ดูด 1 หน่วยจากยูนิตไหนก็ได้<br>สับ <link=card.level1><style=AssociatedCard>Nocturne</style></link> เข้าเด็คของคุณ\r\n<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: สุ่มสร้างการ์ด <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ",
+    "descriptionRaw": "ดูด 1 หน่วยจากยูนิตไหนก็ได้สับ Nocturne เข้าเด็คของคุณ\r\nพลบค่ำ: สุ่มสร้างการ์ด พลบค่ำ ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แต่ละวันที่ผ่านไปได้กัดกินจิตวิญญาณของข้า <zwsp>ดึงพละกำลังที่ผลักดันให้ข้าค้นหาสถานที่แห่งนี้ออกไปจาก<zwsp>ตัวข้า Whale's Tooth นั้นเต็มไปด้วยคนเฒ่าคนแก่ไร้กำลัง <zwsp>ดูเหมือนจะสูญเสียความมุ่งมั่นทุกอย่างไปแล้ว และข้าก็เกรงว่า<zwsp>ยิ่งข้าอยู่นานเท่าไหร่ ข้าก็จะกลายเป็น<zwsp>เหมือนพวกนั้นมากยิ่งขึ้นเท่านั้น\"\n<zwsp>- บันทึกของ Jens Tommen นักประวัติศาสตร์",
+    "artistName": "Kudos Productions",
+    "name": "Nocturne's Unspeakable Horror",
+    "cardCode": "03SI005T3",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI005T1-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "พันธมิตรอื่นมี <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>น่าสะพรึง</style></link>\r\nเมื่อคุณเล่นยูนิต มอบ <nobr>-1|-0</nobr> แก่ศัตรูในรอบนี้",
+    "descriptionRaw": "พันธมิตรอื่นมี น่าสะพรึง\r\nเมื่อคุณเล่นยูนิต มอบ -1|-0 แก่ศัตรูในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แต่ละคืนที่ผ่านไป ความฝันของข้าก็ยิ่งชัดเจนมากยิ่งขึ้น <zwsp>ข้ามองเห็นสิ่งมีชีวิตที่ชั่วช้าบริสุทธิ์ ไหวตัวอยู่ในความมืด <zwsp>บิดเลื้อยตามทางมาหาข้า ถึงแม้ว่า<zwsp>ข้าจะต้องประจำการอยู่ที่นี่เป็นเวลาอีกหนึ่งสัปดาห์ก็ตาม <zwsp>แต่ข้าก็จ่ายค่าเดินทางไป Fossbarrow ของเย็นวันนี้ไปแล้ว <zwsp>พูดง่าย ๆ ก็คือ ข้าทนกับสถานที่แห่งนี้ไม่ไหวแล้ว\"\n<zwsp>- บันทึกของ Jens Tommen นักประวัติศาสตร์",
+    "artistName": "SIXMOREVODKA",
+    "name": "Nocturne",
+    "cardCode": "03SI005T1",
+    "keywords": [
+      "น่าสะพรึง"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI006-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: ดูดพลัง 2 หน่วยจากเน็กซัสของศัตรู",
+    "descriptionRaw": "พลบค่ำ: ดูดพลัง 2 หน่วยจากเน็กซัสของศัตรู",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "แต่ละค่ำคืนที่ผ่านไป เหล่าผู้เดินทางก็อิดโรยเพิ่มขึ้น <zwsp>ยามนิทราไม่ได้ทำให้พักผ่อน และความฝัน<zwsp>ก็ชัดเจนเสียเหลือเกิน การนอนหลับ<zwsp>ไม่ได้ทำให้หยุดพัก แต่เหมือนกับดึงชีวิตของพวกเขา<zwsp>ออกจากกระดูกเสียนี่กระไร\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Doombeast",
+    "cardCode": "03SI006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI006T1-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "ดูดพลัง 2 หน่วยจากเน็กซัสของศัตรู",
+    "descriptionRaw": "ดูดพลัง 2 หน่วยจากเน็กซัสของศัตรู",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "อะไรจะรู้จักเราดีไปกว่าความคิดของเรา <zwsp>อะไรจะทรมานเราได้มากเท่ากับความฝันของเราเอง\n",
+    "artistName": "Kudos Productions",
+    "name": "Torment",
+    "cardCode": "03SI006T1",
+    "keywords": [
+      "สกิล"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ความสามารถ",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI003-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ +2|+0 และ <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>น่าสะพรึง</style></link> แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ +2|+0 และ น่าสะพรึง แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เมื่อตะวันละลายหายไปกลายเป็นความมืด ความน่าสะพรึงกลัว<zwsp>ของสถานที่แห่งนี้ก็จะตื่นขึ้นมา เฝ้ามอง และเฝ้ารอ\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Stygian Onlooker",
+    "cardCode": "03SI003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI002-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "ดูด 1 หน่วยจากยูนิตใดก็ได้\r\n<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: สุ่มสร้างการ์ด <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ",
+    "descriptionRaw": "ดูด 1 หน่วยจากยูนิตใดก็ได้\r\nพลบค่ำ: สุ่มสร้างการ์ด พลบค่ำ ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แต่ละวันที่ผ่านไปได้กัดกินจิตวิญญาณของข้า <zwsp>ดึงพละกำลังที่ผลักดันให้ข้าค้นหาสถานที่แห่งนี้ออกไปจาก<br>ตัวข้า Whale's Tooth นั้นเต็มไปด้วยคนเฒ่าคนแก่ไร้กำลัง <zwsp>ดูเหมือนจะสูญเสียความมุ่งมั่นทุกอย่างไปแล้ว และข้าก็เกรงว่า<zwsp>ยิ่งข้าอยู่นานเท่าไหร่ ข้าก็จะกลายเป็น<zwsp>เหมือนพวกนั้นมากยิ่งขึ้นเท่านั้น\"\n<zwsp>- บันทึกของ Jens Tommen นักประวัติศาสตร์",
+    "artistName": "Kudos Productions",
+    "name": "Unspeakable Horror",
+    "cardCode": "03SI002",
+    "keywords": [
+      "เร็ว"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "เร็ว",
+    "spellSpeedRef": "Fast",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03SI010-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนครั้งที่คุณใช้ผล <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> ในเกมนี้ <style=Variable></style>",
+    "descriptionRaw": "พลบค่ำ: มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนครั้งที่คุณใช้ผล พลบค่ำ ในเกมนี้ ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ทุกครั้งที่อาทิตย์อัสดง ยามราตรีก็จะสยายปีกอันมืดมิดของมัน<zwsp>และบดบังแสงแห่งความหวังลำแสงสุดท้ายของวัน\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Duskrider",
+    "cardCode": "03SI010",
+    "keywords": [
+      "น่าสะพรึง"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT015-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
+    "descriptionRaw": "อ้อนวอน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สรวงสวรรค์อยู่เหนือเจ้า ซึ่งก็คือผืนผ้าสีดำ<zwsp>ประดับไปด้วยดาวระยิบระยับ <zwsp>ตัวเจ้านั้นเล็กและมืดมน<zwsp>เมื่อเทียบกับความยิ่งใหญ่ของสรวงสวรรค์ <zwsp>แล้วเจ้าจะมองไปที่ใดเป็นที่แรก?\n",
+    "artistName": "Kudos Productions",
+    "name": "Behold the Infinite ",
+    "cardCode": "03MT015",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT018-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เมื่อใบไม้ร่วงหล่นจากกิ่งก้านอันแห้งเหือด Lady of Spring ก็ส่งผู้ส่งสารของตนเองไปแจ้งให้ Lord of Winter ทราบถึงฤดูกาลที่เปลี่ยนผ่าน วาจาของผู้ส่งสารก็ทำให้เหล่าดวงดาวตกใจ<br>ย้ายไปอยู่ยังตำแหน่งใหม่บนท้องฟ้า<br>ในขณะที่หัวใจอันซื่อสัตย์ของเขาก็สร้างความอบอุ่นให้ผืนดิน\"\n- Song of the Seasons",
+    "artistName": "Kudos Productions",
+    "name": "The Messenger",
+    "cardCode": "03MT018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT034-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 0,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ในระหว่างวันวิษุวัตแรกของ Targon <br>เหล่าผู้คนแห่งภูเขาก็พยายามที่จะเจรจาสันติครั้งแรก <br>แต่ในทันใดที่เหล่าผู้นำได้วางอาวุธลง <br>ก็มีคนหนึ่งแผดเสียงร้องความเจ็บปวดออกมา! <br>เหล่าทหารก็ยกหอกขึ้น และความคิดทั้งหมดเกี่ยวกับสันติภาพ<br>ก็หายไป หารู้ไม่ว่าคนทรยศที่แท้จริงนั้นก็คืออสรพิษ<br>ที่ซ่อนอยู่ใต้เท้าของพวกเขานั่นเอง <br>ซึ่งก็คือสัญญาณบ่งบอกถึงช่วงเวลาอันเหี้ยมโหด\"\n<br>- นิทานพื้นบ้านของชาว Targon",
+    "artistName": "Kudos Productions",
+    "name": "The Serpent",
+    "cardCode": "03MT034",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT083-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 8,
+    "health": 5,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้<style=Variable></style>\r\nครั้งแรกที่การ์ดใบนี้จะตาย ให้ฟื้นพลังการ์ดใบนี้จนเต็มแทน",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้\r\nครั้งแรกที่การ์ดใบนี้จะตาย ให้ฟื้นพลังการ์ดใบนี้จนเต็มแทน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Immortal Fire ได้โบยบินอยู่เหนือโลกด้วย<zwsp>ตัวตนเดียวมาช้านาน จนกระทั่งวันหนึ่ง<zwsp>ได้มองเห็นนกน้อยที่มีปีกสีทองเหมือนกับเธอ <zwsp>เธอปลาบปลื้มยินดี ด้วยเหตุที่เธอไม่เคย<zwsp>พบสิ่งใดที่เหมือนตัวเธอ <zwsp>แต่เมื่อวันเวลาผ่านไป เจ้านกน้อยก็ได้แก่ตัวลง<zwsp>และก็เริ่มสิ้นแสง Immortal Fire โศกเศร้า<zwsp>เพราะเธอไม่เคยรู้จักความตายมาก่อน <zwsp>ดังนั้นเธอจึงทั้งร้องไห้ทั้งถอนหายใจ<zwsp>ออกมาเป็นเพลิงมอดไหม้ตนเอง <zwsp>กระทั่งเธอปรากฏกายขึ้นมาอีกครั้ง<zwsp>ในร่างกายที่มีภาระจากความรู้ที่มี\" <zwsp>- นิทานพื้นบ้านของ Shuriman\n",
+    "artistName": "Kudos Productions",
+    "name": "The Immortal Fire",
+    "cardCode": "03MT083",
+    "keywords": [
+      "ว่องไว",
+      "สิ้นลม"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT004-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "ลดค่าร่ายของการ์ดหนึ่งใบในมือลง<br>1 หน่วย",
+    "descriptionRaw": "ลดค่าร่ายของการ์ดหนึ่งใบในมือลง1 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จันทร์เพ็ญแต่ละครั้งจะสาดแสงสีเงินนวล<br>อาบโลกของเรา เผยเส้นทางที่<br>ยังไม่มีคนเดิน เผยเรื่องราวที่ยังไม่มีคนเล่า\" <br>- Lunari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Moonsilver",
+    "cardCode": "03MT004",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT037-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้จะได้รับ +1|+0 ตามจำนวนการ์ดสรวงสวรรค์ที่คุณเล่นไป<br>ในเกมนี้<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>สั่งโจมตี</style></link>: มอบ +2|+2 แก่พันธมิตรอื่น ๆ และ <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link> ในรอบนี้",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้จะได้รับ +1|+0 ตามจำนวนการ์ดสรวงสวรรค์ที่คุณเล่นไปในเกมนี้\r\nสั่งโจมตี: มอบ +2|+2 แก่พันธมิตรอื่น ๆ และ ทะลวง ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ตำนานกล่าวถึง Scourge ที่ซ่อนตัว<zwsp>อยู่ในจุดไกลสุดของ Celestial Realm <zwsp>ซึ่ง ณ ที่แห่งนี้ มันเฝ้ารอเวลาที่เวลายุติ <zwsp>ซึ่งก็คือเวลาที่มันจะได้พลังของเหล่าดวงดาว<zwsp>มาทำลายฐานรากของโลก\n",
+    "artistName": "Kudos Productions",
+    "name": "The Scourge",
+    "cardCode": "03MT037",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT059-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ <link=card.create><style=AssociatedCard>The Silver Sister</style></link> หนึ่งตัว",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ The Silver Sister หนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จากสรวงสวรรค์\n<zwsp>มีสิ่งมีชีวิตสองตนปรากฏขึ้นมา:\n<zwsp>ตนหนึ่งห่มหุ้มอยู่ในแสงเปล่งประกายสีเงิน\n<zwsp>อีกตนหนึ่งคลุมครอบไปด้วยเพลิงสีทอง...\"\n<zwsp>- Hymn of the Hours",
+    "artistName": "Kudos Productions",
+    "name": "The Golden Sister",
+    "cardCode": "03MT059",
+    "keywords": [
+      "ดูดเลือด"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT053-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ +0|+2 และ <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>โล่เวท</style></link> แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "มอบ +0|+2 และ โล่เวท แก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงอาบแสงส่องสว่างนุ่มนวล <br>และรับพรที่เธอให้\" <br>- Lunari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Moonglow",
+    "cardCode": "03MT053",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT032-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "จั่วแชมเปี้ยนหนึ่งใบ ลดค่าร่ายของมันลง 1 หน่วย และมอบ +2|+2 แก่มัน",
+    "descriptionRaw": "จั่วแชมเปี้ยนหนึ่งใบ ลดค่าร่ายของมันลง 1 หน่วย และมอบ +2|+2 แก่มัน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ความยิ่งใหญ่ของท้องฟ้าราตรีแสดงให้เห็นถึง<zwsp>ระยะทางอันกว้างขวางระหว่างมนุษยชาติ<zwsp>ที่อยู่เบื้องล่างกับทวยเทพที่อยู่เบื้องบน <zwsp>แต่ก็มีปุถุชนคนธรรมดาบางคนผู้ที่มุ่งหวัง<zwsp>จะบรรลุวัตถุประสงค์ที่ยิ่งใหญ่ หากว่าภูเขา<zwsp>พิสูจน์แล้วว่าผู้นั้นควรค่า <zwsp>ผู้นั้นก็สามารถเถลิงขึ้นเป็นหนึ่งในดวงดาวได้\"<br> - Mountain Scryer\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Written in Stars",
+    "cardCode": "03MT032",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT024-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดสรวงสวรรค์ <link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ศัตรู 2 ตัว",
+    "descriptionRaw": "หากคุณ ประจักษ์ การ์ดสรวงสวรรค์ ทำลายล้าง ศัตรู 2 ตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ดวงดาวที่กำลังตายจะก่อให้เกิดการระเบิดที่ส่องสว่าง<zwsp>และทรงพลังยิ่งนัก<zwsp>ขนาดทำให้ดาวดวงอื่นที่ยังมีชีวิตและเผาผลาญอยู่<zwsp>ดูอับแสงลงไปอย่างง่ายดาย  \n",
+    "artistName": "Kudos Productions",
+    "name": "Supernova",
+    "cardCode": "03MT024",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT066-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "หาก<link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดสรวงสรรค์ มอบ +2|+2 แก่พันธมิตร<link=vocab.Everywhere><style=Vocab>ทุกหนแห่ง</style></link>",
+    "descriptionRaw": "หากประจักษ์ การ์ดสรวงสรรค์ มอบ +2|+2 แก่พันธมิตรทุกหนแห่ง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มองไปยังท้องฟ้ายามค่ำคืน <br>ดื่มด่ำความเปล่งประกายของหมู่ดาว <br>และปล่อยให้แสงดาวค่อย ๆ รักษาเจ้า\" <br>- Soraka",
+    "artistName": "Kudos Productions",
+    "name": "Cosmic Inspiration",
+    "cardCode": "03MT066",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT077-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "เพิ่มการ์ดสรวงสวรรค์ <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> แบบสุ่มจนเต็มมือของคุณ ฟื้นฟูมานาของคุณจนเต็ม",
+    "descriptionRaw": "เพิ่มการ์ดสรวงสวรรค์ ชั่วคราว แบบสุ่มจนเต็มมือของคุณ ฟื้นฟูมานาของคุณจนเต็ม",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เขาบอกว่ากลุ่มดาวบางส่วนนั้นก็เคยเป็น<zwsp>ปุถุชนคนธรรมดามาก่อน<zwsp>เป็นผู้ที่มีผลงานระดับยอดเยี่ยมจนทำให้ได้รับเกียรติให้<zwsp>อยู่ร่วมกับเหล่าดวงดาว\"<zwsp> - Mountain Scryer\n",
+    "artistName": "Kudos Productions",
+    "name": "Living Legends",
+    "cardCode": "03MT077",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT010-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 7,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้<style=Variable></style>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ในการพิทักษ์พื้นที่ระหว่างพื้นดินกับผืนฟ้า <zwsp>ก็ได้มีการวางผู้พิทักษ์มีเขาไว้ในดวงดาวเหนือ<zwsp>ภูเขา เป็นผู้ที่มีความมั่นคงและรวดเร็ว <zwsp>ผู้ท่องไปในท้องฟ้ายามราตรี ไล่ล่า<zwsp>หาผู้บุกรุก และจะต้อนรับด้วย<zwsp>แรงชนที่จะทำให้ฟ้าดินสั่นสะเทือน\" <zwsp>- ประวัติศาสตร์ Minotaur\n",
+    "artistName": "Kudos Productions",
+    "name": "The Destroyer",
+    "cardCode": "03MT010",
+    "keywords": [
+      "ทะลวง",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT070-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
+    "descriptionRaw": "เล่น: อ้อนวอน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เราเป็นคนเดียวกันและเหมือนกันเสมอ <zwsp>เราจะพรากจากกันเพียงเพราะภูเขา การเดินทาง <zwsp>และห้วงทะเลแห่งดวงดาวเท่านั้น\"\n",
+    "artistName": "Kudos Productions",
+    "name": "The Traveler",
+    "cardCode": "03MT070",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT049-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "สร้างความเสียหาย 4 หน่วยแก่ศัตรูหนึ่งตัวและ 1 หน่วยให้แก่ศัตรูอีกหนึ่งตัว",
+    "descriptionRaw": "สร้างความเสียหาย 4 หน่วยแก่ศัตรูหนึ่งตัวและ 1 หน่วยให้แก่ศัตรูอีกหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"การหล่อหลอมดวงดาวนั้นเป็นงานที่เลอะสกปรกเอาเรื่องนะ <zwsp>เพราะเจ้าไม่มีทางรู้เลยว่าก้อนหินเล็ก ๆ พวกนี้<zwsp>จะตกไปลงที่ใด แล้วข้าก็ต้องขอโทษเป็นอย่างยิ่ง<zwsp>หากว่าตกลงไปโดนตัวพวกเจ้า <zwsp>แล้วก็ทับตัวพวกเจ้าจนเละ โอ้ ช่างเหี้ยมโหดนัก\"<zwsp> - Aurelion Sol\n",
+    "artistName": "Kudos Productions",
+    "name": "Meteor Shower",
+    "cardCode": "03MT049",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT043-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ศัตรูหนึ่งตัว",
+    "descriptionRaw": "ทำลายล้าง ศัตรูหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ข้าจะเป็นคนขับเคลื่อนเหล่าดวงดาวผ่านสถานที่อันนิรทุกข์แห่งนี้ด้วยตัวเอง และมันจะงดงามใหญ่ยิ่ง\" - Aurelion Sol\n",
+    "artistName": "Kudos Productions",
+    "name": "Falling Comet",
+    "cardCode": "03MT043",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT022-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้<style=Variable></style>\r\nการ์ดใบนี้นับเป็นมังกร",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดสรวงสวรรค์แต่ละใบที่คุณเล่นในเกมนี้\r\nการ์ดใบนี้นับเป็นมังกร",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"โอ้ ใช่ กลุ่มดาวที่ข้าโปรดปราน <br>ข้าอยากจะคิดว่า<br>มันน่าจะเป็นผู้แรกที่ได้หล่นลงมา<br>ใส่ภูเขาซึ่งถูกทิ้งร้างแห่งนี้\" <br>- Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "The Great Beyond",
+    "cardCode": "03MT022",
+    "keywords": [
+      "ว่องไว",
+      "โทสะ",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์",
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT078-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดสรวงสวรรค์ให้ <link=keyword.Obliterate><style=Keyword>ทำลายล้าง</style></link> ศัตรูที่มีพลังโจมตีไม่เกิน 3 หน่วย",
+    "descriptionRaw": "หากคุณ ประจักษ์ การ์ดสรวงสวรรค์ให้ ทำลายล้าง ศัตรูที่มีพลังโจมตีไม่เกิน 3 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ในห้วงความมืดมิดตอนเริ่มต้น <zwsp>ประกายไฟแห่งชีวิตก็ส่งคลื่นผ่านจักรวาล <zwsp>เราไม่มีทางรู้ว่าเสียงหรือแสงนั้นเป็นเช่นไร <zwsp>เพราะยังไม่มีคำศัพท์ให้อธิบาย <zwsp>รวมทั้งยังไม่มีดวงตาหรือใบหูให้รับรู้ \n",
+    "artistName": "Kudos Productions",
+    "name": "Cosmic Rays",
+    "cardCode": "03MT078",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT065-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Silence><style=Vocab>ลบล้างพลัง</style></link> ผู้ติดตามหนึ่งตัว",
+    "descriptionRaw": "ลบล้างพลัง ผู้ติดตามหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ในอวกาศระหว่างดวงดาว <zwsp>ก็มีความเงียบสงัดโดยสมบูรณ์\n",
+    "artistName": "Max Grecke",
+    "name": "Equinox",
+    "cardCode": "03MT065",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT050-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เขาว่ากันว่าดวงดาวที่แข็งแกร่งที่สุดใน<zwsp>ท้องฟ้าราตรีคือดวงดาวนักรบ <zwsp>คือสิ่งมีชีวิตโบราณที่เชื่อกันว่าเป็นอมตะ <zwsp>ผู้จุติลงมาจากเหล่าดวงดาวเพื่อพิสูจน์คุณค่า<zwsp>ของตนเองในการต่อสู้ <zwsp>ไม่เคยมีแม้แต่ครั้งเดียวที่เขาพ่ายแพ้ <zwsp>แต่ว่าเรื่องเล่าทั้งหมดจะต้องจบลง<zwsp>และดวงดาวทุกดวงจะต้องตาย\n",
+    "artistName": "Kudos Productions",
+    "name": "The Warrior",
+    "cardCode": "03MT050",
+    "keywords": [
+      "ผู้ท้าชิง"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT011-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรู 2 ตัว",
+    "descriptionRaw": "สตั้น ศัตรู 2 ตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แม้แต่แสงจันทร์ก็สามารถ <zwsp>ส่องสว่างจนทำให้ตาพร่าได้\"<br>- Diana\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Crescent Strike",
+    "cardCode": "03MT011",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT095-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ตอนแรกเราก็ไม่มีอะไร ทำงานไปวัน ๆ <br>แต่อยู่ดี ๆ ก็มีเจ้าหมอนี่ที่มีทองเต็มตัวโผล่มา งานง่ายเลยใช่ไหมแบบนี้? <br>ข้าก็ค่อย ๆ ย่องเข้าไปหา <br>เพิ่มเสน่ห์ขึ้นให้พร้อมเพิ่มราคาขึ้นให้สูง <br>แต่พอตอนที่ข้าเก็บเงินเข้ากระเป๋าเท่านั้นแหละ <br>ถึงได้รู้ว่าเจ้าตัวแสบนี่มันจ่ายเงินให้ข้าด้วยเงินของข้าเอง! <br>คืนนั้นเป็นคืนเปล่งประกายของ Trickster เลยข้าจะบอกให้\" <br>- Yordle Grifter",
+    "artistName": "Kudos Productions",
+    "name": "The Trickster",
+    "cardCode": "03MT095",
+    "keywords": [
+      "ว่องไว"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT059T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...ถึงแม้ว่าทั้งคู่จะถูกสร้างขึ้นมาจากแสงส่องอวกาศ<zwsp>\nทั้งคู่ก็ต่างสู้กันเพราะว่าเหมือนกันเกินไป<zwsp>\nเพราะเช่นนั้นเองทั้งสองจึงแยกกลางคืนออกจากกลางวัน<zwsp>\nเพื่อให้แต่ละคนมีหนทางเป็นของตนเอง...\"<zwsp>\n<zwsp>- Hymn of the Hours",
+    "artistName": "Kudos Productions",
+    "name": "The Silver Sister",
+    "cardCode": "03MT059T1",
+    "keywords": [
+      "ว่องไว"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT090-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"อาทิตย์ทอแสงทองลงบนเขาของท่าน <br>และเปลวเพลิงก็ส่องสว่างกลางใจท่าน <br>จงให้โล่ของเราคำรามเหมือนเสียงกีบเท้าสนั่นของท่าน!\" <br>- คำอธิษฐานในการต่อสู้ของชาว Solari",
+    "artistName": "Kudos Productions",
+    "name": "The Charger",
+    "cardCode": "03MT090",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "สรวงสวรรค์",
+    "subtypes": [
+      "สรวงสวรรค์"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT073T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT073-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง<br><link=card.create><style=AssociatedCard>Duskpetal Dust</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างDuskpetal Dust หนึ่งใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Duskpetals จะบานในยามราตรี และจะบาน<zwsp>ภายใต้จันทร์เพ็ญเท่านั้น นี่คือสัญลักษณ์<zwsp>อันภาคภูมิใจของ Lunari เราได้ใช้ฝุ่นผง<zwsp>ของพืชชนิดนี้มานานนับหลายศตวรรษแล้ว <zwsp>และมีเพียงเราเท่านั้นที่รู้วิธีการเก็บเกี่ยวพืชชนิดนี้<zwsp>ได้อย่างปลอดภัย\"\n",
+    "artistName": "JiHun Lee",
+    "name": "Lunari Duskbringer",
+    "cardCode": "03MT073",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT073T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ยูนิต <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> ใบถัดไปที่คุณเล่นในรอบนี้<br>มีค่าร่ายลดลง 1 หน่วย",
+    "descriptionRaw": "ยูนิต พลบค่ำ ใบถัดไปที่คุณเล่นในรอบนี้มีค่าร่ายลดลง 1 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "กลิ่นของ Duskpetal นั้นไม่มีอะไรเหมือน <zwsp>หอมหวลและแปลกประหลาด <zwsp>แต่คงอยู่เพียงชั่วครู่เดียว <zwsp>นุ่มนวลดั่งแสงจันทร์เลยก็ว่าได้\n",
+    "artistName": "Kudos Productions",
+    "name": "Duskpetal Dust",
+    "cardCode": "03MT073T1",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT060-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 7,
+    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: ฟื้นพลัง 3 หน่วยแก่เน็กซัสของคุณ<br>สร้างความเสียหายแก่การ์ดใบนี้เท่ากับที่ฟื้นพลังไป",
+    "descriptionRaw": "เริ่มรอบ: ฟื้นพลัง 3 หน่วยแก่เน็กซัสของคุณสร้างความเสียหายแก่การ์ดใบนี้เท่ากับที่ฟื้นพลังไป",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ไม่มีใครรู้เกี่ยวกับวิถีของ Targon <zwsp>แบบที่ข้ารู้ เพราะว่าข้าติดอยู่กับ <zwsp>เอ่อ เหล่า Stellacorn ที่มุ่งมั่น <zwsp>โชคดีที่พวกนั้นได้ข้ามาดูแล!\" \n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Broadbacked Protector",
+    "cardCode": "03MT060",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT033-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ +0|+4 แก่พันธมิตร 2 ใบ",
+    "descriptionRaw": "เล่น: มอบ +0|+4 แก่พันธมิตร 2 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ฟังสิ Osu ได้ยินเสียงนั่นไหม? <zwsp>ระฆัง! คุณปู่กลับมาแล้ว!\" <br>- Illi, Star Shepherd",
+    "artistName": "Polar Engine Studio",
+    "name": "Grandfather Rumul",
+    "cardCode": "03MT033",
+    "keywords": [
+      "ทะลวง",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT021-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: เลือกศัตรู 2 ตัว\r\n<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> พวกมัน",
+    "descriptionRaw": "เล่น: เลือกศัตรู 2 ตัว\r\nเริ่มรอบ: สตั้น พวกมัน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ว่ากันว่าผู้เดินทางที่ได้จ้องมองไปที่<zwsp>สิ่งมีชีวิตดังกล่าวนั้น ก็จะได้รับองค์ความรู้<zwsp>อันแสนยิ่งใหญ่ ข้อมูลเบื้องลึกอันแสนยอดเยี่ยม <zwsp>และจิตใจของพวกเขาก็ถูกบดขยี้<zwsp>ภายใต้การจ้องมองของมัน\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "The Infinite Mindsplitter",
+    "cardCode": "03MT021",
+    "keywords": [
+      "โทสะ"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link> แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ ผู้ท้าชิง แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "คุณได้ใช้ผล <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> 4 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "คุณได้ใช้ผล พลบค่ำ 4 ครั้งขึ้นไป",
+    "flavorText": "เธอยืนหยัดอยู่ท่ามกลางพวกเขาในขณะที่<zwsp>เธอเตรียมตัวต่อสู้ แสงส่องสว่าง <zwsp>สะพรั่งด้วยด้วยสีเงินและสีน้ำเงิน <zwsp>ดวงตาของเธอดูดั่งดวงดาว <zwsp>เมื่อดวงจันทร์ปรากฏขึ้นและส่องแสงมายังเธอ <zwsp>เหล่า Lunari ที่มารวมตัวกันก็หลับตาลง<zwsp>สวดภาวนาอย่างเงียบงันเพื่อขอให้<zwsp>เธอปลอดภัย และสวดภาวนาด้วยความขอบคุณ\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Diana",
+    "cardCode": "03MT056",
+    "keywords": [
+      "โจมตีก่อน"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> หรือเมื่อคุณเริ่มใช้การ์ด <link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link> อีกหนึ่งใบ: มอบ +2|+0 และ <link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link> แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "พลบค่ำ หรือเมื่อคุณเริ่มใช้การ์ด พลบค่ำ อีกหนึ่งใบ: มอบ +2|+0 และ ผู้ท้าชิง แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Diana วิ่งลงจากภูเขา ชักดาบออกมา <zwsp>และถูกปกคลุมไปด้วยฝุ่น Duskpetal <zwsp>เธอรู้ว่า Leona จะหาตัวเธอพบ <zwsp>และเธอก็คาดว่ามันจะเกิดขึ้น <zwsp>หัวใจของเธอเต้นระรัวด้วยความมุ่งหวังหวาดวิตก <zwsp>และเธอก็สูดหายใจลึกเพื่อข่มใจตนเอง <zwsp>ในเวลาครั้งนี้ที่ได้พบปะกัน เธอถือไพ่เหนือกว่า <zwsp>ในเวลาครั้งนี้ เธอจะเผชิญหน้ากับเพื่อนเก่า<zwsp>ของตนเองโดยตรง\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Diana",
+    "cardCode": "03MT056T1",
+    "keywords": [
+      "โจมตีก่อน"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT056T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ +2|+1 แก่พันธมิตรหนึ่งตัวในรอบนี้ สับ <link=card.level1><style=AssociatedCard>Diana</style></link> เข้าเด็คของคุณ \r\n<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: จั่วการ์ด 1 ใบ",
+    "descriptionRaw": "มอบ +2|+1 แก่พันธมิตรหนึ่งตัวในรอบนี้ สับ Diana เข้าเด็คของคุณ \r\nพลบค่ำ: จั่วการ์ด 1 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ภายใต้ราตรีปกคลุม <zwsp>แสงจันทร์นวลเฝ้าแหนแลดู\" <zwsp>- Diana\n",
+    "artistName": "Kudos Productions",
+    "name": "Diana's Pale Cascade",
+    "cardCode": "03MT056T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT092-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Strike><style=Vocab>จู่โจม</style></link>: สร้าง <link=card.create><style=AssociatedCard>Gem</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "จู่โจม: สร้าง Gem หนึ่งใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "พวกแพะแห่ง Mount Targon อันตรายยิ่งกว่า<zwsp>เหล่าญาติพี่น้องปกติ ๆ ของพวกมันเสียอีก <zwsp>เพราะว่าอัญมณีที่ประกอบขึ้นมาเป็นเขา<zwsp>ของพวกมันนั้น จะฝังชิ้นส่วน<zwsp>อันแสนเจ็บปวดไว้เมื่อกระทบโดน \n",
+    "artistName": "Polar Engine Studio",
+    "name": "Mountain Goat",
+    "cardCode": "03MT092",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT048-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง <link=card.create><style=AssociatedCard>Gem</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง Gem หนึ่งใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เขาบอกว่า Protector ได้ให้พรแก่อัญมณีเหล่านี้ <zwsp>สวมใส่เถิด แล้วเขาจะอยู่กับเจ้า<zwsp>ในวิญญาณ\"\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Gift Giver",
+    "cardCode": "03MT048",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT063-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
+    "descriptionRaw": "เล่น: อ้อนวอน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงดูเพื่อนพ้องของพวกเราทุกคนที่อยู่ใน<zwsp>ท้องฟ้ายามค่ำคืนนี้! เห็นดวงดาวที่ส่องแสงเปล่งประกาย<zwsp>เป็นพิเศษนั่นไหม? นั่นคือตาของผู้นำสาร<zwsp>ที่จ้องมองลงมาที่พวกเรา! <zwsp>ส่วนกลุ่มดาวพร่างแสงนั่นเล่า? <zwsp>มันคือ Trickster ที่ซ่อนตัวอยู่หลังหมู่มวลเมฆ! <zwsp>และดวงนั้นที่อยู่ตรงนั้น KULUN <zwsp>ชู่ว! ตะปบลงมาไม่ได้นะ...!\"\n",
+    "artistName": "Aron Elekes",
+    "name": "Moondreamer",
+    "cardCode": "03MT063",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT006-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 6,
+    "description": "เมื่อพันธมิตรที่มี <link=keyword.Fury><sprite name=Fury><style=Keyword>โทสะ</style></link> ฆ่าศัตรูครั้งแรกในแต่ละรอบ สร้างผู้ติดตามมังกรหนึ่งใบแบบสุ่มในมือ",
+    "descriptionRaw": "เมื่อพันธมิตรที่มี โทสะ ฆ่าศัตรูครั้งแรกในแต่ละรอบ สร้างผู้ติดตามมังกรหนึ่งใบแบบสุ่มในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มองไปที่สวรรค์และจงเห็นให้เหมือนที่ข้าเห็น! <zwsp>อย่างแรกคือสัญญาณ ตอนกลางคืนมันจะเปล่งประกาย <zwsp>จากนั้นก็คือความเดือดดาล ตอนกลางวัน<zwsp>มันจะแผดเผาทุกสิ่ง ท่านจะเห็น! เราทุกคนจะเห็น!\" <zwsp>- Herald of Dragons\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Inviolus Vox",
+    "cardCode": "03MT006",
+    "keywords": [
+      "โทสะ"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูที่ <link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
+    "descriptionRaw": "รุ่งอรุณ: สตั้น ศัตรูที่ แข็งแกร่งที่สุด",
+    "levelupDescription": "คุณได้ใช้ผล <link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link> 4 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "คุณได้ใช้ผล รุ่งอรุณ 4 ครั้งขึ้นไป",
+    "flavorText": "เธอยืนหยัดอยู่ท่ามกลางพวกเขาในขณะที่<zwsp>เธอเตรียมตัวต่อสู้ แสงส่องสว่าง <zwsp>สะพรั่งด้วยสีเลือดและสีทอง <zwsp>ดวงตาของเธอเป็นดั่งอำพัน <zwsp>ยามตะวันเบิกฟ้าและส่องแสงทรงกลดเป็นมงกุฎแด่เธอ <zwsp>Solari แต่ละคนได้หลบตาลง <zwsp>ไม่ใช่เพราะความอับอาย <zwsp>แต่เพราะความเคารพเชื่อฟังผู้นำผู้เจิดจ้าของตนเอง\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Leona",
+    "cardCode": "03MT054",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "มอบ +2|+2 แก่พันธมิตรในรอบนี้ สับ <link=card.level1><style=AssociatedCard>Leona</style></link> เข้าเด็คของคุณ \r\n<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: เปิดใช้งาน",
+    "descriptionRaw": "มอบ +2|+2 แก่พันธมิตรในรอบนี้ สับ Leona เข้าเด็คของคุณ \r\nรุ่งอรุณ: เปิดใช้งาน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เธอคือผู้นำผู้แน่วแน่ของเราบนสวรรค์ <zwsp>คือแสงกระทบยามเที่ยงอันแผดจ้าจากอาวุธของพวกเรา <zwsp>คือไฟรุ่มร้อนที่ไม่อาจต้านทาน<zwsp>ที่แผดเผาในหัวใจของพวกเรา\"\n<zwsp>- Solari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Leona's Morning Light",
+    "cardCode": "03MT054T2",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T3-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูที่ <link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
+    "descriptionRaw": "สตั้น ศัตรูที่ แข็งแกร่งที่สุด",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ยิ่งเข้าใกล้สรวงสวรรค์มากเพียงใด <zwsp>ดวงตะวันก็จะแผดเผามากเพียงนั้น\" <zwsp>- Leona\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Solar Flare",
+    "cardCode": "03MT054T3",
+    "keywords": [
+      "สกิล"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ความสามารถ",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT054T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 6,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link> หรือเมื่อคุณเริ่มใช้การ์ด <link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link> อีกหนึ่งใบ: <link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูที่ <link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
+    "descriptionRaw": "รุ่งอรุณ หรือเมื่อคุณเริ่มใช้การ์ด รุ่งอรุณ อีกหนึ่งใบ: สตั้น ศัตรูที่ แข็งแกร่งที่สุด",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "นี่คือสิ่งที่ Leona ได้เตรียมตัวไว้ <zwsp>เธอรู้ดีว่าเธอจะพบว่า Diana หนีลงจากภูเขา <zwsp>ถอยร่นออกไปก่อนที่แสงตะวันจะสาดส่อง <zwsp>เธอสูดหายใจลึกแต่ก็พบว่าหัวใจเต้นยังระรัวอยู่ดี <zwsp>เธอพยายามข่มใจให้เงียบลง<zwsp>ด้วยความมุ่งมั่นอันน่าหวาดวิตก <zwsp>ในครั้งนี้ที่ได้พบปะกัน เธอถือไพ่เหนือกว่า <zwsp>ในครั้งนี้ เธอจะเผชิญหน้ากับเพื่อนเก่าของตนโดยตรง\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Leona",
+    "cardCode": "03MT054T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT014-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "พันธมิตรมังกรมีค่าร่ายลดลง 1 หน่วย",
+    "descriptionRaw": "พันธมิตรมังกรมีค่าร่ายลดลง 1 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เหล่ามวลเมฆบิดพริ้วรอบร่างขนาดมหึมา <zwsp>และท้องฟ้าก็ดูเหมือนจะสั่นสะท้านไปพร้อมกับ<zwsp>เสียงโหยหวนแสนเศร้าของพวกเขา <zwsp>แม้เธอรู้ว่าอะไรกำลังจะมา เธอก็ไม่หวั่นเกรง <zwsp>กลับอ้าแขนโอบยอมรับกับโชคชะตา\n",
+    "artistName": "Polar Engine Studio",
+    "name": "Herald of Dragons",
+    "cardCode": "03MT014",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ <link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link> แก่การ์ดใบนี้และพันธมิตรที่ได้รับการสนับสนุนในรอบนี้ คัดลอกเวทล่าสุดที่คุณร่ายบนการ์ดใบนี้ในรอบนี้<br>แล้วใช้กับพันธมิตรตัวนั้น <style=Parentheses>(ไม่สามารถคัดลอกซ้ำได้)</style>",
+    "descriptionRaw": "สนับสนุน: มอบ ทนทาน แก่การ์ดใบนี้และพันธมิตรที่ได้รับการสนับสนุนในรอบนี้ คัดลอกเวทล่าสุดที่คุณร่ายบนการ์ดใบนี้ในรอบนี้แล้วใช้กับพันธมิตรตัวนั้น (ไม่สามารถคัดลอกซ้ำได้)",
+    "levelupDescription": "เมื่อการ์ดใบนี้เห็นคุณเล็งเป้าหมายหรือ <link=vocab.Support><style=Vocab>สนับสนุน</style></link> พันธมิตร 7 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "เมื่อการ์ดใบนี้เห็นคุณเล็งเป้าหมายหรือ สนับสนุน พันธมิตร 7 ครั้งขึ้นไป",
+    "flavorText": "\"ความเมตตาอันนุ่มนวลของ Taric สร้างแรงบันดาลใจ<zwsp>ให้กับทุกคนที่ได้พบเจอ <zwsp>ดึงดูดทุกคนให้ค้นหาความอบอุ่นที่อยู่ภายใน <zwsp>เพื่อเสริมกำลังของตนเอง<zwsp>แม้กระทั่งในค่ำคืนที่หนาวเหน็บที่สุด\" <zwsp>- Mountain Scryer\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Taric",
+    "cardCode": "03MT058",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT098-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ +0|+2 แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "มอบ +0|+2 แก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"โล่ของเราคือการอุทิศตนของเรา <zwsp>คือความมุ่งมั่นของเรา <zwsp>คือความเชื่อมั่นในแสงสว่างของเรา!\" <zwsp>- Solari Shieldbearer\n",
+    "artistName": "Kudos Productions",
+    "name": "Sunblessed Vigor",
+    "cardCode": "03MT098",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT085"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT085-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=vocab.Silence><style=Vocab>ลบล้างพลัง</style></link>ยูนิตหนึ่งใบในรอบนี้ สร้างการ์ด <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> <link=card.me><style=AssociatedCard>Hush</style></link> ที่มีค่าร่ายเพิ่ม 1 หน่วยในมือ",
+    "descriptionRaw": "ลบล้างพลังยูนิตหนึ่งใบในรอบนี้ สร้างการ์ด ชั่วคราว Hush ที่มีค่าร่ายเพิ่ม 1 หน่วยในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"พวกเขาจะรู้จักความเงียบสงบ\" - Soraka",
+    "artistName": "Kudos Productions",
+    "name": "Hush",
+    "cardCode": "03MT085",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT075-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
+    "descriptionRaw": "พลบค่ำ: อ้อนวอน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"โอ้ เหล่าดวงดาวเบื้องบน <zwsp>ที่เดินทางดั่งผู้แสวงบุญมากมายผ่านความอ้างว้าง<zwsp>ยามราตรี โปรดอยู่กับเราเพียงชั่วครู่เถิด <zwsp>แล้วบอกเราว่าท่านได้เห็นสิ่งใด\" <zwsp>- The Paeans of Evening\n",
+    "artistName": "Kudos Productions",
+    "name": "Lunari Priestess",
+    "cardCode": "03MT075",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT020-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: ฟื้นพลัง 3 หน่วย<br>แก่พันธมิตรหนึ่งตัวและเน็กซัสของคุณ",
+    "descriptionRaw": "เล่น: ฟื้นพลัง 3 หน่วยแก่พันธมิตรหนึ่งตัวและเน็กซัสของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มองเห็นดวงดาวดวงนั้นที่เคลื่อนที่ข้ามขอบฟ้าราตรีนั่นไหม? นั่นคือ Stellacorn ที่โตแล้ว ในขณะที่ตัววัยเยาว์จะให้เรายืมเวทมนตร์รักษาไปจนกระทั่ง<br>สามารถกลับคืนไปยังท้องฟ้าได้ ส่วน Stellacorns<br>ที่โตแล้วก็สามารถรั้งพลังได้ด้วยตนเอง<br>ถือว่าเป็นความโชคดีอย่างมากที่ได้เห็นและได้รู้จักในสิ่งที่มันเป็น<br>แต่จะโชคดียิ่งกว่าถ้าเราได้ดูแลสักตัว\"<br>- Lidari, Keeper of the Stars",
+    "artistName": "SIXMOREVODKA",
+    "name": "Resplendent Stellacorn",
+    "cardCode": "03MT020",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT071-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ +0|+2 แก่พันธมิตรที่การ์ดใบนี้สนับสนุน",
+    "descriptionRaw": "สนับสนุน: มอบ +0|+2 แก่พันธมิตรที่การ์ดใบนี้สนับสนุน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ในการเดินทาง เราต้องเปิดกว้างต่อการเดินทาง <zwsp>ซึ่งท้ายสุดแล้วก็จะเปลี่ยนแปลงตัวเรา <zwsp>ในการเดินทาง เราจะได้เก็บสิ่งใหม่<zwsp>บางสิ่งไปด้วย... และเราก็จะทิ้งสิ่งบางสิ่ง<zwsp>ที่เป็นตัวตนเก่าของเราไว้เบื้องหลัง \n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Tyari the Traveler",
+    "cardCode": "03MT071",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT002-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "สร้างความเสียหาย 15 หน่วยแก่ศัตรูทั้งหมด\r\nลดค่าร่ายลง 2 หน่วยต่อพันธมิตรแต่ละตัว<br>ที่เป็นมังกรหรือสรวงสวรรค์ที่ตนเองมี",
+    "descriptionRaw": "สร้างความเสียหาย 15 หน่วยแก่ศัตรูทั้งหมด\r\nลดค่าร่ายลง 2 หน่วยต่อพันธมิตรแต่ละตัวที่เป็นมังกรหรือสรวงสวรรค์ที่ตนเองมี",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เมื่อเวลานั้นมาถึง ข้าคิดว่า<zwsp>ข้าจะแสดงตัวอย่างของ Runeterra ให้ดู บางทีข้า<zwsp>อาจจะต้องลากเปลือกของมันไปกับข้าไปตลอดกาลนาน <zwsp>เหมือนลูกบอล ลูกบอลที่ได้ตายไปแล้ว <zwsp>ไม่รู้สิ ข้ายังไม่ได้คิดเกี่ยวกับมันมากนัก\" <zwsp>- Aurelion Sol\n",
+    "artistName": "Kudos Productions",
+    "name": "The Skies Descend",
+    "cardCode": "03MT002",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT086-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: ทิ้งการ์ดหนึ่งใบเพื่อ <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link> ขอการ์ดสรวงสวรรค์ที่มีค่าร่ายไม่เกิน<br>3 หน่วย",
+    "descriptionRaw": "เล่น: ทิ้งการ์ดหนึ่งใบเพื่อ อ้อนวอน ขอการ์ดสรวงสวรรค์ที่มีค่าร่ายไม่เกิน3 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"นี่คือสิ่งที่ข้าชอบ! ข้าเรียกมันว่า <zwsp>'อัตลักษณ์อภิปรัชญาแห่งจินตะสำนึก' <zwsp>ยกเว้นว่าจะเอนหัวแบบนี้... ไม่เช่นนั้น<zwsp>ก็จะมองเห็นเหมือนกับว่าเป็นช้อนสองคัน\"",
+    "artistName": "Dao Le",
+    "name": "Spacey Sketcher",
+    "cardCode": "03MT086",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link> ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย<br>7 หน่วยขึ้นไป\r\n<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: สร้างการ์ดสรวงสวรรค์หนึ่งใบ<br>แบบสุ่มในมือ",
+    "descriptionRaw": "เล่น: อ้อนวอน ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย7 หน่วยขึ้นไป\r\nเริ่มรอบ: สร้างการ์ดสรวงสวรรค์หนึ่งใบแบบสุ่มในมือ",
+    "levelupDescription": "<link=vocab.RoundEnd><style=Vocab>จบรอบ</style></link>: พันธมิตรจะมีพลังทั้งหมด<br>25 หน่วยขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "จบรอบ: พันธมิตรจะมีพลังทั้งหมด25 หน่วยขึ้นไป",
+    "flavorText": "Aurelion Sol คือมังกรเอกภพโบราณผู้ที่สร้างดวงดาวและดาวเคราะห์<zwsp>นานนับไม่ถ้วน และบนยอดเขา Targon นั้นเอง Aurelion Sol ก็ได้วางแผนการทำลายล้างโลกแห่ง Runeterra... อัน \"ต้อยต่ำ\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Aurelion Sol",
+    "cardCode": "03MT087",
+    "keywords": [
+      "โทสะ",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 11,
+    "cost": 10,
+    "health": 11,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link> ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย<br>7 หน่วยขึ้นไป\r\n<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: สร้างการ์ดสรวงสวรรค์หนึ่งใบ<br>แบบสุ่มในมือ\r\nการ์ดสรวงสวรรค์ของคุณมีค่าร่าย<br>0 หน่วย",
+    "descriptionRaw": "เล่น: อ้อนวอน ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย7 หน่วยขึ้นไป\r\nเริ่มรอบ: สร้างการ์ดสรวงสวรรค์หนึ่งใบแบบสุ่มในมือ\r\nการ์ดสรวงสวรรค์ของคุณมีค่าร่าย0 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Aurelion Sol นั้นหล่อเหลา  <zwsp>และสูงส่ง และยังฉะหลาดมาก ๆ อีกด้วย\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Aurelion Sol",
+    "cardCode": "03MT087T1",
+    "keywords": [
+      "โทสะ",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT087T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "สร้างความเสียหาย 15 หน่วยให้แก่ศัตรูทุกตัว\r\nลดค่าร่ายลง 2 หน่วยต่อพันธมิตรแต่ละตัว<br>ที่เป็นมังกรหรือสรวงสวรรค์\r\nสับ <link=card.level1><style=AssociatedCard>Aurelion Sol</style></link> หนึ่งใบเข้าเด็คของตนเอง",
+    "descriptionRaw": "สร้างความเสียหาย 15 หน่วยให้แก่ศัตรูทุกตัว\r\nลดค่าร่ายลง 2 หน่วยต่อพันธมิตรแต่ละตัวที่เป็นมังกรหรือสรวงสวรรค์\r\nสับ Aurelion Sol หนึ่งใบเข้าเด็คของตนเอง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เมื่อเวลานั้นมาถึง ข้าคิดว่าข้าจะแสดง<zwsp>ตัวอย่างของ Runeterra ให้ดู บางทีข้าอาจจะต้อง<zwsp>ลากเปลือกของมันไปกับข้าไปตลอดกาลนาน <zwsp>เหมือนลูกบอล ลูกบอลที่ได้ตายไปแล้วและไร้ค่า <zwsp>ไม่รู้สิ ข้ายังไม่ได้คิดเกี่ยวกับเรื่องนี้มากนัก\" <zwsp>- Aurelion Sol\n",
+    "artistName": "Kudos Productions",
+    "name": "Aurelion Sol's The Skies Descend",
+    "cardCode": "03MT087T2",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT019-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "มอบ +1+1 และ <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>โล่เวท</style></link> แก่พันธมิตร",
+    "descriptionRaw": "มอบ +1+1 และ โล่เวท แก่พันธมิตร",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงให้เกียรติภูเขา\" - Taric",
+    "artistName": "Kudos Productions",
+    "name": "Bastion",
+    "cardCode": "03MT019",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT023-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "สร้างความเสียหาย 6 หน่วยแก่ยูนิตหนึ่งตัว\r\n<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: เปลี่ยนผลเป็น <link=vocab.Silence><style=Vocab>ลบล้างพลัง</style></link> ของมันในรอบนี้ และสร้างความเสียหาย 6 หน่วยแก่มันแทน",
+    "descriptionRaw": "สร้างความเสียหาย 6 หน่วยแก่ยูนิตหนึ่งตัว\r\nรุ่งอรุณ: เปลี่ยนผลเป็น ลบล้างพลัง ของมันในรอบนี้ และสร้างความเสียหาย 6 หน่วยแก่มันแทน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "มีเพียงไม่กี่สิ่ง<zwsp>ที่รอดชีวิตจากการจับจ้องเพ่งเขม็ง<zwsp>ดุจดั่งตะวัน\n",
+    "artistName": "Kudos Productions",
+    "name": "Sunburst",
+    "cardCode": "03MT023",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT096-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link> การ์ด Celestial ที่ใช้ค่าร่าย 4, 5 หรือ 6",
+    "descriptionRaw": "รุ่งอรุณ: อ้อนวอน การ์ด Celestial ที่ใช้ค่าร่าย 4, 5 หรือ 6",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Solari มองไปที่ดวงดาวเพื่อขอคำชี้แนะมากมาย<zwsp>เช่นเดียวกับชาว Targon คนอื่น เพราะว่าดวงดาว<zwsp>ที่มีความสำคัญต่อโชคชะตาของพวกเขาที่สุด<zwsp>ก็คือดวงตะวัน\n",
+    "artistName": "Grafit Studio",
+    "name": "Solari Priestess",
+    "cardCode": "03MT096",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT044-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: มอบ +4|+4 แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "รุ่งอรุณ: มอบ +4|+4 แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ผู้พิทักษ์ที่เปล่งประกาย ความโกรธาของท่าน<zwsp>ได้แผดเผาดั่งดวงอาทิตย์ยามเที่ยงวัน <zwsp>โปรดออกมาและลงโทษผู้ที่บุกรุก<zwsp>เข้ามายังสถานที่ศักดิ์สิทธิ์แห่งนี้\"<zwsp> - จารึกของ Sun Guardian\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Sun Guardian",
+    "cardCode": "03MT044",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT041-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ +2|+2 แก่พันธมิตรที่การ์ดใบนี้สนับสนุน\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: สร้าง <link=card.create><style=AssociatedCard>Gems</style></link> 3 ใบในมือ",
+    "descriptionRaw": "สนับสนุน: มอบ +2|+2 แก่พันธมิตรที่การ์ดใบนี้สนับสนุน\r\nสิ้นลม: สร้าง Gems 3 ใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เมื่อกี้ฟังแล้วเข้าใจอะไรบ้างหรือเปล่า?\"<zwsp>\n\"ไม่เข้าใจเลยอะ แต่ก็ดูดีนะ\"\n<zwsp>- Emir กับ Haley ผู้เดินทางขึ้นภูผา",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mentor of the Stones",
+    "cardCode": "03MT041",
+    "keywords": [
+      "สิ้นลม"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT028-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: มอบ +0|+4 แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "รุ่งอรุณ: มอบ +0|+4 แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"พวกโง่ ไม่ยอมมาอยู่ภายใต้การปกคลุมของราตรี\" Shieldbearer ยืดอกกล่าว \"วางอาวุธของเจ้าซะ และยอมมากับข้าเสียแต่โดยดี\"\nLunari หมอบอยู่ในความเงียบงัน จับใบดาบวงโค้งของตนเองไว้มั่นอีกครั้งหนึ่ง\nถ้าจะเอาแบบนั้นก็ช่วยไม่ได้\nSolari เตรียมตัวพร้อม ยกโล่ขึ้นมาเพื่อสะท้อนแสงส่องสว่างของตะวันเบิกฟ้า\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Solari Shieldbearer",
+    "cardCode": "03MT028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT072-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "การท้าทายอันนับไม่ถ้วนเฝ้ารอ<zwsp>ผู้ที่ปีน Mount Targon อยู่ บางเรื่องเช่น<zwsp>การปีนขึ้นอันไม่รู้จักจบจักสิ้น จะค่อย ๆ กัดกิน<zwsp>ความแข็งแกร่ง ส่วนเรื่องอื่นก็จะเกิดขึ้น<zwsp>อย่างฉับพลันยิ่งกว่านั้น\n",
+    "artistName": "Jihun Lee",
+    "name": "Fused Firebrand",
+    "cardCode": "03MT072",
+    "keywords": [
+      "โทสะ",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT025-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "เพิ่ม <link=card.create><style=AssociatedCard>Gems</style></link> จนเต็มมือของคุณ",
+    "descriptionRaw": "เพิ่ม Gems จนเต็มมือของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"วางอัญมณีให้ถูกด้าน แล้วมันก็จะส่องประกาย<br>ภายใต้แสง เหมือนดั่งชีวิตมนุษย์ <br>แต่ละชีวิตก็มีไฟภายในใจแตกต่างกันไป\" <br>- Taric",
+    "artistName": "Kudos Productions",
+    "name": "Shards of the Mountain",
+    "cardCode": "03MT025",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT018"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT017-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "สับ <link=card.shuffle><style=AssociatedCard>The Messengers</style></link> 5 ใบเข้าเด็คของคุณ",
+    "descriptionRaw": "สับ The Messengers 5 ใบเข้าเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เวลาผันผ่าน ท้องฟ้าแปรเปลี่ยน <zwsp>อสรพิษหลบหลีก และผู้ส่งสารก้าวขึ้นมาแทน <zwsp>ฤดูกาลแห่งความอุดมสมบูรณ์กำลังรออยู่...\" <zwsp>- Lunari Priestess\n",
+    "artistName": "Max Grecke",
+    "name": "Messenger's Sigil",
+    "cardCode": "03MT017",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT051-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "ฟื้นพลัง 2 หน่วยแก่พันธมิตรหนึ่งตัว<br>หรือเน็กซัสของคุณ<br>จั่วการ์ด 1 ใบ",
+    "descriptionRaw": "ฟื้นพลัง 2 หน่วยแก่พันธมิตรหนึ่งตัวหรือเน็กซัสของคุณจั่วการ์ด 1 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Stellacorn จะส่องสว่างที่สุด<zwsp>ในเวลาที่มีความสุข\n",
+    "artistName": "Kudos Productions",
+    "name": "Guiding Touch",
+    "cardCode": "03MT051",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT012-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 10,
+    "health": 6,
+    "description": "ลดค่าร่ายของการ์ดใบนี้ลง 1 หน่วย สำหรับทุกครั้งที่คุณตกเป็นเป้าหมายหรือได้ <link=vocab.Support><style=Vocab>สนับสนุน</style></link> พันธมิตรในเกมนี้",
+    "descriptionRaw": "ลดค่าร่ายของการ์ดใบนี้ลง 1 หน่วย สำหรับทุกครั้งที่คุณตกเป็นเป้าหมายหรือได้ สนับสนุน พันธมิตรในเกมนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Arbiter คือบททดสอบสุดท้ายของภูเขา <zwsp>เพราะว่ามีแต่ผู้พิทักษ์เท่านั้นที่จะ<zwsp>มองเห็นทะลุพฤติกรรมของผู้ปีน <zwsp>และมองเข้าไปยังจิตวิญญาณ\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Arbiter of the Peak",
+    "cardCode": "03MT012",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT094-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ <link=keyword.Elusive><sprite name=Elusive><style=Keyword>ว่องไว</style></link> แก่การ์ดใบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ ว่องไว แก่การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"พวกเราจงมองไปที่สรวงสวรรค์ <br>มองไปที่ดวงตะวัน มองไปที่เทพธิดาของ <br>เดี๋ยวก่อน... อะไร...? นั่นมันอะไร...?\"<br>- Solari Priest",
+    "artistName": "Kudos Productions",
+    "name": "Lunari Shadestalker",
+    "cardCode": "03MT094",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT076-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "การ์ดสรวงสวรรค์ของคุณมีค่าร่ายลดลง 1 หน่วย \r\n<link=vocab.Allegiance><style=Vocab>ภักดี</style></link>: <link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
+    "descriptionRaw": "การ์ดสรวงสวรรค์ของคุณมีค่าร่ายลดลง 1 หน่วย \r\nภักดี: อ้อนวอน",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มีหลายสิ่งหลายอย่างที่ต้องเรียนรู้จากคำชี้แนะ<zwsp>ของเหล่าดวงดาว สำหรับเราแล้ว เหล่าดวงดาวคือ<zwsp>สิ่งที่มั่นคงไม่เปลี่ยนแปลง <zwsp>คือเส้นทางให้เราเดิน\"\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mountain Scryer",
+    "cardCode": "03MT076",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: การ์ดใบนี้และพันธมิตรที่ได้รับการสนับสนุนจะไม่สามารถรับความเสียหายหรือตายได้ในรอบนี้ คัดลอกเวทล่าสุดที่ใช้บนการ์ดใบนี้ในรอบนี้<br>แล้วใช้กับพันธมิตรตัวนั้น <style=Parentheses>(ไม่สามารถคัดลอกซ้ำได้)</style>",
+    "descriptionRaw": "สนับสนุน: การ์ดใบนี้และพันธมิตรที่ได้รับการสนับสนุนจะไม่สามารถรับความเสียหายหรือตายได้ในรอบนี้ คัดลอกเวทล่าสุดที่ใช้บนการ์ดใบนี้ในรอบนี้แล้วใช้กับพันธมิตรตัวนั้น (ไม่สามารถคัดลอกซ้ำได้)",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เพราะเหตุใด Taric ถึงควรแสดงความเมตตาให้กับ<br>คนของตนเอง? ก็ เขามาที่ Targon ในฐานะบุรุษ<br>ผู้แตกซ่าน มุ่งหวังที่จะปีนภูเขาเพื่อชดใช้<br>บาปของตนเอง... และก็ประสบความสำเร็จ <br>ไม่มีใครตระหนักรู้ว่าสิ่งของแตกหัก<br>ทั้งหลายทั้งปวงสามารถ<br>กลับมาสวยงามได้อีกครั้ง\"<br>- Mountain Scryer",
+    "artistName": "SIXMOREVODKA",
+    "name": "Taric",
+    "cardCode": "03MT058T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT058T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "มอบ +3|+3 แก่พันธมิตรหนึ่งตัว\r\nสับ <link=card.level1><style=AssociatedCard>Taric</style></link> หนึ่งตัวเข้าเด็คของคุณ",
+    "descriptionRaw": "มอบ +3|+3 แก่พันธมิตรหนึ่งตัว\r\nสับ Taric หนึ่งตัวเข้าเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ของเล็ก ๆ น้อย ๆ จาก Targon\" - Taric",
+    "artistName": "Max Grecke",
+    "name": "Taric's Blessing of Targon",
+    "cardCode": "03MT058T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT029-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 3,
+    "description": "เมื่อคุณฟื้นพลังพันธมิตรที่ได้รับความ<br>เสียหาย มอบ +2|+0 แก่การ์ดใบนี้",
+    "descriptionRaw": "เมื่อคุณฟื้นพลังพันธมิตรที่ได้รับความเสียหาย มอบ +2|+0 แก่การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ตั้งแต่ที่ข้าได้เห็นการเคลื่อนตัวผ่านท้องฟ้า<zwsp>ราตรีครั้งแรก ข้าก็หลงรัก stellacorns เลย <zwsp>ถ้าข้ารู้มาก่อนว่าจากนั้น<zwsp>ข้าจะได้เจออีกหลายตัวก็น่าจะดีนะ!\"\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Star Shepherd",
+    "cardCode": "03MT029",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT092T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "ฮีลและมอบ +1|+0 แก่พันธมิตรหนึ่งตัว\r\nไม่สามารถร่ายได้ในการต่อสู้หรือการตอบโต้เวท",
+    "descriptionRaw": "ฮีลและมอบ +1|+0 แก่พันธมิตรหนึ่งตัว\r\nไม่สามารถร่ายได้ในการต่อสู้หรือการตอบโต้เวท",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ท่านไม่ต้องมองเห็นก็เชื่อได้ <br>ขอเพียงแค่มีความศรัทธาเล็กน้อยก็พอ\" <br>- Tyari the Traveler",
+    "artistName": "Kudos Productions",
+    "name": "Gem",
+    "cardCode": "03MT092T1",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT062-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดสรวงสวรรค์ ให้มอบ +1|+1 และ <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>โล่เวท</style></link> แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "เล่น: หากคุณ ประจักษ์ การ์ดสรวงสวรรค์ ให้มอบ +1|+1 และ โล่เวท แก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...และแล้วประกายไฟก็เหมือนกับเหล่าละอองดาวที่ตกลงบน<zwsp>ผืนดินแล้วบินกลับขึ้นไป พวกมันช่างน่าอัศจรรย์<zwsp>และเมื่อคืนฉันก็เห็นอยู่ดวงหนึ่งซึ่งสวยงามเหลือเกิน<zwsp>และฉันก็รู้สึกหิว <zwsp>และมันก็บินกลับขึ้นไปหาเหล่าหมู่ดาว แล้วก็...\"\n",
+    "artistName": "Dao Le",
+    "name": "Giddy Sparkleologist",
+    "cardCode": "03MT062",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT082-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "มอบ +2|+2 แก่เหล่าพันธมิตรในรอบนี้ \r\n<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: เปิดใช้งาน <link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link> ของพันธมิตร",
+    "descriptionRaw": "มอบ +2|+2 แก่เหล่าพันธมิตรในรอบนี้ \r\nรุ่งอรุณ: เปิดใช้งาน รุ่งอรุณ ของพันธมิตร",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เราจะลุกขึ้นพร้อมกับแสงรุ่งตะวัน! <zwsp>เราจะยาตราไปภายใต้แสงส่องสว่าง!\"<zwsp> - Leona\n",
+    "artistName": "Kudos Productions",
+    "name": "Morning Light",
+    "cardCode": "03MT082",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT047-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ <link=keyword.Elusive><sprite name=Elusive><style=Keyword>ว่องไว</style></link> แก่การ์ดใบนี้และพันธมิตรหนึ่งตัวในรอบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ ว่องไว แก่การ์ดใบนี้และพันธมิตรหนึ่งตัวในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Lunari รอให้ถึงยามค่ำคืนเพื่อเป็นการรับประกัน<zwsp>ความปลอดภัย เส้นทางข้างหน้าดูเหมือนจะปราศจากผู้คน <zwsp>แต่ Cygnus รู้ดีว่ามีค่ายของ Solari อยู่<zwsp>ข้างหน้าไม่ไกล เขาส่งสัญญาณ <zwsp>และผู้อื่นที่เหลือก็เคลื่อนตัวมา<zwsp>ตั้งแถวข้างหลังเขาอย่าเงียบเชียบ\n",
+    "artistName": "JiHun Lee",
+    "name": "Cygnus the Moonstalker",
+    "cardCode": "03MT047",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT038-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ลูกหลานของ Targon คือผู้แรกที่เป็นเพื่อนมังกร<br>เยาว์วัยที่มีความเป็นมิตรมากกว่า <br>บางทีสิ่งมีชีวิตเยาว์วัยเหล่านี้สามารถสัมผัสได้ถึง<br>ความอยากรู้ อยากเห็นอันบริสุทธิ์ของเด็ก ๆ <br>และแทนที่จะสร้างภัยอันตราย <br>ก็เลือกที่จะมอบการคุ้มครองดูแลให้แทน",
+    "artistName": "Aron Elekes",
+    "name": "Whiteflame Protector",
+    "cardCode": "03MT038",
+    "keywords": [
+      "โทสะ"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT081-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ +2|+2 ให้แก่พันธมิตรที่การ์ดใบนี้สนับสนุน หากพันธมิตรมี <link=vocab.Support><style=Vocab>สนับสนุน</style></link> จะให้ +2|+2 แก่พันธมิตรที่สนับสนุนตัวอื่น และดำเนินต่อไปตามพันธมิตรแต่ละตัวที่<br>สนับสนุนอย่างต่อเนื่อง",
+    "descriptionRaw": "สนับสนุน: มอบ +2|+2 ให้แก่พันธมิตรที่การ์ดใบนี้สนับสนุน หากพันธมิตรมี สนับสนุน จะให้ +2|+2 แก่พันธมิตรที่สนับสนุนตัวอื่น และดำเนินต่อไปตามพันธมิตรแต่ละตัวที่สนับสนุนอย่างต่อเนื่อง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "บุคคลผู้หาญกล้าปีน Mount Targon ต่างก็มีเหตุผล<zwsp>ให้ปีนทั้งนั้น บางคนทำไปเพื่อพิสูจน์ตนเอง<zwsp>ในสายตาของหมู่เพื่อนฝูงคนรู้จัก <zwsp>บางคนก็ทำไปเพื่อพิสูจน์บางสิ่งบางอย่างให้ตัวเอง\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mountain Sojourners",
+    "cardCode": "03MT081",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT007-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เหล่า Stellacorn ในวัยเยาว์ก็เหมือนกับลูกสัตว์ต่าง ๆ <zwsp>ที่จะต้องกางปีกบินครั้งแรกอย่างทุลักทุเล <zwsp>ในเรื่องแบบนี้ พวกมันก็เหมือนกับดาวดวงอื่น<zwsp>ในท้องฟ้ายามราตรี <zwsp>เพราะพวกมันพร้อมที่จะตกลงมา <zwsp>แต่โชคยังดีที่เราอยู่ที่นี่พร้อมรอรับพวกมัน <zwsp>และเมื่อพวกมันพร้อมแล้ว <zwsp>ก็คืนพวกมันกลับสู่รัง\"<br> - Lidari, Keeper of the Stars\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Fledgling Stellacorn",
+    "cardCode": "03MT007",
+    "keywords": [
+      "ดูดเลือด",
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT026-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: สร้างการ์ด <link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link> ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ\r\nมันมักจะเป็นรุ่งสางสำหรับเราเสมอ",
+    "descriptionRaw": "รุ่งอรุณ: สร้างการ์ด รุ่งอรุณ ที่ไม่ใช่แชมเปี้ยนแบบสุ่มในมือหนึ่งใบ\r\nมันมักจะเป็นรุ่งสางสำหรับเราเสมอ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Ra-Horak เจ้าจงศรัทธา <zwsp>และแสงของเราจะไม่มีวันหรี่ลง!\"\n",
+    "artistName": "JiHun Lee",
+    "name": "Rahvun, Daylight's Spear",
+    "cardCode": "03MT026",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "จั่วมังกรที่ต่างกัน 2 ใบ หรือ มอบ +1|+1 แก่พันธมิตรที่เป็นมังกร",
+    "descriptionRaw": "จั่วมังกรที่ต่างกัน 2 ใบ หรือ มอบ +1|+1 แก่พันธมิตรที่เป็นมังกร",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"เสียงร้องของพวกมันฟังเหมือนเสียงแมวแหบ ๆ <zwsp>หากท่านได้ยินเสียงนั้นเมื่อไหร่ จงหันหลัง<zwsp>และหาที่ป้องกันที่ใกล้ที่สุด <zwsp>ได้ยินมั้ย? เพราะที่ที่มีไข่มังกรอยู่ <zwsp>ก็จะมีมังกรอยู่ไงล่ะ\" <zwsp>- คนเก็บของป่าชาว Targon\n",
+    "artistName": "Kudos Productions",
+    "name": "Dragon's Clutch",
+    "cardCode": "03MT003",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT088-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: มอบ +1|+1 แก่การ์ดใบนี้ในรอบนี้",
+    "descriptionRaw": "รุ่งอรุณ: มอบ +1|+1 แก่การ์ดใบนี้ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เมื่อแสงตะวันให้ความอบอุ่นแก่เขา <zwsp>เขาก็ยืนมองไปที่คุกของพวกนอกรีต <zwsp>ไม่สนใจต่อคำขอร้องอ้อนวอนอันแผ่วเบาที่ <zwsp>เปลี่ยนแปลงเป็นความเงียบงันอันขมขื่นอย่างรวดเร็ว\n",
+    "artistName": "Wild Blue Studio",
+    "name": "Solari Soldier",
+    "cardCode": "03MT088",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT089-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: มอบ +2|+0 แก่การ์ดใบนี้",
+    "descriptionRaw": "พลบค่ำ: มอบ +2|+0 แก่การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ผู้พิทักษ์อันปราศจากกิเลสตัณหา สัมผัสอันนุ่มนวล<zwsp>ของจันทร์เพ็ญจะฟื้นความแข็งแกร่งให้แก่ท่าน <zwsp>จงตื่นขึ้นและปกป้องพวกเราจากผู้ที่บังอาจ<zwsp>บุกรุกสถานที่ศักดิ์สิทธิ์แห่งนี้\" <zwsp>- จารึกของ Crescent Guardian\n",
+    "artistName": "Aron Elekes",
+    "name": "Crescent Guardian",
+    "cardCode": "03MT089",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT027-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "มอบ +1|+2 และ <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link> แก่พันธมิตรหนึ่งตัว\r\n<link=keyword.Daybreak><style=Keyword>รุ่งอรุณ</style></link>: จั่ว <link=card.me><style=AssociatedCard>Zenith Blade</style></link> หนึ่งใบ",
+    "descriptionRaw": "มอบ +1|+2 และ ทะลวง แก่พันธมิตรหนึ่งตัว\r\nรุ่งอรุณ: จั่ว Zenith Blade หนึ่งใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ให้สุริยันมอบพลังให้แก่เจ้า!\" <zwsp>- Solari Priest\n",
+    "artistName": "Kudos Productions",
+    "name": "Zenith Blade",
+    "cardCode": "03MT027",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT084-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link> ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย<br>7 หน่วยขึ้นไป แล้วฟื้นพลัง 5 หน่วย<br>แก่พันธมิตรหนึ่งตัวหรือเน็กซัสของคุณ",
+    "descriptionRaw": "อ้อนวอน ขอการ์ดสรวงสวรรค์ที่มีค่าร่าย7 หน่วยขึ้นไป แล้วฟื้นพลัง 5 หน่วยแก่พันธมิตรหนึ่งตัวหรือเน็กซัสของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มองดูเหล่าดวงดาวสิ <br>ถ้าเจ้าโชคดี ข้าจะมองกลับไป\" <br>- Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "Starshaping",
+    "cardCode": "03MT084",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT016-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"แหม Stomper ตัวใหญ่ไม่กล้าเดินผ่าน<zwsp>ประตูมิติเล็ก ๆ เหรอ? อะ ไม่เป็นไร <zwsp>เพราะว่าเรา ฮ่าฮ่าฮ่า! ล้อเล่นน่ะ เข้าไปซะ!\" <zwsp>- Zoe\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Startled Stomper",
+    "cardCode": "03MT016",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT035-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ +2|+1 แก่พันธมิตรหนึ่งตัวในรอบนี้\r\n<link=keyword.Nightfall><style=Keyword>พลบค่ำ</style></link>: จั่วการ์ด 1 ใบ",
+    "descriptionRaw": "มอบ +2|+1 แก่พันธมิตรหนึ่งตัวในรอบนี้\r\nพลบค่ำ: จั่วการ์ด 1 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ภายใต้ราตรีปกคลุม <br>แสงจันทร์นวลเฝ้าแหงนแลดู\" <br>- Diana",
+    "artistName": "Kudos Productions",
+    "name": "Pale Cascade",
+    "cardCode": "03MT035",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "จั่วมังกรที่ต่างกัน 2 ใบ",
+    "descriptionRaw": "จั่วมังกรที่ต่างกัน 2 ใบ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dragon Egg (Screeching Dragon, Draco Murmurationis)<zwsp>\nหมายเหตุ: เปลือกนอกอ่อนลงจากการลอกคราบ<zwsp>ครั้งสุดท้าย การเคลื่อนไหวด้านในเพิ่มขึ้น <zwsp>เหมือนจะมีรอยแตกร้าวที่ผิวชั้นนอกล่ะ\n<zwsp>บันทึกแบบคร่าว: ไข่กำลังฟัก!\n<zwsp>- Anden Mayne นักวิจัย",
+    "artistName": "Kudos Productions",
+    "name": "Hatched Egg",
+    "cardCode": "03MT003T1",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT003T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "มอบ +1|+1 แก่พันธมิตรที่เป็นมังกร",
+    "descriptionRaw": "มอบ +1|+1 แก่พันธมิตรที่เป็นมังกร",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dragon Egg (Screeching Dragon, Draco Murmurationis)<zwsp>\nหมายเหตุ: เปลือกนอกอ่อนลงจากการลอกคราบ<zwsp>ครั้งสุดท้าย การเคลื่อนไหวด้านในเพิ่มขึ้น <zwsp>เหมือนจะมีรอยแตกร้าวที่ผิวชั้นนอกล่ะ\n<zwsp>บันทึกแบบคร่าว: ไข่กำลังฟัก!\n<zwsp>- Anden Mayne นักวิจัย",
+    "artistName": "Kudos Productions",
+    "name": "Crushed Egg",
+    "cardCode": "03MT003T2",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT036-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "มอบ +3|+3 แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "มอบ +3|+3 แก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ของเล็ก ๆ น้อย ๆ จาก Targon\" - Taric",
+    "artistName": "Max Grecke",
+    "name": "Blessing of Targon",
+    "cardCode": "03MT036",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03MT039-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ในอวกาศ ไม่มีใครได้ยิน<zwsp>เสียงคุณร้องเรียกหาเจ้าขนปุย\n",
+    "artistName": "Dao Le",
+    "name": "Porofly",
+    "cardCode": "03MT039",
+    "keywords": [
+      "โล่เวท"
+    ],
+    "keywordRefs": [
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "โปโร",
+    "subtypes": [
+      "โปโร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO017-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ +2|+1 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "descriptionRaw": "สนับสนุน: มอบ +2|+1 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Pix นี่เจ๋งไปเลย ตัวก็เล็กแล้วก็ใจเย็น<zwsp>แถมยังมีน้ำใจอีกด้วย\n<zwsp>เพลงที่เขาชอบที่สุดก็คือตัวพอสซัม <zwsp>แล้วก็ครางเสียงแบบ... <zwsp>ฮืมฮืมฮืมฮืมฮืมฮืมฮืมธรอสซัม!\" <zwsp>- Lulu\n",
+    "artistName": "Dao Le",
+    "name": "Pix!",
+    "cardCode": "03IO017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO008-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "แปลงผู้ติดตามหนึ่งตัวเป็น 1|1 <link=card.summon><style=AssociatedCard>Squirrel</style></link> และ <link=vocab.Silence><style=Vocab>ลบล้างพลัง</style></link> ในรอบนี้",
+    "descriptionRaw": "แปลงผู้ติดตามหนึ่งตัวเป็น 1|1 Squirrel และ ลบล้างพลัง ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Lulu นักเวท Yordle จะช่วยเหลือเพื่อนของตนเองและเสกศัตรูให้เป็นกระรอกด้วย<br>เวทมนตร์ที่เป็นเอกลักษณ์เฉพาะตัว",
+    "artistName": "Kudos Productions",
+    "name": "Whimsy!",
+    "cardCode": "03IO008",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO008T1-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "แสงเฟย์อัดเขาลงไปกองบนพื้น! หูอันเฉียบคม<zwsp>ก็ได้ยินเสียงร้องลูกคอที่ค่อย ๆ ลดเสียงลง<zwsp>กลายเป็นเสียงหัวเราะ <zwsp>และเขาก็มองลงไปเห็นอุ้งเท้าที่เต็มไปด้วยขน <zwsp>ติดอยู่กับแขนที่เต็มไปด้วยขน...\n",
+    "artistName": "Dao Le",
+    "name": "Squirrel",
+    "cardCode": "03IO008T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO001-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "เมื่อการ์ดใบนี้ได้รับการ <link=vocab.Support><style=Vocab>สนับสนุน</style></link> มอบ +2|+0 แก่การ์ดใบนี้",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ได้รับการ สนับสนุน มอบ +2|+0 แก่การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ทุกคนอยากจะมีภูติประจำกาย <zwsp>แต่ไม่มีใครพร้อมที่จะรับผิดชอบ <zwsp>เราต้องพาพวกมันออกไปเดินเล่น <zwsp>จัดเตรียมอาหารที่มีคุณค่าทางโภชนาการ<zwsp>สมดุลให้กิน... ฝึกให้อยู่ในบ้าน <zwsp>มีเรื่องต้องทำสารพัดอย่าง\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Flower Child",
+    "cardCode": "03IO001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO019-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "เลือกพันธมิตรหนึ่งตัว <link=keyword.Recall><style=Keyword>เรียกกลับ</style></link> ยูนิตอื่นทั้งหมด",
+    "descriptionRaw": "เลือกพันธมิตรหนึ่งตัว เรียกกลับ ยูนิตอื่นทั้งหมด",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ตัวข้านั้นเดินบนเส้นทางของข้า<br>แต่เพียงผู้เดียว\"<br>- Solitary Monk\n",
+    "artistName": "Kudos Productions",
+    "name": "Singular Will",
+    "cardCode": "03IO019",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T1",
+      "03IO002T5",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: พันธมิตรที่การ์ดใบนี้สนับสนุน<br>จะเติบโตได้ถึง 4|4 ในรอบนี้",
+    "descriptionRaw": "สนับสนุน: พันธมิตรที่การ์ดใบนี้สนับสนุนจะเติบโตได้ถึง 4|4 ในรอบนี้",
+    "levelupDescription": "พันธมิตรได้รับการ<link=vocab.Support><style=Vocab>สนับสนุน</style></link><br>3 ครั้งขึ้นไป<style=Variable></style>",
+    "levelupDescriptionRaw": "พันธมิตรได้รับการสนับสนุน3 ครั้งขึ้นไป",
+    "flavorText": "\"ไม่ต้องห่วงหรอกนะ Pix! เราจะออกจาก Glade ให้ได้ <zwsp>แล้วเราก็จะ Adoribus มันทุกอย่างเลย! <zwsp>พร้อมยัง?!\"\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Lulu",
+    "cardCode": "03IO002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T4-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>ให้กับพันธมิตรหนึ่งตัว หรือ<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link>ให้กับศัตรูหนึ่งตัวในรอบนี้\r\nไม่สามารถร่ายได้ในการต่อสู้หรือการตอบโต้เวท",
+    "descriptionRaw": "มอบบาเรียให้กับพันธมิตรหนึ่งตัว หรือเปราะบางให้กับศัตรูหนึ่งตัวในรอบนี้\r\nไม่สามารถร่ายได้ในการต่อสู้หรือการตอบโต้เวท",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Pix ปกป้อง... หรือ Pix โจมตี...? ",
+    "artistName": "Kudos Productions",
+    "name": "Help, Pix!",
+    "cardCode": "03IO002T4",
+    "keywords": [
+      "ฉับพลัน",
+      "ชั่วคราว"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1",
+      "03IO002",
+      "03IO002T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T5-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "แปลงผู้ติดตามหนึ่งตัวเป็น 1|1 <link=card.summon><style=AssociatedCard>Squirrel</style></link> และ <link=vocab.Silence><style=Vocab>ลบล้างพลัง</style></link> ในรอบนี้ สับ <link=card.level1><style=AssociatedCard>Lulu</style></link> หนึ่งตัวเข้าเด็คของคุณ",
+    "descriptionRaw": "แปลงผู้ติดตามหนึ่งตัวเป็น 1|1 Squirrel และ ลบล้างพลัง ในรอบนี้ สับ Lulu หนึ่งตัวเข้าเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Adoribus!\" - Lulu",
+    "artistName": "Kudos Productions",
+    "name": "Lulu's Whimsy!",
+    "cardCode": "03IO002T5",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T5",
+      "03IO002",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO002T1-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: สร้าง <link=card.create><style=AssociatedCard>Help, Pix!</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> หนึ่งใบในมือ\r\n<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: พันธมิตรที่การ์ดใบนี้สนับสนุน<br>จะเติบโตได้ถึง 5|5 ในรอบนี้",
+    "descriptionRaw": "เริ่มรอบ: สร้าง Help, Pix! ชั่วคราว หนึ่งใบในมือ\r\nสนับสนุน: พันธมิตรที่การ์ดใบนี้สนับสนุนจะเติบโตได้ถึง 5|5 ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "โอ้วว! ดูสิ Pix! <zwsp>ที่นี่มันเป็นโลกที่ต่างออกไปทั้งใบเลย! <zwsp>เรามาแต่งแต้มมันไปด้วยสีสันเยอะ ๆ กันเถอะ!\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Lulu",
+    "cardCode": "03IO002T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO011-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Strike><style=Vocab>จู่โจม</style></link>: เพิ่มพลังโจมตีของการ์ดใบนี้เป็นสองเท่า",
+    "descriptionRaw": "จู่โจม: เพิ่มพลังโจมตีของการ์ดใบนี้เป็นสองเท่า",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ความลับของเขาคือ<zwsp>การดื่มเชคผงลูกโอ๊กวันละ 4 ครั้ง\n",
+    "artistName": "Dao Le",
+    "name": "Swole Squirrel",
+    "cardCode": "03IO011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO009-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "พลังงาน: 104 กิโลจูล (25 กิโลแคลอรี่), <br>คาร์โบไฮเดรต: 5.88 กรัม, <br>น้ำตาล: 3.53 กรัม, ใยอาหาร: 3 กรัม, <br>ไขมัน: 0.18 กรัม, โปรตีน: 0.98 กรัม, <br>น้ำ: 92 กรัม...",
+    "artistName": "Dao Le",
+    "name": "Tasty Faefolk",
+    "cardCode": "03IO009",
+    "keywords": [
+      "ดูดเลือด"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO003-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: มอบ <link=keyword.Elusive><sprite name=Elusive><style=Keyword>ว่องไว</style></link> แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "เล่น: มอบ ว่องไว แก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ชู่! ทางนี้! เราต้องหักเลี้ยวซ้ายหลังจากผ่าน<zwsp>บ้านต้นไม้เดินได้ จากนั้นเดินตรงไป<zwsp>ผ่านดอกไม้พูดได้ Lu ฟังอยู่หรือเปล่าเนี่ย? <zwsp>Lu? Lu! LULU! อย่า ให้ อาหาร พวกมัน อย่าทำแบบนั้น\"\n",
+    "artistName": "Dao Le",
+    "name": "Fae Guide",
+    "cardCode": "03IO003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO010-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>โจมตีก่อน</style></link> และ +1|+0 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "descriptionRaw": "สนับสนุน: มอบ โจมตีก่อน และ +1|+0 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Sir Ribery Montague ออกจากบ้านด้วยความหวังว่า<zwsp>จะทำภารกิจอันยิ่งใหญ่ให้สำเร็จ <zwsp>หรือไม่ก็สร้างบุญคุณให้กับตระกูลที่มีชื่อเสียง <zwsp>แต่โชคชะตาก็นำพาเขาเข้าไปยัง<zwsp>ป่า Bandlewood อันซ่อนเร้น ที่ Bri ผู้เยาว์วัย<zwsp>แปลงร่าง Sir Ribery ให้กลายเป็นกบ แล้วก็ดึงเขา<zwsp>ออกจากการผจญภัยของเธอเอง <zwsp>โธ่เอ๋ย Rib ผู้น่าสงสาร!\n",
+    "artistName": "Dao Le",
+    "name": "Young Witch",
+    "cardCode": "03IO010",
+    "keywords": [
+      "ว่องไว"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03IO018-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "เมื่อการ์ดใบนี้ได้รับการ <link=vocab.Support><style=Vocab>สนับสนุน</style></link> มอบ +0|+3 แก่การ์ดใบนี้ในรอบนี้ \r\n<link=vocab.Support><style=Vocab>สนับสนุน</style></link>: มอบ +3|+0 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ได้รับการ สนับสนุน มอบ +0|+3 แก่การ์ดใบนี้ในรอบนี้ \r\nสนับสนุน: มอบ +3|+0 แก่พันธมิตรที่การ์ดใบนี้สนับสนุนในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Faefolk ตัวสีม่วงเป็นสิ่งมีชีวิตเล็ก ๆ <zwsp>ที่น่ารัก <zwsp>และทุกคนที่ได้ประสบพบเจอก็เอ็นดู <zwsp>แต่ก็นะ เกือบทุกคนน่าจะถูกต้องกว่า\n",
+    "artistName": "Dao Le",
+    "name": "Fuzzy Caretaker",
+    "cardCode": "03IO018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03DE006-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "สิ่งมีชีวิตทุกอย่างก็จะปกป้องลูกของตนเอง<zwsp>อย่างดุเดือดเป็นปกติอยู่แล้ว<zwsp>แต่มีเพียงสิ่งมีชีวิตไม่กี่ชนิดเท่านั้นที่พร้อมรับมือ<zwsp>กับภัยคุกคามดังเช่นมังกร\n",
+    "artistName": "SIXMOREVODKA",
+    "name": "Screeching Dragon",
+    "cardCode": "03DE006",
+    "keywords": [
+      "ผู้ท้าชิง",
+      "โทสะ"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "มังกร",
+    "subtypes": [
+      "มังกร"
+    ],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01DE016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03DE012-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "เมื่อคุณอัญเชิญทหารชั้นยอด ค่าร่ายของการ์ดใบนี้จะลดลง 1 หน่วย\r\nอัญเชิญ <link=card.summon><style=AssociatedCard>Dauntless Vanguard</style></link> ตามจำนวนพันธมิตรที่ตายในรอบนี้",
+    "descriptionRaw": "เมื่อคุณอัญเชิญทหารชั้นยอด ค่าร่ายของการ์ดใบนี้จะลดลง 1 หน่วย\r\nอัญเชิญ Dauntless Vanguard ตามจำนวนพันธมิตรที่ตายในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"หากทหารคนหนึ่งล้ม ทหารคนอื่นก็จะ<zwsp>ต้องเข้ามารับหน้าที่แทน ธงชัยของเรา<zwsp>จะต้องไม่มีวันล้มอย่างเด็ดขาด\"<zwsp> - Garen\n",
+    "artistName": "Kudos Productions",
+    "name": "For The Fallen",
+    "cardCode": "03DE012",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR007-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ +3|+0 ให้การ์ดใบนี้",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณ ประจักษ์ การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ +3|+0 ให้การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "หน่วยสอดแนมนั่งคุกเข่าลงข้าง ๆ ขอบผ้าขาดวิ่น<zwsp>ที่ซ่อนตัวอยู่ในหิมะ ในที่ซึ่งมีกลิ่นของ<zwsp>หยาดเหงื่อมนุษย์ และควันไฟล่องลอยอยู่ในอากาศ<zwsp>อันหนาวเย็น\nเขาก็ดึงเศษผ้าชิ้นนั้นออกมา <zwsp>และมองไปที่ขอบด้านหนึ่ง ก็พบว่า<zwsp>มีเครื่องรางห้อยอยู่ ซึ่งไร้แววเปล่งประกาย<zwsp>อยู่ใต้ท้องฟ้าเมฆครึ้ม Avarosan ",
+    "artistName": "Wild Blue Studio",
+    "name": "Troll Scavenger",
+    "cardCode": "03FR007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR004-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "เลือกยูนิตในมือของคุณเพื่อเผย ฟื้นพลังเน็กซัสตามพลังโจมตีของยูนิต\r\n<link=keyword.Enlightened><style=Keyword>รู้แจ้ง</style></link>: ลดค่าร่ายของยูนิตเหลือ 0 หน่วย",
+    "descriptionRaw": "เลือกยูนิตในมือของคุณเพื่อเผย ฟื้นพลังเน็กซัสตามพลังโจมตีของยูนิต\r\nรู้แจ้ง: ลดค่าร่ายของยูนิตเหลือ 0 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"โทรลที่โตเต็มวัยจะมีหนังหนากระดูกแน่น <br>ฟื้นตัวได้อย่างรวดเร็ว ทำให้เป็นศัตรู<br>ที่อึดถึกอย่างมหันต์ ต้องรีบจัดการอย่างเร็ว <br>จะได้ลดโอกาสที่พวกมันจะฟื้นตัวขึ้นมาสู้<br>ในวันต่อ ๆ ไป\" - Avarosan Marksman",
+    "artistName": "Kudos Productions",
+    "name": "Revitalizing Roar",
+    "cardCode": "03FR004",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR017-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link> และ <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>ฟื้นฟู</style></link><br>แก่พันธมิตรหนึ่งตัว",
+    "descriptionRaw": "เล่น: หากคุณ ประจักษ์ การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ ทะลวง และ ฟื้นฟูแก่พันธมิตรหนึ่งตัว",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "กล่าวกันว่ามีโทรลเพียงไม่กี่ตัวเท่านั้น<br>ที่ได้รับการสอนให้สวดมนต์อ้อนวอน Old Ones <br>และในบรรดาตัวที่รู้บทสวดต่างก็เรียกขานนามของ<br>ต้นตระกูลของผองตน เพื่อมอบความแข็งแกร่ง<br>อันแสนวิเศษให้แก่เหล่าเพื่อนผองน้องพี่ของโทรล",
+    "artistName": "Kudos Productions",
+    "name": "Augur of the Old Ones",
+    "cardCode": "03FR017",
+    "keywords": [
+      "ทะลวง",
+      "ฟื้นฟู"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 4,
+    "cost": 5,
+    "health": 6,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง <link=card.create><style=AssociatedCard>Ice Pillar</style></link> หนึ่งใบในมือ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง Ice Pillar หนึ่งใบในมือ",
+    "levelupDescription": "การ์ดใบนี้เห็นคุณเล่น <link=card.create><style=AssociatedCard>Ice Pillar</style></link>",
+    "levelupDescriptionRaw": "การ์ดใบนี้เห็นคุณเล่น Ice Pillar",
+    "flavorText": "คบไฟก็ได้ถูกจุดขึ้นมาทีละคบ ส่องสว่างไปตามเส้นทาง <br>สาดแสงเฉียบคมไปทั่วทิศ มีโทรลอยู่หลายสิบตัว <br>หรืออาจจะหลายร้อยตัว <br>แต่ละตัวก็มีขนาดใหญ่โตกำยำอันตรายร้ายกาจ <br>\"จะถามอีกครั้งนะ\" Trundle แสยะยิ้ม แกว่ง Boneshiver <br>ไปพาดอยู่บนบ่าข้างหนึ่ง \"พวกเจ้าจะยอมแพ้ หรือจะให้ข้า<br>ผ่ากะโหลกของเจ้าออกเป็นเสี่ยง ๆ\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Trundle",
+    "cardCode": "03FR006",
+    "keywords": [
+      "ฟื้นฟู"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แชมเปี้ยน",
+    "rarityRef": "Champion",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T2-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 5,
+    "health": 7,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง <link=card.create><style=AssociatedCard>Ice Pillar</style></link> หนึ่งใบในมือ\r\n<link=vocab.Attack><style=Vocab>สั่งโจมตี</style></link>: มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดที่มีค่าร่าย 8 หน่วยขึ้นไปที่คุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง Ice Pillar หนึ่งใบในมือ\r\nสั่งโจมตี: มอบ +1|+0 แก่การ์ดใบนี้ตามจำนวนการ์ดที่มีค่าร่าย 8 หน่วยขึ้นไปที่คุณ ประจักษ์",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Trundle คือเจ้าแห่งโทรลป่าเถื่อนผู้ที่ปกครอง Freljord ด้วยกองทัพโทรลที่ทั้งดุดันและกล้าแกร่ง",
+    "artistName": "SIXMOREVODKA",
+    "name": "Trundle",
+    "cardCode": "03FR006T2",
+    "keywords": [
+      "ทะลวง",
+      "ฟื้นฟู"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T3-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "มอบ -3|-0 แก่ยูนิตทั้งหมดในรอบนี้ สร้างความเสียหาย 3 หน่วยแก่ยูนิตทั้งหมด\r\nสับ <link=card.level1><style=AssociatedCard>Trundle</style></link> หนึ่งตัวเข้าเด็คของคุณ",
+    "descriptionRaw": "มอบ -3|-0 แก่ยูนิตทั้งหมดในรอบนี้ สร้างความเสียหาย 3 หน่วยแก่ยูนิตทั้งหมด\r\nสับ Trundle หนึ่งตัวเข้าเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงฝังพวกมันทั้งเป็น!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Trundle's Icequake",
+    "cardCode": "03FR006T3",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "แชมเปี้ยน",
+    "type": "เวท",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR006T1-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: ฟื้นฟูมานา 8 หน่วย\r\n<link=vocab.Play><style=Vocab>เล่น</style></link> และ <link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: ทำให้ศัตรูที่ <link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link> <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>เปราะบาง</style></link> ในรอบนี้",
+    "descriptionRaw": "เล่น: ฟื้นฟูมานา 8 หน่วย\r\nเล่น และ เริ่มรอบ: ทำให้ศัตรูที่ แข็งแกร่งที่สุด เปราะบาง ในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ฮ่า ๆ! คงคาดไม่ถึงสินะ!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Ice Pillar",
+    "cardCode": "03FR006T1",
+    "keywords": [
+      "เปราะบาง"
+    ],
+    "keywordRefs": [
+      "Vulnerable"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "ไม่มี",
+    "rarityRef": "None",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR008-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "มอบ -3|-0 แก่ยูนิตทั้งหมดในรอบนี้ สร้างความเสียหาย 3 หน่วยแก่ยูนิตทั้งหมด",
+    "descriptionRaw": "มอบ -3|-0 แก่ยูนิตทั้งหมดในรอบนี้ สร้างความเสียหาย 3 หน่วยแก่ยูนิตทั้งหมด",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"จงฝังพวกมันทั้งเป็น!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Icequake ",
+    "cardCode": "03FR008",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR002-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "มอบ +0|+2 แก่พันธมิตรหนึ่งตัว เพื่อมอบ -2|-0 แก่ศัตรูหนึ่งตัวในรอบนี้",
+    "descriptionRaw": "มอบ +0|+2 แก่พันธมิตรหนึ่งตัว เพื่อมอบ -2|-0 แก่ศัตรูหนึ่งตัวในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "บทสวดมนต์ของโทรลมีความแตกต่างกันอย่างมาก <zwsp>แตกต่างกันไปตามแต่ละกลุ่ม และหลาย ๆ ครั้ง<zwsp>ก็มักฟังไม่รู้เรื่อง แต่อย่างไรก็ตาม <zwsp>ไม่ว่าจะเป็นบทสวดไหน เมื่อได้พบเห็น<zwsp>ก็จะรู้สึกหวาดผวา \n",
+    "artistName": "Kudos Productions",
+    "name": "Troll Chant",
+    "cardCode": "03FR002",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR011-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 7,
+    "cost": 8,
+    "health": 7,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "พวกเขาสัมผัสได้ก่อนที่จะได้ยินเสียงอีก <zwsp>เพราะพื้นดินใต้เท้าของพวกเขาสั่นไหว <zwsp>และอีกไม่นานก็ได้ยินเสียงที่เหมือนดั่ง<zwsp>สายฟ้าฟาดใกล้เข้ามาเรื่อย ๆ\n<zwsp>Meyrick เงยหน้า ตาเบิกกว้าง หูรับฟัง\n<zwsp>\"อะไรน่ะ?\" Anya กระซิบขึ้นมาอย่างเร่งรีบ <zwsp>จับคันธนูไว้มั่น แต่ Meyrick ก็วิ่งเผ่น<zwsp>กลับไปยังเส้นทางเสียแล้ว \n<zwsp>\"วิ่ง!\"",
+    "artistName": "MAR Studio",
+    "name": "Uzgar the Ancient",
+    "cardCode": "03FR011",
+    "keywords": [
+      "ผู้ท้าชิง",
+      "ฟื้นฟู"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR005-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>ฟื้นฟู</style></link> ให้การ์ดใบนี้",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณ ประจักษ์ การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป มอบ ฟื้นฟู ให้การ์ดใบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "เมื่อพวกเขามาอยู่ท่ามกลาง<zwsp>กระท่อม Avarosan แล้ว ก็เรียก Hgar ออกมา <zwsp>เธอหัวเราะไปพร้อมกับยก Snowsunder ขึ้น <zwsp>เตรียมพร้อมที่จะใช้อาวุธชิ้นนั้นฟาดฟันบ้านไม้<br>ให้กลายเป็นเศษเสี้ยน\n",
+    "artistName": "MAR Studio",
+    "name": "Troll Ravager",
+    "cardCode": "03FR005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR018-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "จากการ์ด 4 ใบบนสุดบนเด็คของคุณ จั่วเยติ, โปโรและ เอลนูคอย่างละหนึ่งใบ และสับการ์ดที่เหลือเข้าเด็คของคุณ",
+    "descriptionRaw": "จากการ์ด 4 ใบบนสุดบนเด็คของคุณ จั่วเยติ, โปโรและ เอลนูคอย่างละหนึ่งใบ และสับการ์ดที่เหลือเข้าเด็คของคุณ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...และจากนั้นเอลนูคขนาดใหญ่มหึมาาาา ก็บินออกมาจากแมกไม้พร้อมกับโปโรตัวจิ๊ดกระจ้อยร่อยอยู่บน<br>หลัง แล้วก็มีเยติผู้เป็นมิตรตามมาเพราะอยากจะเล่นกับเพื่อน ๆ แล้วทุกคนก็วิ่งลงมาจากภูเขาแล้วก็คำรามโฮกกกกกก แล้วก็จากนั้น...\" - Ingvar the Younger",
+    "artistName": "Kudos Productions",
+    "name": "Call the Wild",
+    "cardCode": "03FR018",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03FR010-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: หากคุณ <link=vocab.Behold><style=Vocab>ประจักษ์</style></link> การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ดในรอบนี้",
+    "descriptionRaw": "เริ่มรอบ: หากคุณ ประจักษ์ การ์ดที่มีค่าร่าย 8 หน่วยขึ้นไป ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ดในรอบนี้",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Old Ones จงตื่นขึ้นเถิด<zwsp>\nครองน้ำแข็ง ผ่านภา<zwsp>\nจงตื่นขึ้นเถิด Old Ones จงตื่นขึ้น<zwsp>\nมอบความแข็งแกร่งให้เรา มอบความพินาศให้พวกมัน\"<zwsp>\n- Troll chant",
+    "artistName": "Wild Blue Studio",
+    "name": "Faces of the Old Ones",
+    "cardCode": "03FR010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX038"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX018-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link> ศัตรูหนึ่งตัว \r\nหากคุณมี <link=card.champ1><style=AssociatedCard>Darius</style></link> <link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
+    "descriptionRaw": "สตั้น ศัตรูหนึ่งตัว \r\nหากคุณมี Darius ปลุกระดม",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"ข้าจะจัดการเรื่องนี้ด้วยตัวข้าเอง\" - Darius",
+    "artistName": "Kudos Productions",
+    "name": "Apprehend",
+    "cardCode": "03NX018",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "แรร์",
+    "rarityRef": "Rare",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX017-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 7,
+    "cost": 7,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>เล่น</style></link>: สร้างความเสียหาย 1 หน่วย<br> แก่พันธมิตรหนึ่งตัวและศัตรูหนึ่งตัว 4 ครั้ง",
+    "descriptionRaw": "เล่น: สร้างความเสียหาย 1 หน่วย แก่พันธมิตรหนึ่งตัวและศัตรูหนึ่งตัว 4 ครั้ง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "คนฝึก Basilisk จะไม่ให้อาหารสดแก่สัตว์ร้ายในช่วงวันก่อนหน้าที่จะถึงการต่อสู้<zwsp>เมื่อถึงเวลาที่ปลดปล่อยสัตว์ร้ายเหล่านี้ พวกมันก็จะไม่แยกมิตรหรือศัตรู<zwsp>และก็จะไม่มีอะไรที่มาหยุดยั้งพวกมันได้\n",
+    "artistName": "Kudos Productions",
+    "name": "Basilisk Bloodseeker",
+    "cardCode": "03NX017",
+    "keywords": [
+      "ทะลวง"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ยูนิต",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03NX016-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "สร้างความเสียหาย 1 หน่วย<br>แก่พันธมิตรหนึ่งตัวและแก่ศัตรูหนึ่งตัว 4 ครั้ง",
+    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่พันธมิตรหนึ่งตัวและแก่ศัตรูหนึ่งตัว 4 ครั้ง",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"มันไม่ใช่ความคมของกรงเล็บที่เจ้าจะต้องระวัง แต่มันคือความโหยหิวของสัตว์ร้ายทำให้พวกมัน<br>เติบโตต่างหาก\"<br>- Basilisk trainer",
+    "artistName": "Kudos Productions",
+    "name": "Gouge",
+    "cardCode": "03NX016",
+    "keywords": [
+      "สกิล"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "ความสามารถ",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03PZ017-full.png"
+      }
+    ],
+    "region": "Piltover & Zaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "สร้างความเสียหาย 1 หน่วยแก่ยูนิตหนึ่งตัว สุ่มอัญเชิญผู้ติดตามที่มีค่าร่าย <style=Variable>1</style> หน่วย เมื่อมีการ์ดใบนี้อยู่ในมือ เพิ่มทั้งสองค่าขึ้น<br>1 หน่วยเมื่อเล่นการ์ดที่มีค่าร่าย 3 หน่วย",
+    "descriptionRaw": "สร้างความเสียหาย 1 หน่วยแก่ยูนิตหนึ่งตัว สุ่มอัญเชิญผู้ติดตามที่มีค่าร่าย 1 หน่วย เมื่อมีการ์ดใบนี้อยู่ในมือ เพิ่มทั้งสองค่าขึ้น1 หน่วยเมื่อเล่นการ์ดที่มีค่าร่าย 3 หน่วย",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...และนับ หนึ่ง สอง สาม!!! <zwsp>โอ้ โอ้ ไม่นะ... และนี่ก็คือ<zwsp>ผลลัพธ์ที่คาดไม่ถึงอีกอย่างงั้นหรือ?!\"<zwsp> - Heimerdinger\n",
+    "artistName": "Kudos Productions",
+    "name": "Tri-beam Improbulator",
+    "cardCode": "03PZ017",
+    "keywords": [
+      "ช้า"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "ช้า",
+    "spellSpeedRef": "Slow",
+    "rarity": "อีปิค",
+    "rarityRef": "Epic",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ020"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_11_0/set3/th_th/img/cards/03PZ018-full.png"
+      }
+    ],
+    "region": "Piltover & Zaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "ทิ้งการ์ด 1 ใบแล้วเล่นการ์ดใบนี้\r\nสร้าง <link=card.create><style=AssociatedCard>Daring Poros</style></link> 2 ใบในมือ",
+    "descriptionRaw": "ทิ้งการ์ด 1 ใบแล้วเล่นการ์ดใบนี้\r\nสร้าง Daring Poros 2 ใบในมือ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "ทรงรูปซุ้มประตูโค้งสองทรงโค้งอย่างงดงาม<zwsp>อยู่เหนือฝูงชนที่หลงใหล <zwsp>ทิ้งหมอกอ่อนนุ่มและกลิ่นอันแผ่วบาง<zwsp>ของอาหารอบไปตามทาง\n",
+    "artistName": "Kudos Productions",
+    "name": "Poro Cannon",
+    "cardCode": "03PZ018",
+    "keywords": [
+      "ฉับพลัน"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "ฉับพลัน",
+    "spellSpeedRef": "Burst",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common",
+    "subtype": "[M_T]: ไม่มี",
+    "subtypes": [],
+    "supertype": "",
+    "type": "เวท",
+    "collectible": true,
+    "set": "Set3"
+  }
+]
